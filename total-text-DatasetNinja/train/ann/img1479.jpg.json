@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 856,
+        "width": 565
+    },
+    "objects": [
+        {
+            "id": 77178367,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.976Z",
+            "updatedAt": "2023-10-30T12:42:21.976Z",
+            "tags": [
+                {
+                    "id": 44360003,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HEMISFAIR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.976Z",
+                    "updatedAt": "2023-10-30T12:42:21.976Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        507
+                    ],
+                    [
+                        151,
+                        484
+                    ],
+                    [
+                        203,
+                        471
+                    ],
+                    [
+                        256,
+                        465
+                    ],
+                    [
+                        306,
+                        465
+                    ],
+                    [
+                        307,
+                        503
+                    ],
+                    [
+                        260,
+                        504
+                    ],
+                    [
+                        211,
+                        510
+                    ],
+                    [
+                        161,
+                        522
+                    ],
+                    [
+                        112,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178366,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.975Z",
+            "updatedAt": "2023-10-30T12:42:21.975Z",
+            "tags": [
+                {
+                    "id": 44360002,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.975Z",
+                    "updatedAt": "2023-10-30T12:42:21.975Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        473
+                    ],
+                    [
+                        387,
+                        479
+                    ],
+                    [
+                        415,
+                        486
+                    ],
+                    [
+                        443,
+                        494
+                    ],
+                    [
+                        471,
+                        509
+                    ],
+                    [
+                        457,
+                        540
+                    ],
+                    [
+                        431,
+                        532
+                    ],
+                    [
+                        405,
+                        522
+                    ],
+                    [
+                        379,
+                        514
+                    ],
+                    [
+                        353,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

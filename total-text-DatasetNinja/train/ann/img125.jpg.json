@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1066,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77176153,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.286Z",
+            "updatedAt": "2023-10-30T12:41:26.286Z",
+            "tags": [
+                {
+                    "id": 44357789,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BMW",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.286Z",
+                    "updatedAt": "2023-10-30T12:41:26.286Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        212
+                    ],
+                    [
+                        481,
+                        181
+                    ],
+                    [
+                        650,
+                        217
+                    ],
+                    [
+                        755,
+                        325
+                    ],
+                    [
+                        785,
+                        435
+                    ],
+                    [
+                        677,
+                        434
+                    ],
+                    [
+                        657,
+                        342
+                    ],
+                    [
+                        601,
+                        284
+                    ],
+                    [
+                        495,
+                        249
+                    ],
+                    [
+                        348,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176152,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.286Z",
+            "updatedAt": "2023-10-30T12:41:26.286Z",
+            "tags": [
+                {
+                    "id": 44357788,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BIMMERTODAY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.286Z",
+                    "updatedAt": "2023-10-30T12:41:26.286Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        6
+                    ],
+                    [
+                        49,
+                        7
+                    ],
+                    [
+                        82,
+                        7
+                    ],
+                    [
+                        114,
+                        7
+                    ],
+                    [
+                        148,
+                        6
+                    ],
+                    [
+                        146,
+                        23
+                    ],
+                    [
+                        115,
+                        25
+                    ],
+                    [
+                        82,
+                        24
+                    ],
+                    [
+                        49,
+                        25
+                    ],
+                    [
+                        16,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

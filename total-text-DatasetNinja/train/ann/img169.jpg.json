@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 948,
+        "width": 1360
+    },
+    "objects": [
+        {
+            "id": 77179030,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.827Z",
+            "updatedAt": "2023-10-30T12:43:47.827Z",
+            "tags": [
+                {
+                    "id": 44360666,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DEUTSCHES",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.827Z",
+                    "updatedAt": "2023-10-30T12:43:47.827Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        282
+                    ],
+                    [
+                        678,
+                        247
+                    ],
+                    [
+                        836,
+                        237
+                    ],
+                    [
+                        990,
+                        236
+                    ],
+                    [
+                        1140,
+                        255
+                    ],
+                    [
+                        1135,
+                        321
+                    ],
+                    [
+                        988,
+                        316
+                    ],
+                    [
+                        835,
+                        317
+                    ],
+                    [
+                        687,
+                        331
+                    ],
+                    [
+                        540,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179029,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.826Z",
+            "updatedAt": "2023-10-30T12:43:47.826Z",
+            "tags": [
+                {
+                    "id": 44360665,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "OTHEKENMUSEUM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.826Z",
+                    "updatedAt": "2023-10-30T12:43:47.826Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        381
+                    ],
+                    [
+                        703,
+                        339
+                    ],
+                    [
+                        915,
+                        338
+                    ],
+                    [
+                        1196,
+                        343
+                    ],
+                    [
+                        1326,
+                        372
+                    ],
+                    [
+                        1316,
+                        461
+                    ],
+                    [
+                        1113,
+                        425
+                    ],
+                    [
+                        900,
+                        411
+                    ],
+                    [
+                        700,
+                        424
+                    ],
+                    [
+                        495,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179028,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.826Z",
+            "updatedAt": "2023-10-30T12:43:47.826Z",
+            "tags": [
+                {
+                    "id": 44360664,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "A",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.825Z",
+                    "updatedAt": "2023-10-30T12:43:47.825Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        434
+                    ],
+                    [
+                        373,
+                        431
+                    ],
+                    [
+                        388,
+                        426
+                    ],
+                    [
+                        405,
+                        423
+                    ],
+                    [
+                        421,
+                        424
+                    ],
+                    [
+                        442,
+                        470
+                    ],
+                    [
+                        426,
+                        477
+                    ],
+                    [
+                        406,
+                        484
+                    ],
+                    [
+                        388,
+                        496
+                    ],
+                    [
+                        370,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

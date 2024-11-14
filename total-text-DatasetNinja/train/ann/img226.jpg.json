@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 77179281,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.776Z",
+            "updatedAt": "2023-10-30T12:43:54.776Z",
+            "tags": [
+                {
+                    "id": 44360917,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Nandos",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.776Z",
+                    "updatedAt": "2023-10-30T12:43:54.776Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        156
+                    ],
+                    [
+                        190,
+                        169
+                    ],
+                    [
+                        218,
+                        179
+                    ],
+                    [
+                        248,
+                        166
+                    ],
+                    [
+                        278,
+                        153
+                    ],
+                    [
+                        296,
+                        164
+                    ],
+                    [
+                        257,
+                        195
+                    ],
+                    [
+                        216,
+                        202
+                    ],
+                    [
+                        177,
+                        199
+                    ],
+                    [
+                        139,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

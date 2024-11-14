@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 342
+    },
+    "objects": [
+        {
+            "id": 77180114,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361750,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "OSTERREICHISCHE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.836Z",
+                    "updatedAt": "2023-10-30T12:44:23.836Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        211
+                    ],
+                    [
+                        98,
+                        127
+                    ],
+                    [
+                        168,
+                        105
+                    ],
+                    [
+                        252,
+                        147
+                    ],
+                    [
+                        283,
+                        226
+                    ],
+                    [
+                        257,
+                        232
+                    ],
+                    [
+                        222,
+                        152
+                    ],
+                    [
+                        169,
+                        128
+                    ],
+                    [
+                        111,
+                        155
+                    ],
+                    [
+                        77,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180113,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361749,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOTSCHAFT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.835Z",
+                    "updatedAt": "2023-10-30T12:44:23.835Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        331
+                    ],
+                    [
+                        114,
+                        368
+                    ],
+                    [
+                        163,
+                        389
+                    ],
+                    [
+                        213,
+                        370
+                    ],
+                    [
+                        241,
+                        336
+                    ],
+                    [
+                        259,
+                        354
+                    ],
+                    [
+                        212,
+                        401
+                    ],
+                    [
+                        162,
+                        411
+                    ],
+                    [
+                        113,
+                        403
+                    ],
+                    [
+                        64,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

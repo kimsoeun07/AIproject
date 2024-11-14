@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 370,
+        "width": 740
+    },
+    "objects": [
+        {
+            "id": 77180116,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361752,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GRETNA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.836Z",
+                    "updatedAt": "2023-10-30T12:44:23.836Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        168
+                    ],
+                    [
+                        222,
+                        160
+                    ],
+                    [
+                        268,
+                        152
+                    ],
+                    [
+                        311,
+                        150
+                    ],
+                    [
+                        354,
+                        148
+                    ],
+                    [
+                        370,
+                        193
+                    ],
+                    [
+                        326,
+                        191
+                    ],
+                    [
+                        279,
+                        195
+                    ],
+                    [
+                        234,
+                        203
+                    ],
+                    [
+                        188,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180115,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361751,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GREEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.836Z",
+                    "updatedAt": "2023-10-30T12:44:23.836Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        152
+                    ],
+                    [
+                        415,
+                        156
+                    ],
+                    [
+                        454,
+                        161
+                    ],
+                    [
+                        492,
+                        170
+                    ],
+                    [
+                        529,
+                        179
+                    ],
+                    [
+                        527,
+                        222
+                    ],
+                    [
+                        489,
+                        212
+                    ],
+                    [
+                        451,
+                        204
+                    ],
+                    [
+                        413,
+                        197
+                    ],
+                    [
+                        376,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

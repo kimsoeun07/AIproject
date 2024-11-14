@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77181997,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.963Z",
+            "updatedAt": "2023-10-30T12:46:41.963Z",
+            "tags": [
+                {
+                    "id": 44363278,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LIGHT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.962Z",
+                    "updatedAt": "2023-10-30T12:46:41.962Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        410
+                    ],
+                    [
+                        430,
+                        414
+                    ],
+                    [
+                        509,
+                        417
+                    ],
+                    [
+                        588,
+                        415
+                    ],
+                    [
+                        667,
+                        410
+                    ],
+                    [
+                        667,
+                        513
+                    ],
+                    [
+                        589,
+                        512
+                    ],
+                    [
+                        506,
+                        511
+                    ],
+                    [
+                        427,
+                        511
+                    ],
+                    [
+                        348,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181996,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.961Z",
+            "updatedAt": "2023-10-30T12:46:41.961Z",
+            "tags": [
+                {
+                    "id": 44363277,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CITY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.961Z",
+                    "updatedAt": "2023-10-30T12:46:41.961Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        400
+                    ],
+                    [
+                        120,
+                        401
+                    ],
+                    [
+                        192,
+                        402
+                    ],
+                    [
+                        260,
+                        401
+                    ],
+                    [
+                        332,
+                        400
+                    ],
+                    [
+                        332,
+                        507
+                    ],
+                    [
+                        263,
+                        506
+                    ],
+                    [
+                        192,
+                        505
+                    ],
+                    [
+                        119,
+                        507
+                    ],
+                    [
+                        51,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181995,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.960Z",
+            "updatedAt": "2023-10-30T12:46:41.960Z",
+            "tags": [
+                {
+                    "id": 44363276,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ROKKAKU",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.960Z",
+                    "updatedAt": "2023-10-30T12:46:41.960Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        700,
+                        434
+                    ],
+                    [
+                        826,
+                        437
+                    ],
+                    [
+                        946,
+                        439
+                    ],
+                    [
+                        1071,
+                        440
+                    ],
+                    [
+                        1195,
+                        434
+                    ],
+                    [
+                        1195,
+                        532
+                    ],
+                    [
+                        1072,
+                        530
+                    ],
+                    [
+                        948,
+                        531
+                    ],
+                    [
+                        825,
+                        530
+                    ],
+                    [
+                        700,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

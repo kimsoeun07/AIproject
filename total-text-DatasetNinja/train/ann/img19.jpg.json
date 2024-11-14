@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 77179058,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.835Z",
+            "updatedAt": "2023-10-30T12:43:47.835Z",
+            "tags": [
+                {
+                    "id": 44360694,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Chateau",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.835Z",
+                    "updatedAt": "2023-10-30T12:43:47.835Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        202
+                    ],
+                    [
+                        233,
+                        224
+                    ],
+                    [
+                        314,
+                        260
+                    ],
+                    [
+                        396,
+                        298
+                    ],
+                    [
+                        474,
+                        339
+                    ],
+                    [
+                        456,
+                        382
+                    ],
+                    [
+                        375,
+                        340
+                    ],
+                    [
+                        291,
+                        308
+                    ],
+                    [
+                        206,
+                        281
+                    ],
+                    [
+                        122,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179057,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.835Z",
+            "updatedAt": "2023-10-30T12:43:47.835Z",
+            "tags": [
+                {
+                    "id": 44360693,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Fujisawa",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.834Z",
+                    "updatedAt": "2023-10-30T12:43:47.834Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        342
+                    ],
+                    [
+                        597,
+                        393
+                    ],
+                    [
+                        657,
+                        439
+                    ],
+                    [
+                        721,
+                        520
+                    ],
+                    [
+                        787,
+                        595
+                    ],
+                    [
+                        747,
+                        617
+                    ],
+                    [
+                        680,
+                        549
+                    ],
+                    [
+                        613,
+                        497
+                    ],
+                    [
+                        546,
+                        448
+                    ],
+                    [
+                        477,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

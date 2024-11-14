@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2328,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 77180005,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.815Z",
+            "updatedAt": "2023-10-30T12:44:23.815Z",
+            "tags": [
+                {
+                    "id": 44361641,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GRANVILLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.815Z",
+                    "updatedAt": "2023-10-30T12:44:23.815Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        1290
+                    ],
+                    [
+                        1109,
+                        974
+                    ],
+                    [
+                        1735,
+                        910
+                    ],
+                    [
+                        2359,
+                        1078
+                    ],
+                    [
+                        2989,
+                        1510
+                    ],
+                    [
+                        2795,
+                        1762
+                    ],
+                    [
+                        2263,
+                        1390
+                    ],
+                    [
+                        1745,
+                        1248
+                    ],
+                    [
+                        1207,
+                        1314
+                    ],
+                    [
+                        687,
+                        1588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180004,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.814Z",
+            "updatedAt": "2023-10-30T12:44:23.814Z",
+            "tags": [
+                {
+                    "id": 44361640,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ISLAND",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.814Z",
+                    "updatedAt": "2023-10-30T12:44:23.814Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1008,
+                        1409
+                    ],
+                    [
+                        1395,
+                        1428
+                    ],
+                    [
+                        1789,
+                        1456
+                    ],
+                    [
+                        2177,
+                        1488
+                    ],
+                    [
+                        2573,
+                        1514
+                    ],
+                    [
+                        2596,
+                        1797
+                    ],
+                    [
+                        2205,
+                        1780
+                    ],
+                    [
+                        1805,
+                        1756
+                    ],
+                    [
+                        1411,
+                        1737
+                    ],
+                    [
+                        1021,
+                        1705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180003,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.814Z",
+            "updatedAt": "2023-10-30T12:44:23.814Z",
+            "tags": [
+                {
+                    "id": 44361639,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "anada",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.813Z",
+                    "updatedAt": "2023-10-30T12:44:23.813Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        1801
+                    ],
+                    [
+                        178,
+                        1806
+                    ],
+                    [
+                        329,
+                        1807
+                    ],
+                    [
+                        482,
+                        1809
+                    ],
+                    [
+                        633,
+                        1838
+                    ],
+                    [
+                        674,
+                        2048
+                    ],
+                    [
+                        507,
+                        2037
+                    ],
+                    [
+                        342,
+                        2031
+                    ],
+                    [
+                        175,
+                        2022
+                    ],
+                    [
+                        8,
+                        2020
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

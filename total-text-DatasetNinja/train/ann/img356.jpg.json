@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 476,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 77180246,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.923Z",
+            "updatedAt": "2023-10-30T12:44:31.923Z",
+            "tags": [
+                {
+                    "id": 44361882,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TAMAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.923Z",
+                    "updatedAt": "2023-10-30T12:44:31.923Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        192
+                    ],
+                    [
+                        68,
+                        183
+                    ],
+                    [
+                        128,
+                        176
+                    ],
+                    [
+                        192,
+                        170
+                    ],
+                    [
+                        254,
+                        163
+                    ],
+                    [
+                        256,
+                        222
+                    ],
+                    [
+                        198,
+                        223
+                    ],
+                    [
+                        139,
+                        229
+                    ],
+                    [
+                        77,
+                        240
+                    ],
+                    [
+                        20,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180245,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.922Z",
+            "updatedAt": "2023-10-30T12:44:31.922Z",
+            "tags": [
+                {
+                    "id": 44361881,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KOTA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.922Z",
+                    "updatedAt": "2023-10-30T12:44:31.922Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        165
+                    ],
+                    [
+                        309,
+                        167
+                    ],
+                    [
+                        347,
+                        167
+                    ],
+                    [
+                        384,
+                        170
+                    ],
+                    [
+                        420,
+                        173
+                    ],
+                    [
+                        432,
+                        227
+                    ],
+                    [
+                        395,
+                        222
+                    ],
+                    [
+                        356,
+                        218
+                    ],
+                    [
+                        317,
+                        217
+                    ],
+                    [
+                        280,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180244,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.922Z",
+            "updatedAt": "2023-10-30T12:44:31.922Z",
+            "tags": [
+                {
+                    "id": 44361880,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LAMA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.922Z",
+                    "updatedAt": "2023-10-30T12:44:31.922Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        184
+                    ],
+                    [
+                        496,
+                        191
+                    ],
+                    [
+                        531,
+                        203
+                    ],
+                    [
+                        569,
+                        213
+                    ],
+                    [
+                        604,
+                        224
+                    ],
+                    [
+                        606,
+                        272
+                    ],
+                    [
+                        567,
+                        263
+                    ],
+                    [
+                        529,
+                        250
+                    ],
+                    [
+                        490,
+                        239
+                    ],
+                    [
+                        453,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

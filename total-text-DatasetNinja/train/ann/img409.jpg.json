@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 386,
+        "width": 634
+    },
+    "objects": [
+        {
+            "id": 77180326,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.026Z",
+            "updatedAt": "2023-10-30T12:45:46.026Z",
+            "tags": [
+                {
+                    "id": 44361962,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SHEFFIELD",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.026Z",
+                    "updatedAt": "2023-10-30T12:45:46.026Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        118
+                    ],
+                    [
+                        263,
+                        105
+                    ],
+                    [
+                        320,
+                        103
+                    ],
+                    [
+                        376,
+                        105
+                    ],
+                    [
+                        433,
+                        116
+                    ],
+                    [
+                        425,
+                        151
+                    ],
+                    [
+                        371,
+                        140
+                    ],
+                    [
+                        320,
+                        137
+                    ],
+                    [
+                        268,
+                        141
+                    ],
+                    [
+                        216,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180325,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.025Z",
+            "updatedAt": "2023-10-30T12:45:46.025Z",
+            "tags": [
+                {
+                    "id": 44361961,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WEDNESDAY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.025Z",
+                    "updatedAt": "2023-10-30T12:45:46.025Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        213
+                    ],
+                    [
+                        223,
+                        165
+                    ],
+                    [
+                        321,
+                        153
+                    ],
+                    [
+                        424,
+                        167
+                    ],
+                    [
+                        521,
+                        213
+                    ],
+                    [
+                        485,
+                        250
+                    ],
+                    [
+                        402,
+                        214
+                    ],
+                    [
+                        320,
+                        199
+                    ],
+                    [
+                        236,
+                        211
+                    ],
+                    [
+                        153,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180324,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.023Z",
+            "updatedAt": "2023-10-30T12:45:46.023Z",
+            "tags": [
+                {
+                    "id": 44361960,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Hillsborough",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.022Z",
+                    "updatedAt": "2023-10-30T12:45:46.022Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        320
+                    ],
+                    [
+                        236,
+                        321
+                    ],
+                    [
+                        316,
+                        322
+                    ],
+                    [
+                        398,
+                        321
+                    ],
+                    [
+                        475,
+                        322
+                    ],
+                    [
+                        478,
+                        365
+                    ],
+                    [
+                        397,
+                        364
+                    ],
+                    [
+                        318,
+                        362
+                    ],
+                    [
+                        236,
+                        362
+                    ],
+                    [
+                        157,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

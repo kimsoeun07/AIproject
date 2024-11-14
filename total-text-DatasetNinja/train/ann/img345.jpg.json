@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 585
+    },
+    "objects": [
+        {
+            "id": 77180046,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.823Z",
+            "updatedAt": "2023-10-30T12:44:23.823Z",
+            "tags": [
+                {
+                    "id": 44361682,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTAURANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.823Z",
+                    "updatedAt": "2023-10-30T12:44:23.823Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        110
+                    ],
+                    [
+                        173,
+                        92
+                    ],
+                    [
+                        254,
+                        87
+                    ],
+                    [
+                        338,
+                        93
+                    ],
+                    [
+                        417,
+                        114
+                    ],
+                    [
+                        418,
+                        156
+                    ],
+                    [
+                        339,
+                        142
+                    ],
+                    [
+                        261,
+                        133
+                    ],
+                    [
+                        182,
+                        139
+                    ],
+                    [
+                        105,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180045,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.822Z",
+            "updatedAt": "2023-10-30T12:44:23.822Z",
+            "tags": [
+                {
+                    "id": 44361681,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VEFOUR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.822Z",
+                    "updatedAt": "2023-10-30T12:44:23.822Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        186
+                    ],
+                    [
+                        195,
+                        188
+                    ],
+                    [
+                        268,
+                        189
+                    ],
+                    [
+                        337,
+                        191
+                    ],
+                    [
+                        406,
+                        194
+                    ],
+                    [
+                        407,
+                        245
+                    ],
+                    [
+                        336,
+                        244
+                    ],
+                    [
+                        265,
+                        243
+                    ],
+                    [
+                        196,
+                        240
+                    ],
+                    [
+                        126,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77179984,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.968Z",
+            "updatedAt": "2023-10-30T12:44:14.968Z",
+            "tags": [
+                {
+                    "id": 44361620,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CONVENT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.968Z",
+                    "updatedAt": "2023-10-30T12:44:14.968Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        319
+                    ],
+                    [
+                        70,
+                        260
+                    ],
+                    [
+                        91,
+                        207
+                    ],
+                    [
+                        113,
+                        171
+                    ],
+                    [
+                        133,
+                        138
+                    ],
+                    [
+                        155,
+                        165
+                    ],
+                    [
+                        136,
+                        185
+                    ],
+                    [
+                        118,
+                        214
+                    ],
+                    [
+                        99,
+                        249
+                    ],
+                    [
+                        82,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179983,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.968Z",
+            "updatedAt": "2023-10-30T12:44:14.968Z",
+            "tags": [
+                {
+                    "id": 44361619,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GARDEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.968Z",
+                    "updatedAt": "2023-10-30T12:44:14.968Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        121
+                    ],
+                    [
+                        194,
+                        98
+                    ],
+                    [
+                        238,
+                        82
+                    ],
+                    [
+                        280,
+                        77
+                    ],
+                    [
+                        322,
+                        76
+                    ],
+                    [
+                        311,
+                        117
+                    ],
+                    [
+                        276,
+                        112
+                    ],
+                    [
+                        238,
+                        114
+                    ],
+                    [
+                        202,
+                        130
+                    ],
+                    [
+                        165,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179982,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.967Z",
+            "updatedAt": "2023-10-30T12:44:14.967Z",
+            "tags": [
+                {
+                    "id": 44361618,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MARKET",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.967Z",
+                    "updatedAt": "2023-10-30T12:44:14.967Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        91
+                    ],
+                    [
+                        386,
+                        130
+                    ],
+                    [
+                        415,
+                        172
+                    ],
+                    [
+                        427,
+                        213
+                    ],
+                    [
+                        437,
+                        254
+                    ],
+                    [
+                        394,
+                        263
+                    ],
+                    [
+                        396,
+                        227
+                    ],
+                    [
+                        384,
+                        190
+                    ],
+                    [
+                        367,
+                        156
+                    ],
+                    [
+                        328,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

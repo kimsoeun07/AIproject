@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 300,
+        "width": 200
+    },
+    "objects": [
+        {
+            "id": 77179701,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.935Z",
+            "updatedAt": "2023-10-30T12:44:08.935Z",
+            "tags": [
+                {
+                    "id": 44361337,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BEIJING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.935Z",
+                    "updatedAt": "2023-10-30T12:44:08.935Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        104
+                    ],
+                    [
+                        30,
+                        84
+                    ],
+                    [
+                        38,
+                        62
+                    ],
+                    [
+                        49,
+                        45
+                    ],
+                    [
+                        61,
+                        38
+                    ],
+                    [
+                        71,
+                        57
+                    ],
+                    [
+                        64,
+                        72
+                    ],
+                    [
+                        58,
+                        83
+                    ],
+                    [
+                        51,
+                        100
+                    ],
+                    [
+                        44,
+                        112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179700,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.934Z",
+            "updatedAt": "2023-10-30T12:44:08.934Z",
+            "tags": [
+                {
+                    "id": 44361336,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "NOODLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.931Z",
+                    "updatedAt": "2023-10-30T12:44:08.931Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        35
+                    ],
+                    [
+                        84,
+                        33
+                    ],
+                    [
+                        108,
+                        33
+                    ],
+                    [
+                        126,
+                        38
+                    ],
+                    [
+                        137,
+                        54
+                    ],
+                    [
+                        127,
+                        74
+                    ],
+                    [
+                        114,
+                        64
+                    ],
+                    [
+                        97,
+                        58
+                    ],
+                    [
+                        85,
+                        54
+                    ],
+                    [
+                        71,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179699,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.931Z",
+            "updatedAt": "2023-10-30T12:44:08.931Z",
+            "tags": [
+                {
+                    "id": 44361335,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "NO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.931Z",
+                    "updatedAt": "2023-10-30T12:44:08.931Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        66
+                    ],
+                    [
+                        149,
+                        75
+                    ],
+                    [
+                        152,
+                        83
+                    ],
+                    [
+                        153,
+                        92
+                    ],
+                    [
+                        157,
+                        100
+                    ],
+                    [
+                        137,
+                        104
+                    ],
+                    [
+                        134,
+                        97
+                    ],
+                    [
+                        133,
+                        91
+                    ],
+                    [
+                        132,
+                        84
+                    ],
+                    [
+                        131,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

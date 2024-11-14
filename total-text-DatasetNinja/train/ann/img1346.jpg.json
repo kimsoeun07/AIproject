@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 774,
+        "width": 630
+    },
+    "objects": [
+        {
+            "id": 77176984,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.043Z",
+            "updatedAt": "2023-10-30T12:41:56.043Z",
+            "tags": [
+                {
+                    "id": 44358620,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MILWAUKEE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.043Z",
+                    "updatedAt": "2023-10-30T12:41:56.043Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        624
+                    ],
+                    [
+                        484,
+                        593
+                    ],
+                    [
+                        497,
+                        566
+                    ],
+                    [
+                        511,
+                        548
+                    ],
+                    [
+                        523,
+                        537
+                    ],
+                    [
+                        530,
+                        547
+                    ],
+                    [
+                        517,
+                        558
+                    ],
+                    [
+                        506,
+                        572
+                    ],
+                    [
+                        496,
+                        591
+                    ],
+                    [
+                        487,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176983,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.042Z",
+            "updatedAt": "2023-10-30T12:41:56.042Z",
+            "tags": [
+                {
+                    "id": 44358619,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COFFEE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.041Z",
+                    "updatedAt": "2023-10-30T12:41:56.041Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        538
+                    ],
+                    [
+                        563,
+                        551
+                    ],
+                    [
+                        576,
+                        565
+                    ],
+                    [
+                        583,
+                        580
+                    ],
+                    [
+                        590,
+                        595
+                    ],
+                    [
+                        579,
+                        600
+                    ],
+                    [
+                        574,
+                        588
+                    ],
+                    [
+                        567,
+                        574
+                    ],
+                    [
+                        556,
+                        561
+                    ],
+                    [
+                        542,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176982,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.041Z",
+            "updatedAt": "2023-10-30T12:41:56.041Z",
+            "tags": [
+                {
+                    "id": 44358618,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BRANO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.041Z",
+                    "updatedAt": "2023-10-30T12:41:56.041Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        636
+                    ],
+                    [
+                        520,
+                        639
+                    ],
+                    [
+                        534,
+                        641
+                    ],
+                    [
+                        549,
+                        638
+                    ],
+                    [
+                        565,
+                        633
+                    ],
+                    [
+                        571,
+                        649
+                    ],
+                    [
+                        554,
+                        656
+                    ],
+                    [
+                        536,
+                        659
+                    ],
+                    [
+                        518,
+                        656
+                    ],
+                    [
+                        500,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

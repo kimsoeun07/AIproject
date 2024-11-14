@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1037,
+        "width": 1536
+    },
+    "objects": [
+        {
+            "id": 77178903,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.979Z",
+            "updatedAt": "2023-10-30T12:42:32.979Z",
+            "tags": [
+                {
+                    "id": 44360539,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BEACH",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.979Z",
+                    "updatedAt": "2023-10-30T12:42:32.979Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        187
+                    ],
+                    [
+                        555,
+                        167
+                    ],
+                    [
+                        619,
+                        157
+                    ],
+                    [
+                        673,
+                        155
+                    ],
+                    [
+                        733,
+                        155
+                    ],
+                    [
+                        738,
+                        227
+                    ],
+                    [
+                        682,
+                        234
+                    ],
+                    [
+                        624,
+                        239
+                    ],
+                    [
+                        568,
+                        245
+                    ],
+                    [
+                        507,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178902,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.978Z",
+            "updatedAt": "2023-10-30T12:42:32.978Z",
+            "tags": [
+                {
+                    "id": 44360538,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BASh",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.978Z",
+                    "updatedAt": "2023-10-30T12:42:32.978Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        771,
+                        161
+                    ],
+                    [
+                        812,
+                        162
+                    ],
+                    [
+                        860,
+                        162
+                    ],
+                    [
+                        908,
+                        168
+                    ],
+                    [
+                        948,
+                        185
+                    ],
+                    [
+                        949,
+                        265
+                    ],
+                    [
+                        902,
+                        252
+                    ],
+                    [
+                        854,
+                        243
+                    ],
+                    [
+                        809,
+                        242
+                    ],
+                    [
+                        762,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

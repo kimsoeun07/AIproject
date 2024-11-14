@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 930,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77179358,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.793Z",
+            "updatedAt": "2023-10-30T12:43:54.793Z",
+            "tags": [
+                {
+                    "id": 44360994,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SOLARIS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.793Z",
+                    "updatedAt": "2023-10-30T12:43:54.793Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        169
+                    ],
+                    [
+                        224,
+                        61
+                    ],
+                    [
+                        333,
+                        39
+                    ],
+                    [
+                        445,
+                        61
+                    ],
+                    [
+                        530,
+                        146
+                    ],
+                    [
+                        496,
+                        198
+                    ],
+                    [
+                        413,
+                        149
+                    ],
+                    [
+                        324,
+                        135
+                    ],
+                    [
+                        226,
+                        176
+                    ],
+                    [
+                        172,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179357,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.792Z",
+            "updatedAt": "2023-10-30T12:43:54.792Z",
+            "tags": [
+                {
+                    "id": 44360993,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CENTER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.792Z",
+                    "updatedAt": "2023-10-30T12:43:54.792Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        381
+                    ],
+                    [
+                        249,
+                        413
+                    ],
+                    [
+                        323,
+                        424
+                    ],
+                    [
+                        392,
+                        414
+                    ],
+                    [
+                        464,
+                        378
+                    ],
+                    [
+                        516,
+                        439
+                    ],
+                    [
+                        423,
+                        504
+                    ],
+                    [
+                        325,
+                        516
+                    ],
+                    [
+                        230,
+                        508
+                    ],
+                    [
+                        147,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

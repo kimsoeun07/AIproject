@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 366,
+        "width": 550
+    },
+    "objects": [
+        {
+            "id": 77179841,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.948Z",
+            "updatedAt": "2023-10-30T12:44:14.948Z",
+            "tags": [
+                {
+                    "id": 44361477,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EXPRESS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.948Z",
+                    "updatedAt": "2023-10-30T12:44:14.948Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        153
+                    ],
+                    [
+                        117,
+                        165
+                    ],
+                    [
+                        130,
+                        170
+                    ],
+                    [
+                        143,
+                        170
+                    ],
+                    [
+                        156,
+                        157
+                    ],
+                    [
+                        167,
+                        170
+                    ],
+                    [
+                        148,
+                        183
+                    ],
+                    [
+                        128,
+                        185
+                    ],
+                    [
+                        109,
+                        178
+                    ],
+                    [
+                        90,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179840,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.947Z",
+            "updatedAt": "2023-10-30T12:44:14.947Z",
+            "tags": [
+                {
+                    "id": 44361476,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TEPPAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.947Z",
+                    "updatedAt": "2023-10-30T12:44:14.947Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        133
+                    ],
+                    [
+                        221,
+                        139
+                    ],
+                    [
+                        272,
+                        147
+                    ],
+                    [
+                        323,
+                        155
+                    ],
+                    [
+                        373,
+                        158
+                    ],
+                    [
+                        379,
+                        211
+                    ],
+                    [
+                        328,
+                        209
+                    ],
+                    [
+                        277,
+                        204
+                    ],
+                    [
+                        226,
+                        201
+                    ],
+                    [
+                        175,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179839,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.946Z",
+            "updatedAt": "2023-10-30T12:44:14.946Z",
+            "tags": [
+                {
+                    "id": 44361475,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "YAKI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.945Z",
+                    "updatedAt": "2023-10-30T12:44:14.945Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        161
+                    ],
+                    [
+                        412,
+                        166
+                    ],
+                    [
+                        437,
+                        170
+                    ],
+                    [
+                        463,
+                        171
+                    ],
+                    [
+                        486,
+                        174
+                    ],
+                    [
+                        491,
+                        226
+                    ],
+                    [
+                        468,
+                        223
+                    ],
+                    [
+                        444,
+                        222
+                    ],
+                    [
+                        420,
+                        220
+                    ],
+                    [
+                        396,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 77180947,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.529Z",
+            "updatedAt": "2023-10-30T12:45:53.529Z",
+            "tags": [
+                {
+                    "id": 44362228,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WILTONS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.529Z",
+                    "updatedAt": "2023-10-30T12:45:53.529Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        100
+                    ],
+                    [
+                        401,
+                        68
+                    ],
+                    [
+                        448,
+                        62
+                    ],
+                    [
+                        495,
+                        71
+                    ],
+                    [
+                        542,
+                        101
+                    ],
+                    [
+                        526,
+                        116
+                    ],
+                    [
+                        489,
+                        94
+                    ],
+                    [
+                        450,
+                        83
+                    ],
+                    [
+                        409,
+                        91
+                    ],
+                    [
+                        371,
+                        112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180946,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.529Z",
+            "updatedAt": "2023-10-30T12:45:53.529Z",
+            "tags": [
+                {
+                    "id": 44362227,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTAURANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.528Z",
+                    "updatedAt": "2023-10-30T12:45:53.528Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        137
+                    ],
+                    [
+                        408,
+                        105
+                    ],
+                    [
+                        444,
+                        99
+                    ],
+                    [
+                        482,
+                        107
+                    ],
+                    [
+                        518,
+                        132
+                    ],
+                    [
+                        507,
+                        144
+                    ],
+                    [
+                        476,
+                        123
+                    ],
+                    [
+                        445,
+                        115
+                    ],
+                    [
+                        414,
+                        123
+                    ],
+                    [
+                        383,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

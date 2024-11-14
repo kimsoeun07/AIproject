@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 576,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 77181689,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:18.563Z",
+            "updatedAt": "2023-10-30T12:46:18.563Z",
+            "tags": [
+                {
+                    "id": 44362970,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PACIFIC",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:18.563Z",
+                    "updatedAt": "2023-10-30T12:46:18.563Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        450
+                    ],
+                    [
+                        380,
+                        390
+                    ],
+                    [
+                        513,
+                        386
+                    ],
+                    [
+                        645,
+                        401
+                    ],
+                    [
+                        774,
+                        460
+                    ],
+                    [
+                        737,
+                        510
+                    ],
+                    [
+                        621,
+                        456
+                    ],
+                    [
+                        499,
+                        445
+                    ],
+                    [
+                        383,
+                        460
+                    ],
+                    [
+                        268,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181688,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:18.562Z",
+            "updatedAt": "2023-10-30T12:46:18.562Z",
+            "tags": [
+                {
+                    "id": 44362969,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DUNES",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:18.562Z",
+                    "updatedAt": "2023-10-30T12:46:18.562Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        493
+                    ],
+                    [
+                        430,
+                        496
+                    ],
+                    [
+                        508,
+                        494
+                    ],
+                    [
+                        591,
+                        494
+                    ],
+                    [
+                        669,
+                        492
+                    ],
+                    [
+                        674,
+                        539
+                    ],
+                    [
+                        599,
+                        539
+                    ],
+                    [
+                        522,
+                        537
+                    ],
+                    [
+                        433,
+                        535
+                    ],
+                    [
+                        355,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

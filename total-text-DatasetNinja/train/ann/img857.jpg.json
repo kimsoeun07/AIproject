@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 630,
+        "width": 632
+    },
+    "objects": [
+        {
+            "id": 77183721,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.133Z",
+            "updatedAt": "2023-10-30T12:47:20.133Z",
+            "tags": [
+                {
+                    "id": 44365002,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "AJAX",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.133Z",
+                    "updatedAt": "2023-10-30T12:47:20.133Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        215
+                    ],
+                    [
+                        179,
+                        131
+                    ],
+                    [
+                        234,
+                        91
+                    ],
+                    [
+                        287,
+                        70
+                    ],
+                    [
+                        340,
+                        62
+                    ],
+                    [
+                        351,
+                        135
+                    ],
+                    [
+                        305,
+                        146
+                    ],
+                    [
+                        258,
+                        167
+                    ],
+                    [
+                        216,
+                        215
+                    ],
+                    [
+                        167,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183720,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.133Z",
+            "updatedAt": "2023-10-30T12:47:20.133Z",
+            "tags": [
+                {
+                    "id": 44365001,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "AMSTERDAM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.132Z",
+                    "updatedAt": "2023-10-30T12:47:20.132Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        505
+                    ],
+                    [
+                        396,
+                        489
+                    ],
+                    [
+                        449,
+                        464
+                    ],
+                    [
+                        487,
+                        430
+                    ],
+                    [
+                        510,
+                        370
+                    ],
+                    [
+                        544,
+                        379
+                    ],
+                    [
+                        515,
+                        443
+                    ],
+                    [
+                        475,
+                        485
+                    ],
+                    [
+                        422,
+                        517
+                    ],
+                    [
+                        351,
+                        543
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

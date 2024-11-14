@@ -1,0 +1,406 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 550
+    },
+    "objects": [
+        {
+            "id": 77178567,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.220Z",
+            "updatedAt": "2023-10-30T12:42:27.220Z",
+            "tags": [
+                {
+                    "id": 44360203,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "UPSTAIRS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.218Z",
+                    "updatedAt": "2023-10-30T12:42:27.218Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        240
+                    ],
+                    [
+                        264,
+                        243
+                    ],
+                    [
+                        304,
+                        242
+                    ],
+                    [
+                        342,
+                        243
+                    ],
+                    [
+                        382,
+                        240
+                    ],
+                    [
+                        382,
+                        282
+                    ],
+                    [
+                        343,
+                        281
+                    ],
+                    [
+                        305,
+                        281
+                    ],
+                    [
+                        265,
+                        282
+                    ],
+                    [
+                        226,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178566,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.217Z",
+            "updatedAt": "2023-10-30T12:42:27.217Z",
+            "tags": [
+                {
+                    "id": 44360202,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BISTRO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.217Z",
+                    "updatedAt": "2023-10-30T12:42:27.217Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        145
+                    ],
+                    [
+                        253,
+                        134
+                    ],
+                    [
+                        266,
+                        120
+                    ],
+                    [
+                        283,
+                        110
+                    ],
+                    [
+                        299,
+                        107
+                    ],
+                    [
+                        301,
+                        124
+                    ],
+                    [
+                        292,
+                        129
+                    ],
+                    [
+                        281,
+                        136
+                    ],
+                    [
+                        272,
+                        148
+                    ],
+                    [
+                        265,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178565,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.216Z",
+            "updatedAt": "2023-10-30T12:42:27.216Z",
+            "tags": [
+                {
+                    "id": 44360201,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOUDIN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.216Z",
+                    "updatedAt": "2023-10-30T12:42:27.216Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        107
+                    ],
+                    [
+                        327,
+                        111
+                    ],
+                    [
+                        337,
+                        117
+                    ],
+                    [
+                        361,
+                        137
+                    ],
+                    [
+                        364,
+                        151
+                    ],
+                    [
+                        344,
+                        156
+                    ],
+                    [
+                        337,
+                        144
+                    ],
+                    [
+                        329,
+                        135
+                    ],
+                    [
+                        318,
+                        130
+                    ],
+                    [
+                        309,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178564,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.216Z",
+            "updatedAt": "2023-10-30T12:42:27.216Z",
+            "tags": [
+                {
+                    "id": 44360200,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOUDIN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.215Z",
+                    "updatedAt": "2023-10-30T12:42:27.215Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        217
+                    ],
+                    [
+                        272,
+                        207
+                    ],
+                    [
+                        261,
+                        196
+                    ],
+                    [
+                        254,
+                        184
+                    ],
+                    [
+                        250,
+                        173
+                    ],
+                    [
+                        263,
+                        171
+                    ],
+                    [
+                        268,
+                        180
+                    ],
+                    [
+                        274,
+                        188
+                    ],
+                    [
+                        284,
+                        197
+                    ],
+                    [
+                        304,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178563,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.215Z",
+            "updatedAt": "2023-10-30T12:42:27.215Z",
+            "tags": [
+                {
+                    "id": 44360199,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BISTRO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.215Z",
+                    "updatedAt": "2023-10-30T12:42:27.215Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        176
+                    ],
+                    [
+                        356,
+                        188
+                    ],
+                    [
+                        347,
+                        199
+                    ],
+                    [
+                        334,
+                        210
+                    ],
+                    [
+                        311,
+                        218
+                    ],
+                    [
+                        310,
+                        203
+                    ],
+                    [
+                        326,
+                        196
+                    ],
+                    [
+                        336,
+                        189
+                    ],
+                    [
+                        343,
+                        180
+                    ],
+                    [
+                        347,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178562,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.214Z",
+            "updatedAt": "2023-10-30T12:42:27.214Z",
+            "tags": [
+                {
+                    "id": 44360198,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "B",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.214Z",
+                    "updatedAt": "2023-10-30T12:42:27.214Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        138
+                    ],
+                    [
+                        298,
+                        139
+                    ],
+                    [
+                        307,
+                        139
+                    ],
+                    [
+                        317,
+                        139
+                    ],
+                    [
+                        326,
+                        139
+                    ],
+                    [
+                        328,
+                        186
+                    ],
+                    [
+                        317,
+                        186
+                    ],
+                    [
+                        308,
+                        187
+                    ],
+                    [
+                        298,
+                        186
+                    ],
+                    [
+                        288,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

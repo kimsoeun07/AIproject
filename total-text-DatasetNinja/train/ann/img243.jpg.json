@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77179560,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.013Z",
+            "updatedAt": "2023-10-30T12:44:01.013Z",
+            "tags": [
+                {
+                    "id": 44361196,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ALFA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.013Z",
+                    "updatedAt": "2023-10-30T12:44:01.013Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        277
+                    ],
+                    [
+                        278,
+                        229
+                    ],
+                    [
+                        294,
+                        202
+                    ],
+                    [
+                        310,
+                        189
+                    ],
+                    [
+                        326,
+                        181
+                    ],
+                    [
+                        346,
+                        206
+                    ],
+                    [
+                        334,
+                        211
+                    ],
+                    [
+                        318,
+                        225
+                    ],
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        292,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179559,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.012Z",
+            "updatedAt": "2023-10-30T12:44:01.012Z",
+            "tags": [
+                {
+                    "id": 44361195,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ROMEO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.012Z",
+                    "updatedAt": "2023-10-30T12:44:01.012Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        166
+                    ],
+                    [
+                        436,
+                        178
+                    ],
+                    [
+                        467,
+                        202
+                    ],
+                    [
+                        494,
+                        236
+                    ],
+                    [
+                        505,
+                        271
+                    ],
+                    [
+                        474,
+                        291
+                    ],
+                    [
+                        457,
+                        264
+                    ],
+                    [
+                        427,
+                        228
+                    ],
+                    [
+                        400,
+                        208
+                    ],
+                    [
+                        369,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179558,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.011Z",
+            "updatedAt": "2023-10-30T12:44:01.011Z",
+            "tags": [
+                {
+                    "id": 44361194,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MILANO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.010Z",
+                    "updatedAt": "2023-10-30T12:44:01.010Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        347
+                    ],
+                    [
+                        351,
+                        367
+                    ],
+                    [
+                        382,
+                        374
+                    ],
+                    [
+                        418,
+                        367
+                    ],
+                    [
+                        453,
+                        348
+                    ],
+                    [
+                        473,
+                        377
+                    ],
+                    [
+                        431,
+                        402
+                    ],
+                    [
+                        384,
+                        409
+                    ],
+                    [
+                        337,
+                        396
+                    ],
+                    [
+                        297,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

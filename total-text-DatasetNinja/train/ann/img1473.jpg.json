@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 882,
+        "width": 650
+    },
+    "objects": [
+        {
+            "id": 77178153,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.926Z",
+            "updatedAt": "2023-10-30T12:42:21.926Z",
+            "tags": [
+                {
+                    "id": 44359789,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SPONGEBOB",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.924Z",
+                    "updatedAt": "2023-10-30T12:42:21.924Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        305
+                    ],
+                    [
+                        288,
+                        351
+                    ],
+                    [
+                        342,
+                        366
+                    ],
+                    [
+                        386,
+                        358
+                    ],
+                    [
+                        433,
+                        310
+                    ],
+                    [
+                        478,
+                        338
+                    ],
+                    [
+                        437,
+                        397
+                    ],
+                    [
+                        335,
+                        421
+                    ],
+                    [
+                        246,
+                        397
+                    ],
+                    [
+                        189,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178152,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.924Z",
+            "updatedAt": "2023-10-30T12:42:21.924Z",
+            "tags": [
+                {
+                    "id": 44359788,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STOREPANTS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.923Z",
+                    "updatedAt": "2023-10-30T12:42:21.923Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        463
+                    ],
+                    [
+                        253,
+                        462
+                    ],
+                    [
+                        331,
+                        466
+                    ],
+                    [
+                        414,
+                        467
+                    ],
+                    [
+                        493,
+                        474
+                    ],
+                    [
+                        495,
+                        534
+                    ],
+                    [
+                        417,
+                        537
+                    ],
+                    [
+                        335,
+                        537
+                    ],
+                    [
+                        255,
+                        532
+                    ],
+                    [
+                        176,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

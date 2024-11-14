@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 77184660,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.339Z",
+            "updatedAt": "2023-10-30T12:47:50.339Z",
+            "tags": [
+                {
+                    "id": 44365941,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LUSHER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.338Z",
+                    "updatedAt": "2023-10-30T12:47:50.338Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        88
+                    ],
+                    [
+                        211,
+                        82
+                    ],
+                    [
+                        283,
+                        84
+                    ],
+                    [
+                        359,
+                        88
+                    ],
+                    [
+                        432,
+                        100
+                    ],
+                    [
+                        441,
+                        165
+                    ],
+                    [
+                        370,
+                        161
+                    ],
+                    [
+                        299,
+                        157
+                    ],
+                    [
+                        227,
+                        160
+                    ],
+                    [
+                        157,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184659,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.338Z",
+            "updatedAt": "2023-10-30T12:47:50.338Z",
+            "tags": [
+                {
+                    "id": 44365940,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SCHOOL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.338Z",
+                    "updatedAt": "2023-10-30T12:47:50.338Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        111
+                    ],
+                    [
+                        536,
+                        124
+                    ],
+                    [
+                        590,
+                        146
+                    ],
+                    [
+                        646,
+                        170
+                    ],
+                    [
+                        699,
+                        201
+                    ],
+                    [
+                        694,
+                        257
+                    ],
+                    [
+                        640,
+                        226
+                    ],
+                    [
+                        584,
+                        204
+                    ],
+                    [
+                        525,
+                        186
+                    ],
+                    [
+                        471,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

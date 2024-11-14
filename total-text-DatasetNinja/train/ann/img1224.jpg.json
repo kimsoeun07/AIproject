@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 505,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77175801,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.012Z",
+            "updatedAt": "2023-10-30T12:41:22.012Z",
+            "tags": [
+                {
+                    "id": 44357437,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "INGLESE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.011Z",
+                    "updatedAt": "2023-10-30T12:41:22.011Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        83
+                    ],
+                    [
+                        228,
+                        87
+                    ],
+                    [
+                        260,
+                        86
+                    ],
+                    [
+                        290,
+                        86
+                    ],
+                    [
+                        319,
+                        83
+                    ],
+                    [
+                        319,
+                        112
+                    ],
+                    [
+                        290,
+                        110
+                    ],
+                    [
+                        259,
+                        110
+                    ],
+                    [
+                        229,
+                        111
+                    ],
+                    [
+                        197,
+                        112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175800,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.010Z",
+            "updatedAt": "2023-10-30T12:41:22.010Z",
+            "tags": [
+                {
+                    "id": 44357436,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PROFUMERIA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.010Z",
+                    "updatedAt": "2023-10-30T12:41:22.010Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        73
+                    ],
+                    [
+                        222,
+                        42
+                    ],
+                    [
+                        260,
+                        34
+                    ],
+                    [
+                        299,
+                        40
+                    ],
+                    [
+                        336,
+                        68
+                    ],
+                    [
+                        327,
+                        84
+                    ],
+                    [
+                        296,
+                        60
+                    ],
+                    [
+                        263,
+                        54
+                    ],
+                    [
+                        231,
+                        62
+                    ],
+                    [
+                        199,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175799,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.009Z",
+            "updatedAt": "2023-10-30T12:41:22.009Z",
+            "tags": [
+                {
+                    "id": 44357435,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.009Z",
+                    "updatedAt": "2023-10-30T12:41:22.009Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        211
+                    ],
+                    [
+                        83,
+                        211
+                    ],
+                    [
+                        85,
+                        316
+                    ],
+                    [
+                        37,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175798,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.009Z",
+            "updatedAt": "2023-10-30T12:41:22.009Z",
+            "tags": [
+                {
+                    "id": 44357434,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.009Z",
+                    "updatedAt": "2023-10-30T12:41:22.009Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        419,
+                        206
+                    ],
+                    [
+                        471,
+                        204
+                    ],
+                    [
+                        471,
+                        315
+                    ],
+                    [
+                        422,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 754,
+        "width": 726
+    },
+    "objects": [
+        {
+            "id": 77180134,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.884Z",
+            "updatedAt": "2023-10-30T12:44:31.884Z",
+            "tags": [
+                {
+                    "id": 44361770,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Moritz",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.883Z",
+                    "updatedAt": "2023-10-30T12:44:31.883Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        453
+                    ],
+                    [
+                        136,
+                        500
+                    ],
+                    [
+                        161,
+                        547
+                    ],
+                    [
+                        230,
+                        594
+                    ],
+                    [
+                        288,
+                        642
+                    ],
+                    [
+                        271,
+                        685
+                    ],
+                    [
+                        182,
+                        634
+                    ],
+                    [
+                        123,
+                        581
+                    ],
+                    [
+                        86,
+                        524
+                    ],
+                    [
+                        59,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180133,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.882Z",
+            "updatedAt": "2023-10-30T12:44:31.882Z",
+            "tags": [
+                {
+                    "id": 44361769,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Restaurant",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.882Z",
+                    "updatedAt": "2023-10-30T12:44:31.882Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        660
+                    ],
+                    [
+                        459,
+                        671
+                    ],
+                    [
+                        559,
+                        635
+                    ],
+                    [
+                        630,
+                        561
+                    ],
+                    [
+                        656,
+                        464
+                    ],
+                    [
+                        694,
+                        474
+                    ],
+                    [
+                        671,
+                        588
+                    ],
+                    [
+                        609,
+                        664
+                    ],
+                    [
+                        483,
+                        717
+                    ],
+                    [
+                        342,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180132,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.881Z",
+            "updatedAt": "2023-10-30T12:44:31.881Z",
+            "tags": [
+                {
+                    "id": 44361768,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "St",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.880Z",
+                    "updatedAt": "2023-10-30T12:44:31.880Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        344
+                    ],
+                    [
+                        85,
+                        362
+                    ],
+                    [
+                        90,
+                        378
+                    ],
+                    [
+                        92,
+                        400
+                    ],
+                    [
+                        98,
+                        416
+                    ],
+                    [
+                        38,
+                        417
+                    ],
+                    [
+                        32,
+                        399
+                    ],
+                    [
+                        26,
+                        379
+                    ],
+                    [
+                        24,
+                        360
+                    ],
+                    [
+                        19,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

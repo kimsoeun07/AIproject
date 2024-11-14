@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 492,
+        "width": 736
+    },
+    "objects": [
+        {
+            "id": 77180151,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.896Z",
+            "updatedAt": "2023-10-30T12:44:31.896Z",
+            "tags": [
+                {
+                    "id": 44361787,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MICHIGAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.895Z",
+                    "updatedAt": "2023-10-30T12:44:31.895Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        216
+                    ],
+                    [
+                        147,
+                        185
+                    ],
+                    [
+                        229,
+                        166
+                    ],
+                    [
+                        310,
+                        159
+                    ],
+                    [
+                        389,
+                        154
+                    ],
+                    [
+                        387,
+                        201
+                    ],
+                    [
+                        308,
+                        197
+                    ],
+                    [
+                        227,
+                        209
+                    ],
+                    [
+                        145,
+                        235
+                    ],
+                    [
+                        65,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180150,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.893Z",
+            "updatedAt": "2023-10-30T12:44:31.893Z",
+            "tags": [
+                {
+                    "id": 44361786,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STADIUM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.893Z",
+                    "updatedAt": "2023-10-30T12:44:31.893Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        410,
+                        158
+                    ],
+                    [
+                        473,
+                        169
+                    ],
+                    [
+                        535,
+                        188
+                    ],
+                    [
+                        598,
+                        218
+                    ],
+                    [
+                        663,
+                        251
+                    ],
+                    [
+                        668,
+                        297
+                    ],
+                    [
+                        603,
+                        255
+                    ],
+                    [
+                        537,
+                        226
+                    ],
+                    [
+                        473,
+                        207
+                    ],
+                    [
+                        408,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

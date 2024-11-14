@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 450,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 77183753,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.139Z",
+            "updatedAt": "2023-10-30T12:47:20.139Z",
+            "tags": [
+                {
+                    "id": 44365034,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTAURANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.139Z",
+                    "updatedAt": "2023-10-30T12:47:20.139Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        257
+                    ],
+                    [
+                        330,
+                        203
+                    ],
+                    [
+                        402,
+                        187
+                    ],
+                    [
+                        473,
+                        199
+                    ],
+                    [
+                        540,
+                        250
+                    ],
+                    [
+                        515,
+                        279
+                    ],
+                    [
+                        456,
+                        241
+                    ],
+                    [
+                        401,
+                        230
+                    ],
+                    [
+                        342,
+                        243
+                    ],
+                    [
+                        286,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 77182036,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.975Z",
+            "updatedAt": "2023-10-30T12:46:41.975Z",
+            "tags": [
+                {
+                    "id": 44363317,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KYOTO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.974Z",
+                    "updatedAt": "2023-10-30T12:46:41.974Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        620
+                    ],
+                    [
+                        307,
+                        599
+                    ],
+                    [
+                        358,
+                        580
+                    ],
+                    [
+                        398,
+                        571
+                    ],
+                    [
+                        442,
+                        560
+                    ],
+                    [
+                        442,
+                        605
+                    ],
+                    [
+                        406,
+                        613
+                    ],
+                    [
+                        366,
+                        628
+                    ],
+                    [
+                        327,
+                        646
+                    ],
+                    [
+                        292,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182035,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.974Z",
+            "updatedAt": "2023-10-30T12:46:41.974Z",
+            "tags": [
+                {
+                    "id": 44363316,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "YMCA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.973Z",
+                    "updatedAt": "2023-10-30T12:46:41.973Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        567
+                    ],
+                    [
+                        530,
+                        579
+                    ],
+                    [
+                        562,
+                        591
+                    ],
+                    [
+                        599,
+                        613
+                    ],
+                    [
+                        631,
+                        638
+                    ],
+                    [
+                        606,
+                        673
+                    ],
+                    [
+                        576,
+                        655
+                    ],
+                    [
+                        550,
+                        642
+                    ],
+                    [
+                        519,
+                        628
+                    ],
+                    [
+                        494,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

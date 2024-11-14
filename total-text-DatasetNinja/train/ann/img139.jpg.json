@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1200,
+        "width": 900
+    },
+    "objects": [
+        {
+            "id": 77177625,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.886Z",
+            "updatedAt": "2023-10-30T12:42:06.886Z",
+            "tags": [
+                {
+                    "id": 44359261,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KOLIND",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.886Z",
+                    "updatedAt": "2023-10-30T12:42:06.886Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        221
+                    ],
+                    [
+                        166,
+                        173
+                    ],
+                    [
+                        222,
+                        165
+                    ],
+                    [
+                        278,
+                        179
+                    ],
+                    [
+                        330,
+                        226
+                    ],
+                    [
+                        299,
+                        250
+                    ],
+                    [
+                        261,
+                        211
+                    ],
+                    [
+                        222,
+                        203
+                    ],
+                    [
+                        182,
+                        214
+                    ],
+                    [
+                        144,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177624,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.885Z",
+            "updatedAt": "2023-10-30T12:42:06.885Z",
+            "tags": [
+                {
+                    "id": 44359260,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KORESKOLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.885Z",
+                    "updatedAt": "2023-10-30T12:42:06.885Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        328
+                    ],
+                    [
+                        176,
+                        381
+                    ],
+                    [
+                        225,
+                        396
+                    ],
+                    [
+                        274,
+                        383
+                    ],
+                    [
+                        319,
+                        333
+                    ],
+                    [
+                        344,
+                        348
+                    ],
+                    [
+                        300,
+                        410
+                    ],
+                    [
+                        222,
+                        431
+                    ],
+                    [
+                        161,
+                        415
+                    ],
+                    [
+                        100,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177623,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.885Z",
+            "updatedAt": "2023-10-30T12:42:06.885Z",
+            "tags": [
+                {
+                    "id": 44359259,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Koreskole",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.885Z",
+                    "updatedAt": "2023-10-30T12:42:06.885Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        621,
+                        580
+                    ],
+                    [
+                        647,
+                        582
+                    ],
+                    [
+                        673,
+                        582
+                    ],
+                    [
+                        700,
+                        581
+                    ],
+                    [
+                        724,
+                        574
+                    ],
+                    [
+                        727,
+                        607
+                    ],
+                    [
+                        699,
+                        612
+                    ],
+                    [
+                        673,
+                        613
+                    ],
+                    [
+                        645,
+                        612
+                    ],
+                    [
+                        618,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

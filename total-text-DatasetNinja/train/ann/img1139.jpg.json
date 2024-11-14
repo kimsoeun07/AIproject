@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1600,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 77174792,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:07.077Z",
+            "updatedAt": "2023-10-30T12:41:07.077Z",
+            "tags": [
+                {
+                    "id": 44356428,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SWEETNESS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:07.076Z",
+                    "updatedAt": "2023-10-30T12:41:07.076Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        475
+                    ],
+                    [
+                        520,
+                        502
+                    ],
+                    [
+                        638,
+                        487
+                    ],
+                    [
+                        756,
+                        470
+                    ],
+                    [
+                        874,
+                        481
+                    ],
+                    [
+                        871,
+                        598
+                    ],
+                    [
+                        761,
+                        580
+                    ],
+                    [
+                        646,
+                        595
+                    ],
+                    [
+                        535,
+                        616
+                    ],
+                    [
+                        424,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

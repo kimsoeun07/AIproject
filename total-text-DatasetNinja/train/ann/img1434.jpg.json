@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 581,
+        "width": 775
+    },
+    "objects": [
+        {
+            "id": 77177861,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:11.469Z",
+            "updatedAt": "2023-10-30T12:42:11.469Z",
+            "tags": [
+                {
+                    "id": 44359497,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Drunken",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:11.469Z",
+                    "updatedAt": "2023-10-30T12:42:11.469Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        413
+                    ],
+                    [
+                        198,
+                        389
+                    ],
+                    [
+                        261,
+                        375
+                    ],
+                    [
+                        323,
+                        364
+                    ],
+                    [
+                        383,
+                        362
+                    ],
+                    [
+                        384,
+                        411
+                    ],
+                    [
+                        326,
+                        415
+                    ],
+                    [
+                        265,
+                        426
+                    ],
+                    [
+                        206,
+                        442
+                    ],
+                    [
+                        145,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177860,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:11.468Z",
+            "updatedAt": "2023-10-30T12:42:11.468Z",
+            "tags": [
+                {
+                    "id": 44359496,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BARRELS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:11.468Z",
+                    "updatedAt": "2023-10-30T12:42:11.468Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        359
+                    ],
+                    [
+                        469,
+                        360
+                    ],
+                    [
+                        525,
+                        365
+                    ],
+                    [
+                        582,
+                        378
+                    ],
+                    [
+                        637,
+                        392
+                    ],
+                    [
+                        636,
+                        439
+                    ],
+                    [
+                        583,
+                        429
+                    ],
+                    [
+                        525,
+                        415
+                    ],
+                    [
+                        469,
+                        411
+                    ],
+                    [
+                        414,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

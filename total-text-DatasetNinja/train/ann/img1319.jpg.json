@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 740,
+        "width": 520
+    },
+    "objects": [
+        {
+            "id": 77176696,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:51.784Z",
+            "updatedAt": "2023-10-30T12:41:51.784Z",
+            "tags": [
+                {
+                    "id": 44358332,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "rrivederc",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:51.783Z",
+                    "updatedAt": "2023-10-30T12:41:51.783Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        475
+                    ],
+                    [
+                        263,
+                        495
+                    ],
+                    [
+                        290,
+                        511
+                    ],
+                    [
+                        315,
+                        518
+                    ],
+                    [
+                        339,
+                        529
+                    ],
+                    [
+                        338,
+                        556
+                    ],
+                    [
+                        307,
+                        549
+                    ],
+                    [
+                        279,
+                        537
+                    ],
+                    [
+                        249,
+                        515
+                    ],
+                    [
+                        219,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

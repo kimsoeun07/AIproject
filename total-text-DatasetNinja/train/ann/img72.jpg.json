@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 77181981,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.951Z",
+            "updatedAt": "2023-10-30T12:46:41.951Z",
+            "tags": [
+                {
+                    "id": 44363262,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SEACREST",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.951Z",
+                    "updatedAt": "2023-10-30T12:46:41.951Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        305
+                    ],
+                    [
+                        246,
+                        240
+                    ],
+                    [
+                        442,
+                        211
+                    ],
+                    [
+                        633,
+                        209
+                    ],
+                    [
+                        791,
+                        243
+                    ],
+                    [
+                        759,
+                        366
+                    ],
+                    [
+                        601,
+                        324
+                    ],
+                    [
+                        434,
+                        320
+                    ],
+                    [
+                        260,
+                        349
+                    ],
+                    [
+                        108,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181980,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.950Z",
+            "updatedAt": "2023-10-30T12:46:41.950Z",
+            "tags": [
+                {
+                    "id": 44363261,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BEACH",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.950Z",
+                    "updatedAt": "2023-10-30T12:46:41.950Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        504
+                    ],
+                    [
+                        280,
+                        514
+                    ],
+                    [
+                        391,
+                        524
+                    ],
+                    [
+                        513,
+                        506
+                    ],
+                    [
+                        630,
+                        485
+                    ],
+                    [
+                        657,
+                        598
+                    ],
+                    [
+                        539,
+                        636
+                    ],
+                    [
+                        401,
+                        640
+                    ],
+                    [
+                        274,
+                        636
+                    ],
+                    [
+                        154,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

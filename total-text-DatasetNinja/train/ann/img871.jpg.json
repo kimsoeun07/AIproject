@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 824
+    },
+    "objects": [
+        {
+            "id": 77183893,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:40.854Z",
+            "updatedAt": "2023-10-30T12:47:40.854Z",
+            "tags": [
+                {
+                    "id": 44365174,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MUSEUM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:40.853Z",
+                    "updatedAt": "2023-10-30T12:47:40.853Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        307
+                    ],
+                    [
+                        349,
+                        319
+                    ],
+                    [
+                        410,
+                        324
+                    ],
+                    [
+                        472,
+                        313
+                    ],
+                    [
+                        534,
+                        284
+                    ],
+                    [
+                        567,
+                        340
+                    ],
+                    [
+                        495,
+                        367
+                    ],
+                    [
+                        424,
+                        381
+                    ],
+                    [
+                        351,
+                        382
+                    ],
+                    [
+                        277,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

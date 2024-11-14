@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 1162
+    },
+    "objects": [
+        {
+            "id": 77173690,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.127Z",
+            "updatedAt": "2023-10-30T12:40:46.127Z",
+            "tags": [
+                {
+                    "id": 44355326,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CEDARS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.126Z",
+                    "updatedAt": "2023-10-30T12:40:46.126Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        156
+                    ],
+                    [
+                        201,
+                        139
+                    ],
+                    [
+                        305,
+                        128
+                    ],
+                    [
+                        409,
+                        121
+                    ],
+                    [
+                        512,
+                        110
+                    ],
+                    [
+                        513,
+                        193
+                    ],
+                    [
+                        413,
+                        192
+                    ],
+                    [
+                        312,
+                        204
+                    ],
+                    [
+                        212,
+                        208
+                    ],
+                    [
+                        112,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77173689,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.126Z",
+            "updatedAt": "2023-10-30T12:40:46.126Z",
+            "tags": [
+                {
+                    "id": 44355325,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BRASSERIE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.126Z",
+                    "updatedAt": "2023-10-30T12:40:46.126Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        593,
+                        105
+                    ],
+                    [
+                        727,
+                        121
+                    ],
+                    [
+                        863,
+                        130
+                    ],
+                    [
+                        997,
+                        143
+                    ],
+                    [
+                        1133,
+                        170
+                    ],
+                    [
+                        1140,
+                        265
+                    ],
+                    [
+                        1000,
+                        218
+                    ],
+                    [
+                        860,
+                        203
+                    ],
+                    [
+                        721,
+                        190
+                    ],
+                    [
+                        583,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77173688,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.126Z",
+            "updatedAt": "2023-10-30T12:40:46.126Z",
+            "tags": [
+                {
+                    "id": 44355324,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "hobrauhaus",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.125Z",
+                    "updatedAt": "2023-10-30T12:40:46.125Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        330
+                    ],
+                    [
+                        434,
+                        338
+                    ],
+                    [
+                        610,
+                        342
+                    ],
+                    [
+                        791,
+                        341
+                    ],
+                    [
+                        969,
+                        354
+                    ],
+                    [
+                        972,
+                        460
+                    ],
+                    [
+                        792,
+                        459
+                    ],
+                    [
+                        607,
+                        457
+                    ],
+                    [
+                        428,
+                        455
+                    ],
+                    [
+                        247,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

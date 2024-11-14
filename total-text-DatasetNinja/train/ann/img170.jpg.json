@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1125,
+        "width": 1500
+    },
+    "objects": [
+        {
+            "id": 77179025,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.826Z",
+            "updatedAt": "2023-10-30T12:43:47.826Z",
+            "tags": [
+                {
+                    "id": 44360661,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CAMEl",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.825Z",
+                    "updatedAt": "2023-10-30T12:43:47.825Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        470
+                    ],
+                    [
+                        567,
+                        396
+                    ],
+                    [
+                        763,
+                        374
+                    ],
+                    [
+                        983,
+                        394
+                    ],
+                    [
+                        1165,
+                        463
+                    ],
+                    [
+                        1138,
+                        582
+                    ],
+                    [
+                        959,
+                        520
+                    ],
+                    [
+                        778,
+                        485
+                    ],
+                    [
+                        584,
+                        517
+                    ],
+                    [
+                        402,
+                        580
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

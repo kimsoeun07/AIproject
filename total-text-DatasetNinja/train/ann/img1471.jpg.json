@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 545,
+        "width": 625
+    },
+    "objects": [
+        {
+            "id": 77178045,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.355Z",
+            "updatedAt": "2023-10-30T12:42:16.355Z",
+            "tags": [
+                {
+                    "id": 44359681,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "JUNGLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.354Z",
+                    "updatedAt": "2023-10-30T12:42:16.354Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        191
+                    ],
+                    [
+                        153,
+                        189
+                    ],
+                    [
+                        207,
+                        191
+                    ],
+                    [
+                        260,
+                        211
+                    ],
+                    [
+                        311,
+                        225
+                    ],
+                    [
+                        313,
+                        281
+                    ],
+                    [
+                        262,
+                        267
+                    ],
+                    [
+                        209,
+                        262
+                    ],
+                    [
+                        153,
+                        298
+                    ],
+                    [
+                        102,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178044,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.353Z",
+            "updatedAt": "2023-10-30T12:42:16.353Z",
+            "tags": [
+                {
+                    "id": 44359680,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EXPEDITION",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.353Z",
+                    "updatedAt": "2023-10-30T12:42:16.353Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        278
+                    ],
+                    [
+                        370,
+                        233
+                    ],
+                    [
+                        414,
+                        214
+                    ],
+                    [
+                        461,
+                        208
+                    ],
+                    [
+                        504,
+                        216
+                    ],
+                    [
+                        505,
+                        241
+                    ],
+                    [
+                        467,
+                        237
+                    ],
+                    [
+                        425,
+                        242
+                    ],
+                    [
+                        386,
+                        260
+                    ],
+                    [
+                        346,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178043,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.352Z",
+            "updatedAt": "2023-10-30T12:42:16.352Z",
+            "tags": [
+                {
+                    "id": 44359679,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CRUISE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.349Z",
+                    "updatedAt": "2023-10-30T12:42:16.349Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        267
+                    ],
+                    [
+                        258,
+                        268
+                    ],
+                    [
+                        297,
+                        315
+                    ],
+                    [
+                        353,
+                        306
+                    ],
+                    [
+                        408,
+                        296
+                    ],
+                    [
+                        407,
+                        351
+                    ],
+                    [
+                        354,
+                        360
+                    ],
+                    [
+                        299,
+                        369
+                    ],
+                    [
+                        246,
+                        373
+                    ],
+                    [
+                        192,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178042,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.348Z",
+            "updatedAt": "2023-10-30T12:42:16.348Z",
+            "tags": [
+                {
+                    "id": 44359678,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EXOTIC",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.348Z",
+                    "updatedAt": "2023-10-30T12:42:16.348Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        461
+                    ],
+                    [
+                        233,
+                        465
+                    ],
+                    [
+                        277,
+                        465
+                    ],
+                    [
+                        319,
+                        463
+                    ],
+                    [
+                        360,
+                        472
+                    ],
+                    [
+                        359,
+                        513
+                    ],
+                    [
+                        317,
+                        510
+                    ],
+                    [
+                        279,
+                        512
+                    ],
+                    [
+                        235,
+                        510
+                    ],
+                    [
+                        192,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

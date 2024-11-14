@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1469,
+        "width": 1387
+    },
+    "objects": [
+        {
+            "id": 77173587,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.117Z",
+            "updatedAt": "2023-10-30T12:40:46.117Z",
+            "tags": [
+                {
+                    "id": 44355223,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COSENTINOS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.117Z",
+                    "updatedAt": "2023-10-30T12:40:46.117Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        280
+                    ],
+                    [
+                        495,
+                        86
+                    ],
+                    [
+                        714,
+                        41
+                    ],
+                    [
+                        933,
+                        84
+                    ],
+                    [
+                        1152,
+                        301
+                    ],
+                    [
+                        1099,
+                        355
+                    ],
+                    [
+                        914,
+                        186
+                    ],
+                    [
+                        729,
+                        143
+                    ],
+                    [
+                        544,
+                        176
+                    ],
+                    [
+                        360,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77173586,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.116Z",
+            "updatedAt": "2023-10-30T12:40:46.116Z",
+            "tags": [
+                {
+                    "id": 44355222,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Market",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.116Z",
+                    "updatedAt": "2023-10-30T12:40:46.116Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        473
+                    ],
+                    [
+                        374,
+                        356
+                    ],
+                    [
+                        688,
+                        355
+                    ],
+                    [
+                        1004,
+                        332
+                    ],
+                    [
+                        1317,
+                        307
+                    ],
+                    [
+                        1295,
+                        737
+                    ],
+                    [
+                        981,
+                        766
+                    ],
+                    [
+                        662,
+                        805
+                    ],
+                    [
+                        345,
+                        891
+                    ],
+                    [
+                        29,
+                        899
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77173585,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.116Z",
+            "updatedAt": "2023-10-30T12:40:46.116Z",
+            "tags": [
+                {
+                    "id": 44355221,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DOWNTOWN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.116Z",
+                    "updatedAt": "2023-10-30T12:40:46.116Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        957
+                    ],
+                    [
+                        592,
+                        1057
+                    ],
+                    [
+                        762,
+                        1097
+                    ],
+                    [
+                        934,
+                        1074
+                    ],
+                    [
+                        1105,
+                        977
+                    ],
+                    [
+                        1181,
+                        1095
+                    ],
+                    [
+                        971,
+                        1189
+                    ],
+                    [
+                        759,
+                        1226
+                    ],
+                    [
+                        546,
+                        1176
+                    ],
+                    [
+                        335,
+                        1053
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

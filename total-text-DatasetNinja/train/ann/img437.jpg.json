@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1704,
+        "width": 2272
+    },
+    "objects": [
+        {
+            "id": 77180836,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.509Z",
+            "updatedAt": "2023-10-30T12:45:53.509Z",
+            "tags": [
+                {
+                    "id": 44362117,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOTTLES",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.509Z",
+                    "updatedAt": "2023-10-30T12:45:53.509Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        1044
+                    ],
+                    [
+                        785,
+                        922
+                    ],
+                    [
+                        940,
+                        829
+                    ],
+                    [
+                        1102,
+                        781
+                    ],
+                    [
+                        1258,
+                        760
+                    ],
+                    [
+                        1274,
+                        893
+                    ],
+                    [
+                        1139,
+                        920
+                    ],
+                    [
+                        998,
+                        961
+                    ],
+                    [
+                        863,
+                        1041
+                    ],
+                    [
+                        729,
+                        1144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180835,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.508Z",
+            "updatedAt": "2023-10-30T12:45:53.508Z",
+            "tags": [
+                {
+                    "id": 44362116,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.508Z",
+                    "updatedAt": "2023-10-30T12:45:53.508Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1324,
+                        764
+                    ],
+                    [
+                        1424,
+                        777
+                    ],
+                    [
+                        1432,
+                        907
+                    ],
+                    [
+                        1326,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180834,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.508Z",
+            "updatedAt": "2023-10-30T12:45:53.508Z",
+            "tags": [
+                {
+                    "id": 44362115,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CANS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.508Z",
+                    "updatedAt": "2023-10-30T12:45:53.508Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1531,
+                        791
+                    ],
+                    [
+                        1624,
+                        819
+                    ],
+                    [
+                        1718,
+                        863
+                    ],
+                    [
+                        1808,
+                        921
+                    ],
+                    [
+                        1900,
+                        988
+                    ],
+                    [
+                        1828,
+                        1104
+                    ],
+                    [
+                        1746,
+                        1055
+                    ],
+                    [
+                        1655,
+                        996
+                    ],
+                    [
+                        1572,
+                        954
+                    ],
+                    [
+                        1490,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

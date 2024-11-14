@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 349,
+        "width": 540
+    },
+    "objects": [
+        {
+            "id": 77180098,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.835Z",
+            "updatedAt": "2023-10-30T12:44:23.835Z",
+            "tags": [
+                {
+                    "id": 44361734,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HARAJUKU",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.834Z",
+                    "updatedAt": "2023-10-30T12:44:23.834Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        229
+                    ],
+                    [
+                        187,
+                        178
+                    ],
+                    [
+                        271,
+                        167
+                    ],
+                    [
+                        353,
+                        179
+                    ],
+                    [
+                        435,
+                        229
+                    ],
+                    [
+                        410,
+                        246
+                    ],
+                    [
+                        341,
+                        206
+                    ],
+                    [
+                        270,
+                        193
+                    ],
+                    [
+                        199,
+                        204
+                    ],
+                    [
+                        128,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

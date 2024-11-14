@@ -1,0 +1,472 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 298,
+        "width": 350
+    },
+    "objects": [
+        {
+            "id": 77180173,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.905Z",
+            "updatedAt": "2023-10-30T12:44:31.905Z",
+            "tags": [
+                {
+                    "id": 44361809,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Miles",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.904Z",
+                    "updatedAt": "2023-10-30T12:44:31.904Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        107
+                    ],
+                    [
+                        113,
+                        89
+                    ],
+                    [
+                        134,
+                        71
+                    ],
+                    [
+                        157,
+                        56
+                    ],
+                    [
+                        180,
+                        47
+                    ],
+                    [
+                        185,
+                        65
+                    ],
+                    [
+                        165,
+                        74
+                    ],
+                    [
+                        147,
+                        86
+                    ],
+                    [
+                        128,
+                        102
+                    ],
+                    [
+                        109,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180172,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.903Z",
+            "updatedAt": "2023-10-30T12:44:31.903Z",
+            "tags": [
+                {
+                    "id": 44361808,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Better",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.902Z",
+                    "updatedAt": "2023-10-30T12:44:31.902Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        40
+                    ],
+                    [
+                        217,
+                        40
+                    ],
+                    [
+                        239,
+                        41
+                    ],
+                    [
+                        258,
+                        46
+                    ],
+                    [
+                        281,
+                        69
+                    ],
+                    [
+                        261,
+                        87
+                    ],
+                    [
+                        245,
+                        70
+                    ],
+                    [
+                        227,
+                        62
+                    ],
+                    [
+                        207,
+                        60
+                    ],
+                    [
+                        191,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180171,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.900Z",
+            "updatedAt": "2023-10-30T12:44:31.900Z",
+            "tags": [
+                {
+                    "id": 44361807,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.900Z",
+                    "updatedAt": "2023-10-30T12:44:31.900Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        92
+                    ],
+                    [
+                        165,
+                        90
+                    ],
+                    [
+                        181,
+                        85
+                    ],
+                    [
+                        197,
+                        83
+                    ],
+                    [
+                        213,
+                        79
+                    ],
+                    [
+                        212,
+                        95
+                    ],
+                    [
+                        197,
+                        102
+                    ],
+                    [
+                        182,
+                        105
+                    ],
+                    [
+                        166,
+                        109
+                    ],
+                    [
+                        152,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180170,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.899Z",
+            "updatedAt": "2023-10-30T12:44:31.899Z",
+            "tags": [
+                {
+                    "id": 44361806,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TAXI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.899Z",
+                    "updatedAt": "2023-10-30T12:44:31.899Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        145
+                    ],
+                    [
+                        105,
+                        130
+                    ],
+                    [
+                        171,
+                        116
+                    ],
+                    [
+                        231,
+                        102
+                    ],
+                    [
+                        295,
+                        86
+                    ],
+                    [
+                        283,
+                        137
+                    ],
+                    [
+                        223,
+                        149
+                    ],
+                    [
+                        162,
+                        163
+                    ],
+                    [
+                        101,
+                        174
+                    ],
+                    [
+                        41,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180169,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.898Z",
+            "updatedAt": "2023-10-30T12:44:31.898Z",
+            "tags": [
+                {
+                    "id": 44361805,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CENTRE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.897Z",
+                    "updatedAt": "2023-10-30T12:44:31.897Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        187
+                    ],
+                    [
+                        121,
+                        181
+                    ],
+                    [
+                        150,
+                        177
+                    ],
+                    [
+                        180,
+                        171
+                    ],
+                    [
+                        210,
+                        165
+                    ],
+                    [
+                        206,
+                        183
+                    ],
+                    [
+                        179,
+                        192
+                    ],
+                    [
+                        152,
+                        196
+                    ],
+                    [
+                        127,
+                        201
+                    ],
+                    [
+                        101,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180168,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.896Z",
+            "updatedAt": "2023-10-30T12:44:31.896Z",
+            "tags": [
+                {
+                    "id": 44361804,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Miles",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.895Z",
+                    "updatedAt": "2023-10-30T12:44:31.895Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        195
+                    ],
+                    [
+                        96,
+                        213
+                    ],
+                    [
+                        106,
+                        221
+                    ],
+                    [
+                        118,
+                        229
+                    ],
+                    [
+                        127,
+                        233
+                    ],
+                    [
+                        118,
+                        256
+                    ],
+                    [
+                        105,
+                        251
+                    ],
+                    [
+                        91,
+                        245
+                    ],
+                    [
+                        76,
+                        231
+                    ],
+                    [
+                        63,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180167,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.893Z",
+            "updatedAt": "2023-10-30T12:44:31.893Z",
+            "tags": [
+                {
+                    "id": 44361803,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Cheaper",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.893Z",
+                    "updatedAt": "2023-10-30T12:44:31.893Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        227
+                    ],
+                    [
+                        158,
+                        225
+                    ],
+                    [
+                        188,
+                        217
+                    ],
+                    [
+                        217,
+                        198
+                    ],
+                    [
+                        247,
+                        172
+                    ],
+                    [
+                        262,
+                        185
+                    ],
+                    [
+                        229,
+                        221
+                    ],
+                    [
+                        195,
+                        239
+                    ],
+                    [
+                        163,
+                        249
+                    ],
+                    [
+                        130,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

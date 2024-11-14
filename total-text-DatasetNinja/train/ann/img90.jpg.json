@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1728,
+        "width": 3072
+    },
+    "objects": [
+        {
+            "id": 77183914,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:40.866Z",
+            "updatedAt": "2023-10-30T12:47:40.866Z",
+            "tags": [
+                {
+                    "id": 44365195,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MANCHESTER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:40.865Z",
+                    "updatedAt": "2023-10-30T12:47:40.865Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        682,
+                        1423
+                    ],
+                    [
+                        951,
+                        1148
+                    ],
+                    [
+                        1213,
+                        1097
+                    ],
+                    [
+                        1480,
+                        1170
+                    ],
+                    [
+                        1744,
+                        1441
+                    ],
+                    [
+                        1659,
+                        1537
+                    ],
+                    [
+                        1441,
+                        1298
+                    ],
+                    [
+                        1217,
+                        1222
+                    ],
+                    [
+                        1001,
+                        1275
+                    ],
+                    [
+                        780,
+                        1513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183913,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:40.865Z",
+            "updatedAt": "2023-10-30T12:47:40.865Z",
+            "tags": [
+                {
+                    "id": 44365194,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VISITING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:40.864Z",
+                    "updatedAt": "2023-10-30T12:47:40.864Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        2430,
+                        820
+                    ],
+                    [
+                        2511,
+                        822
+                    ],
+                    [
+                        2594,
+                        821
+                    ],
+                    [
+                        2679,
+                        821
+                    ],
+                    [
+                        2758,
+                        822
+                    ],
+                    [
+                        2746,
+                        889
+                    ],
+                    [
+                        2672,
+                        890
+                    ],
+                    [
+                        2597,
+                        888
+                    ],
+                    [
+                        2522,
+                        889
+                    ],
+                    [
+                        2447,
+                        883
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183912,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:40.863Z",
+            "updatedAt": "2023-10-30T12:47:40.863Z",
+            "tags": [
+                {
+                    "id": 44365193,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TEAM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:40.863Z",
+                    "updatedAt": "2023-10-30T12:47:40.863Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        2482,
+                        892
+                    ],
+                    [
+                        2535,
+                        892
+                    ],
+                    [
+                        2592,
+                        892
+                    ],
+                    [
+                        2645,
+                        892
+                    ],
+                    [
+                        2703,
+                        889
+                    ],
+                    [
+                        2694,
+                        953
+                    ],
+                    [
+                        2641,
+                        952
+                    ],
+                    [
+                        2598,
+                        951
+                    ],
+                    [
+                        2545,
+                        951
+                    ],
+                    [
+                        2494,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

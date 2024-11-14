@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1174,
+        "width": 864
+    },
+    "objects": [
+        {
+            "id": 77181030,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.218Z",
+            "updatedAt": "2023-10-30T12:46:03.218Z",
+            "tags": [
+                {
+                    "id": 44362311,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BAY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.217Z",
+                    "updatedAt": "2023-10-30T12:46:03.217Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        79
+                    ],
+                    [
+                        339,
+                        72
+                    ],
+                    [
+                        362,
+                        67
+                    ],
+                    [
+                        385,
+                        62
+                    ],
+                    [
+                        409,
+                        55
+                    ],
+                    [
+                        415,
+                        100
+                    ],
+                    [
+                        400,
+                        101
+                    ],
+                    [
+                        382,
+                        107
+                    ],
+                    [
+                        365,
+                        115
+                    ],
+                    [
+                        348,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181029,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.216Z",
+            "updatedAt": "2023-10-30T12:46:03.216Z",
+            "tags": [
+                {
+                    "id": 44362310,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CREEK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.215Z",
+                    "updatedAt": "2023-10-30T12:46:03.215Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        49
+                    ],
+                    [
+                        454,
+                        58
+                    ],
+                    [
+                        486,
+                        77
+                    ],
+                    [
+                        518,
+                        96
+                    ],
+                    [
+                        550,
+                        121
+                    ],
+                    [
+                        537,
+                        157
+                    ],
+                    [
+                        507,
+                        131
+                    ],
+                    [
+                        480,
+                        114
+                    ],
+                    [
+                        450,
+                        103
+                    ],
+                    [
+                        424,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181028,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.214Z",
+            "updatedAt": "2023-10-30T12:46:03.214Z",
+            "tags": [
+                {
+                    "id": 44362309,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Neighborhood",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.214Z",
+                    "updatedAt": "2023-10-30T12:46:03.214Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        133
+                    ],
+                    [
+                        383,
+                        142
+                    ],
+                    [
+                        437,
+                        148
+                    ],
+                    [
+                        490,
+                        153
+                    ],
+                    [
+                        544,
+                        163
+                    ],
+                    [
+                        541,
+                        205
+                    ],
+                    [
+                        488,
+                        199
+                    ],
+                    [
+                        439,
+                        192
+                    ],
+                    [
+                        386,
+                        187
+                    ],
+                    [
+                        336,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 433,
+        "width": 650
+    },
+    "objects": [
+        {
+            "id": 77180818,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.503Z",
+            "updatedAt": "2023-10-30T12:45:53.503Z",
+            "tags": [
+                {
+                    "id": 44362099,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WAFFLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.503Z",
+                    "updatedAt": "2023-10-30T12:45:53.503Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        287
+                    ],
+                    [
+                        213,
+                        256
+                    ],
+                    [
+                        212,
+                        227
+                    ],
+                    [
+                        226,
+                        196
+                    ],
+                    [
+                        241,
+                        168
+                    ],
+                    [
+                        269,
+                        196
+                    ],
+                    [
+                        251,
+                        217
+                    ],
+                    [
+                        245,
+                        236
+                    ],
+                    [
+                        246,
+                        257
+                    ],
+                    [
+                        250,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180817,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.502Z",
+            "updatedAt": "2023-10-30T12:45:53.502Z",
+            "tags": [
+                {
+                    "id": 44362098,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.502Z",
+                    "updatedAt": "2023-10-30T12:45:53.502Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        160
+                    ],
+                    [
+                        277,
+                        152
+                    ],
+                    [
+                        293,
+                        177
+                    ],
+                    [
+                        274,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180816,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.502Z",
+            "updatedAt": "2023-10-30T12:45:53.502Z",
+            "tags": [
+                {
+                    "id": 44362097,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WOLF",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.502Z",
+                    "updatedAt": "2023-10-30T12:45:53.502Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        143
+                    ],
+                    [
+                        321,
+                        146
+                    ],
+                    [
+                        344,
+                        150
+                    ],
+                    [
+                        364,
+                        159
+                    ],
+                    [
+                        385,
+                        173
+                    ],
+                    [
+                        361,
+                        195
+                    ],
+                    [
+                        347,
+                        188
+                    ],
+                    [
+                        333,
+                        180
+                    ],
+                    [
+                        318,
+                        177
+                    ],
+                    [
+                        305,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

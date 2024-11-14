@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 1004
+    },
+    "objects": [
+        {
+            "id": 77180812,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.502Z",
+            "updatedAt": "2023-10-30T12:45:53.502Z",
+            "tags": [
+                {
+                    "id": 44362093,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FOOD",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.502Z",
+                    "updatedAt": "2023-10-30T12:45:53.502Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        259
+                    ],
+                    [
+                        98,
+                        257
+                    ],
+                    [
+                        141,
+                        260
+                    ],
+                    [
+                        187,
+                        272
+                    ],
+                    [
+                        232,
+                        289
+                    ],
+                    [
+                        223,
+                        322
+                    ],
+                    [
+                        182,
+                        313
+                    ],
+                    [
+                        140,
+                        300
+                    ],
+                    [
+                        98,
+                        298
+                    ],
+                    [
+                        56,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180811,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.502Z",
+            "updatedAt": "2023-10-30T12:45:53.502Z",
+            "tags": [
+                {
+                    "id": 44362092,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COURT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.502Z",
+                    "updatedAt": "2023-10-30T12:45:53.502Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        319
+                    ],
+                    [
+                        330,
+                        379
+                    ],
+                    [
+                        367,
+                        443
+                    ],
+                    [
+                        388,
+                        504
+                    ],
+                    [
+                        401,
+                        568
+                    ],
+                    [
+                        364,
+                        573
+                    ],
+                    [
+                        347,
+                        515
+                    ],
+                    [
+                        326,
+                        459
+                    ],
+                    [
+                        289,
+                        403
+                    ],
+                    [
+                        242,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 997
+    },
+    "objects": [
+        {
+            "id": 77180962,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.533Z",
+            "updatedAt": "2023-10-30T12:45:53.533Z",
+            "tags": [
+                {
+                    "id": 44362243,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FISHING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.532Z",
+                    "updatedAt": "2023-10-30T12:45:53.532Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        383
+                    ],
+                    [
+                        417,
+                        296
+                    ],
+                    [
+                        496,
+                        290
+                    ],
+                    [
+                        578,
+                        308
+                    ],
+                    [
+                        657,
+                        382
+                    ],
+                    [
+                        603,
+                        422
+                    ],
+                    [
+                        549,
+                        363
+                    ],
+                    [
+                        493,
+                        350
+                    ],
+                    [
+                        437,
+                        368
+                    ],
+                    [
+                        383,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180961,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.532Z",
+            "updatedAt": "2023-10-30T12:45:53.532Z",
+            "tags": [
+                {
+                    "id": 44362242,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VILLAGE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.532Z",
+                    "updatedAt": "2023-10-30T12:45:53.532Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        507
+                    ],
+                    [
+                        425,
+                        507
+                    ],
+                    [
+                        490,
+                        506
+                    ],
+                    [
+                        554,
+                        504
+                    ],
+                    [
+                        618,
+                        502
+                    ],
+                    [
+                        615,
+                        556
+                    ],
+                    [
+                        557,
+                        558
+                    ],
+                    [
+                        493,
+                        557
+                    ],
+                    [
+                        431,
+                        559
+                    ],
+                    [
+                        369,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

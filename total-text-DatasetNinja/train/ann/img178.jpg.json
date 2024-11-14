@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 284,
+        "width": 379
+    },
+    "objects": [
+        {
+            "id": 77179144,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.850Z",
+            "updatedAt": "2023-10-30T12:43:47.850Z",
+            "tags": [
+                {
+                    "id": 44360780,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GYM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.850Z",
+                    "updatedAt": "2023-10-30T12:43:47.850Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        109
+                    ],
+                    [
+                        154,
+                        108
+                    ],
+                    [
+                        185,
+                        108
+                    ],
+                    [
+                        217,
+                        109
+                    ],
+                    [
+                        246,
+                        107
+                    ],
+                    [
+                        247,
+                        149
+                    ],
+                    [
+                        215,
+                        149
+                    ],
+                    [
+                        184,
+                        149
+                    ],
+                    [
+                        154,
+                        147
+                    ],
+                    [
+                        123,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179143,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.849Z",
+            "updatedAt": "2023-10-30T12:43:47.849Z",
+            "tags": [
+                {
+                    "id": 44360779,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FITNESS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.849Z",
+                    "updatedAt": "2023-10-30T12:43:47.849Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        225
+                    ],
+                    [
+                        108,
+                        220
+                    ],
+                    [
+                        132,
+                        218
+                    ],
+                    [
+                        157,
+                        217
+                    ],
+                    [
+                        179,
+                        216
+                    ],
+                    [
+                        182,
+                        231
+                    ],
+                    [
+                        158,
+                        234
+                    ],
+                    [
+                        135,
+                        236
+                    ],
+                    [
+                        112,
+                        239
+                    ],
+                    [
+                        89,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179142,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.849Z",
+            "updatedAt": "2023-10-30T12:43:47.849Z",
+            "tags": [
+                {
+                    "id": 44360778,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CENTER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.849Z",
+                    "updatedAt": "2023-10-30T12:43:47.849Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        216
+                    ],
+                    [
+                        218,
+                        216
+                    ],
+                    [
+                        241,
+                        219
+                    ],
+                    [
+                        264,
+                        220
+                    ],
+                    [
+                        287,
+                        224
+                    ],
+                    [
+                        286,
+                        241
+                    ],
+                    [
+                        266,
+                        239
+                    ],
+                    [
+                        242,
+                        237
+                    ],
+                    [
+                        219,
+                        234
+                    ],
+                    [
+                        196,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

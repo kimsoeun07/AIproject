@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 517,
+        "width": 428
+    },
+    "objects": [
+        {
+            "id": 77179672,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.929Z",
+            "updatedAt": "2023-10-30T12:44:08.929Z",
+            "tags": [
+                {
+                    "id": 44361308,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Berthelot",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.929Z",
+                    "updatedAt": "2023-10-30T12:44:08.929Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        419
+                    ],
+                    [
+                        120,
+                        432
+                    ],
+                    [
+                        159,
+                        440
+                    ],
+                    [
+                        192,
+                        434
+                    ],
+                    [
+                        229,
+                        431
+                    ],
+                    [
+                        251,
+                        464
+                    ],
+                    [
+                        203,
+                        482
+                    ],
+                    [
+                        162,
+                        488
+                    ],
+                    [
+                        114,
+                        486
+                    ],
+                    [
+                        70,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

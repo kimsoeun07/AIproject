@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 416,
+        "width": 620
+    },
+    "objects": [
+        {
+            "id": 77183664,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.114Z",
+            "updatedAt": "2023-10-30T12:47:20.114Z",
+            "tags": [
+                {
+                    "id": 44364945,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RBEIT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.114Z",
+                    "updatedAt": "2023-10-30T12:47:20.114Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        152
+                    ],
+                    [
+                        173,
+                        144
+                    ],
+                    [
+                        186,
+                        140
+                    ],
+                    [
+                        202,
+                        138
+                    ],
+                    [
+                        216,
+                        135
+                    ],
+                    [
+                        216,
+                        164
+                    ],
+                    [
+                        200,
+                        166
+                    ],
+                    [
+                        185,
+                        169
+                    ],
+                    [
+                        171,
+                        172
+                    ],
+                    [
+                        157,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183663,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.113Z",
+            "updatedAt": "2023-10-30T12:47:20.113Z",
+            "tags": [
+                {
+                    "id": 44364944,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MACHT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.113Z",
+                    "updatedAt": "2023-10-30T12:47:20.113Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        128
+                    ],
+                    [
+                        260,
+                        112
+                    ],
+                    [
+                        287,
+                        103
+                    ],
+                    [
+                        314,
+                        104
+                    ],
+                    [
+                        340,
+                        105
+                    ],
+                    [
+                        329,
+                        140
+                    ],
+                    [
+                        306,
+                        135
+                    ],
+                    [
+                        283,
+                        131
+                    ],
+                    [
+                        257,
+                        145
+                    ],
+                    [
+                        237,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183662,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.112Z",
+            "updatedAt": "2023-10-30T12:47:20.112Z",
+            "tags": [
+                {
+                    "id": 44364943,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FRE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.112Z",
+                    "updatedAt": "2023-10-30T12:47:20.112Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        104
+                    ],
+                    [
+                        382,
+                        98
+                    ],
+                    [
+                        403,
+                        93
+                    ],
+                    [
+                        427,
+                        89
+                    ],
+                    [
+                        451,
+                        83
+                    ],
+                    [
+                        456,
+                        122
+                    ],
+                    [
+                        432,
+                        125
+                    ],
+                    [
+                        410,
+                        128
+                    ],
+                    [
+                        384,
+                        132
+                    ],
+                    [
+                        362,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 429,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77180272,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.004Z",
+            "updatedAt": "2023-10-30T12:45:46.004Z",
+            "tags": [
+                {
+                    "id": 44361908,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MONMOUTH",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.003Z",
+                    "updatedAt": "2023-10-30T12:45:46.003Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        337
+                    ],
+                    [
+                        102,
+                        318
+                    ],
+                    [
+                        158,
+                        303
+                    ],
+                    [
+                        214,
+                        293
+                    ],
+                    [
+                        269,
+                        285
+                    ],
+                    [
+                        269,
+                        311
+                    ],
+                    [
+                        216,
+                        318
+                    ],
+                    [
+                        162,
+                        329
+                    ],
+                    [
+                        108,
+                        343
+                    ],
+                    [
+                        54,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180271,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.002Z",
+            "updatedAt": "2023-10-30T12:45:46.002Z",
+            "tags": [
+                {
+                    "id": 44361907,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "UNIVERSITY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.002Z",
+                    "updatedAt": "2023-10-30T12:45:46.002Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        281
+                    ],
+                    [
+                        365,
+                        282
+                    ],
+                    [
+                        439,
+                        284
+                    ],
+                    [
+                        509,
+                        294
+                    ],
+                    [
+                        580,
+                        306
+                    ],
+                    [
+                        571,
+                        334
+                    ],
+                    [
+                        500,
+                        319
+                    ],
+                    [
+                        431,
+                        311
+                    ],
+                    [
+                        362,
+                        308
+                    ],
+                    [
+                        294,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

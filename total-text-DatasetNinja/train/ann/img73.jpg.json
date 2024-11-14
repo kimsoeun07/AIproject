@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 77182451,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.934Z",
+            "updatedAt": "2023-10-30T12:46:46.934Z",
+            "tags": [
+                {
+                    "id": 44363732,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BALLYS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.934Z",
+                    "updatedAt": "2023-10-30T12:46:46.934Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        252
+                    ],
+                    [
+                        406,
+                        117
+                    ],
+                    [
+                        623,
+                        116
+                    ],
+                    [
+                        795,
+                        202
+                    ],
+                    [
+                        911,
+                        308
+                    ],
+                    [
+                        832,
+                        397
+                    ],
+                    [
+                        702,
+                        283
+                    ],
+                    [
+                        580,
+                        237
+                    ],
+                    [
+                        439,
+                        267
+                    ],
+                    [
+                        310,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

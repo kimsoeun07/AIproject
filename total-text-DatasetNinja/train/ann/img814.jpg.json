@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 581,
+        "width": 810
+    },
+    "objects": [
+        {
+            "id": 77183239,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:02.230Z",
+            "updatedAt": "2023-10-30T12:47:02.230Z",
+            "tags": [
+                {
+                    "id": 44364520,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PAMOL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:02.230Z",
+                    "updatedAt": "2023-10-30T12:47:02.230Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        387
+                    ],
+                    [
+                        233,
+                        420
+                    ],
+                    [
+                        280,
+                        429
+                    ],
+                    [
+                        333,
+                        418
+                    ],
+                    [
+                        380,
+                        387
+                    ],
+                    [
+                        418,
+                        421
+                    ],
+                    [
+                        351,
+                        464
+                    ],
+                    [
+                        277,
+                        483
+                    ],
+                    [
+                        211,
+                        474
+                    ],
+                    [
+                        146,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183238,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:02.229Z",
+            "updatedAt": "2023-10-30T12:47:02.229Z",
+            "tags": [
+                {
+                    "id": 44364519,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "birdhouse",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:02.229Z",
+                    "updatedAt": "2023-10-30T12:47:02.229Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        707,
+                        544
+                    ],
+                    [
+                        722,
+                        546
+                    ],
+                    [
+                        738,
+                        545
+                    ],
+                    [
+                        755,
+                        547
+                    ],
+                    [
+                        770,
+                        547
+                    ],
+                    [
+                        771,
+                        556
+                    ],
+                    [
+                        758,
+                        557
+                    ],
+                    [
+                        742,
+                        556
+                    ],
+                    [
+                        725,
+                        556
+                    ],
+                    [
+                        709,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

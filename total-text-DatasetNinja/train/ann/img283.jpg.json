@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1328,
+        "width": 2000
+    },
+    "objects": [
+        {
+            "id": 77179641,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.924Z",
+            "updatedAt": "2023-10-30T12:44:08.924Z",
+            "tags": [
+                {
+                    "id": 44361277,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOB",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.924Z",
+                    "updatedAt": "2023-10-30T12:44:08.924Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        345
+                    ],
+                    [
+                        658,
+                        330
+                    ],
+                    [
+                        685,
+                        315
+                    ],
+                    [
+                        714,
+                        307
+                    ],
+                    [
+                        743,
+                        301
+                    ],
+                    [
+                        751,
+                        345
+                    ],
+                    [
+                        731,
+                        350
+                    ],
+                    [
+                        710,
+                        358
+                    ],
+                    [
+                        687,
+                        367
+                    ],
+                    [
+                        667,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179640,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.923Z",
+            "updatedAt": "2023-10-30T12:44:08.923Z",
+            "tags": [
+                {
+                    "id": 44361276,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MARLEY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.923Z",
+                    "updatedAt": "2023-10-30T12:44:08.923Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        766,
+                        293
+                    ],
+                    [
+                        821,
+                        298
+                    ],
+                    [
+                        875,
+                        310
+                    ],
+                    [
+                        927,
+                        328
+                    ],
+                    [
+                        982,
+                        372
+                    ],
+                    [
+                        942,
+                        400
+                    ],
+                    [
+                        898,
+                        369
+                    ],
+                    [
+                        856,
+                        351
+                    ],
+                    [
+                        811,
+                        344
+                    ],
+                    [
+                        769,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

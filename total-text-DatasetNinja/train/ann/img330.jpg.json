@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 726,
+        "width": 1084
+    },
+    "objects": [
+        {
+            "id": 77180112,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361748,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ORIGINAL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.836Z",
+                    "updatedAt": "2023-10-30T12:44:23.836Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        390
+                    ],
+                    [
+                        473,
+                        302
+                    ],
+                    [
+                        530,
+                        282
+                    ],
+                    [
+                        589,
+                        285
+                    ],
+                    [
+                        647,
+                        324
+                    ],
+                    [
+                        624,
+                        353
+                    ],
+                    [
+                        579,
+                        318
+                    ],
+                    [
+                        534,
+                        314
+                    ],
+                    [
+                        489,
+                        334
+                    ],
+                    [
+                        444,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180111,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.836Z",
+            "updatedAt": "2023-10-30T12:44:23.836Z",
+            "tags": [
+                {
+                    "id": 44361747,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KUALA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.835Z",
+                    "updatedAt": "2023-10-30T12:44:23.835Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        438
+                    ],
+                    [
+                        484,
+                        476
+                    ],
+                    [
+                        513,
+                        494
+                    ],
+                    [
+                        543,
+                        498
+                    ],
+                    [
+                        570,
+                        501
+                    ],
+                    [
+                        580,
+                        529
+                    ],
+                    [
+                        542,
+                        529
+                    ],
+                    [
+                        501,
+                        525
+                    ],
+                    [
+                        461,
+                        499
+                    ],
+                    [
+                        421,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180110,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.835Z",
+            "updatedAt": "2023-10-30T12:44:23.835Z",
+            "tags": [
+                {
+                    "id": 44361746,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PILAH",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.835Z",
+                    "updatedAt": "2023-10-30T12:44:23.835Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        485
+                    ],
+                    [
+                        622,
+                        460
+                    ],
+                    [
+                        636,
+                        433
+                    ],
+                    [
+                        640,
+                        407
+                    ],
+                    [
+                        641,
+                        381
+                    ],
+                    [
+                        679,
+                        384
+                    ],
+                    [
+                        673,
+                        418
+                    ],
+                    [
+                        664,
+                        450
+                    ],
+                    [
+                        642,
+                        486
+                    ],
+                    [
+                        603,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

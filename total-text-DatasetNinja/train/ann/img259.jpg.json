@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 435,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77179444,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:00.981Z",
+            "updatedAt": "2023-10-30T12:44:00.981Z",
+            "tags": [
+                {
+                    "id": 44361080,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:00.981Z",
+                    "updatedAt": "2023-10-30T12:44:00.981Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        190
+                    ],
+                    [
+                        80,
+                        163
+                    ],
+                    [
+                        147,
+                        143
+                    ],
+                    [
+                        212,
+                        128
+                    ],
+                    [
+                        276,
+                        122
+                    ],
+                    [
+                        258,
+                        200
+                    ],
+                    [
+                        201,
+                        202
+                    ],
+                    [
+                        140,
+                        212
+                    ],
+                    [
+                        81,
+                        230
+                    ],
+                    [
+                        22,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179443,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:00.981Z",
+            "updatedAt": "2023-10-30T12:44:00.981Z",
+            "tags": [
+                {
+                    "id": 44361079,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LADS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:00.980Z",
+                    "updatedAt": "2023-10-30T12:44:00.980Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        135
+                    ],
+                    [
+                        523,
+                        172
+                    ],
+                    [
+                        616,
+                        253
+                    ],
+                    [
+                        639,
+                        303
+                    ],
+                    [
+                        639,
+                        306
+                    ],
+                    [
+                        506,
+                        388
+                    ],
+                    [
+                        451,
+                        314
+                    ],
+                    [
+                        402,
+                        265
+                    ],
+                    [
+                        342,
+                        234
+                    ],
+                    [
+                        302,
+                        210
+                    ],
+                    [
+                        364,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

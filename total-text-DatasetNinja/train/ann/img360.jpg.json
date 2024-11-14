@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 633,
+        "width": 950
+    },
+    "objects": [
+        {
+            "id": 77180220,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.919Z",
+            "updatedAt": "2023-10-30T12:44:31.919Z",
+            "tags": [
+                {
+                    "id": 44361856,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CHICAGO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.919Z",
+                    "updatedAt": "2023-10-30T12:44:31.919Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        158
+                    ],
+                    [
+                        569,
+                        152
+                    ],
+                    [
+                        599,
+                        150
+                    ],
+                    [
+                        629,
+                        151
+                    ],
+                    [
+                        657,
+                        151
+                    ],
+                    [
+                        658,
+                        174
+                    ],
+                    [
+                        630,
+                        172
+                    ],
+                    [
+                        601,
+                        171
+                    ],
+                    [
+                        571,
+                        174
+                    ],
+                    [
+                        543,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180219,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.917Z",
+            "updatedAt": "2023-10-30T12:44:31.917Z",
+            "tags": [
+                {
+                    "id": 44361855,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RIVERWARLK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.917Z",
+                    "updatedAt": "2023-10-30T12:44:31.917Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        179
+                    ],
+                    [
+                        561,
+                        174
+                    ],
+                    [
+                        600,
+                        172
+                    ],
+                    [
+                        637,
+                        172
+                    ],
+                    [
+                        675,
+                        174
+                    ],
+                    [
+                        672,
+                        194
+                    ],
+                    [
+                        637,
+                        193
+                    ],
+                    [
+                        600,
+                        193
+                    ],
+                    [
+                        565,
+                        195
+                    ],
+                    [
+                        530,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180218,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.916Z",
+            "updatedAt": "2023-10-30T12:44:31.916Z",
+            "tags": [
+                {
+                    "id": 44361854,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.916Z",
+                    "updatedAt": "2023-10-30T12:44:31.916Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        916,
+                        473
+                    ],
+                    [
+                        933,
+                        475
+                    ],
+                    [
+                        934,
+                        619
+                    ],
+                    [
+                        913,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1063,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77180127,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.878Z",
+            "updatedAt": "2023-10-30T12:44:31.878Z",
+            "tags": [
+                {
+                    "id": 44361763,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "JEWELRY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.877Z",
+                    "updatedAt": "2023-10-30T12:44:31.877Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        139
+                    ],
+                    [
+                        586,
+                        122
+                    ],
+                    [
+                        961,
+                        331
+                    ],
+                    [
+                        1115,
+                        506
+                    ],
+                    [
+                        1232,
+                        647
+                    ],
+                    [
+                        1216,
+                        831
+                    ],
+                    [
+                        1011,
+                        633
+                    ],
+                    [
+                        733,
+                        366
+                    ],
+                    [
+                        455,
+                        388
+                    ],
+                    [
+                        209,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180126,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.876Z",
+            "updatedAt": "2023-10-30T12:44:31.876Z",
+            "tags": [
+                {
+                    "id": 44361762,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MARKET",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.876Z",
+                    "updatedAt": "2023-10-30T12:44:31.876Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        412
+                    ],
+                    [
+                        631,
+                        542
+                    ],
+                    [
+                        787,
+                        632
+                    ],
+                    [
+                        937,
+                        685
+                    ],
+                    [
+                        1088,
+                        671
+                    ],
+                    [
+                        1126,
+                        821
+                    ],
+                    [
+                        954,
+                        839
+                    ],
+                    [
+                        778,
+                        775
+                    ],
+                    [
+                        601,
+                        680
+                    ],
+                    [
+                        428,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

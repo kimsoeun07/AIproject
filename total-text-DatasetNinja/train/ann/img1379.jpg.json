@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 978,
+        "width": 658
+    },
+    "objects": [
+        {
+            "id": 77177218,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.943Z",
+            "updatedAt": "2023-10-30T12:42:01.943Z",
+            "tags": [
+                {
+                    "id": 44358854,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "NEALS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.943Z",
+                    "updatedAt": "2023-10-30T12:42:01.943Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        340
+                    ],
+                    [
+                        142,
+                        270
+                    ],
+                    [
+                        195,
+                        223
+                    ],
+                    [
+                        233,
+                        212
+                    ],
+                    [
+                        268,
+                        208
+                    ],
+                    [
+                        270,
+                        250
+                    ],
+                    [
+                        245,
+                        246
+                    ],
+                    [
+                        218,
+                        255
+                    ],
+                    [
+                        183,
+                        284
+                    ],
+                    [
+                        170,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177217,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.942Z",
+            "updatedAt": "2023-10-30T12:42:01.942Z",
+            "tags": [
+                {
+                    "id": 44358853,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "YARD",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.942Z",
+                    "updatedAt": "2023-10-30T12:42:01.942Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        216
+                    ],
+                    [
+                        358,
+                        252
+                    ],
+                    [
+                        380,
+                        288
+                    ],
+                    [
+                        384,
+                        322
+                    ],
+                    [
+                        384,
+                        360
+                    ],
+                    [
+                        348,
+                        358
+                    ],
+                    [
+                        345,
+                        337
+                    ],
+                    [
+                        339,
+                        308
+                    ],
+                    [
+                        325,
+                        280
+                    ],
+                    [
+                        297,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177216,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.941Z",
+            "updatedAt": "2023-10-30T12:42:01.941Z",
+            "tags": [
+                {
+                    "id": 44358852,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DAIRY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.941Z",
+                    "updatedAt": "2023-10-30T12:42:01.941Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        466
+                    ],
+                    [
+                        221,
+                        489
+                    ],
+                    [
+                        260,
+                        502
+                    ],
+                    [
+                        300,
+                        484
+                    ],
+                    [
+                        339,
+                        462
+                    ],
+                    [
+                        365,
+                        510
+                    ],
+                    [
+                        311,
+                        540
+                    ],
+                    [
+                        258,
+                        554
+                    ],
+                    [
+                        204,
+                        538
+                    ],
+                    [
+                        152,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

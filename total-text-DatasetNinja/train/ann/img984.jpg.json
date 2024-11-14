@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 671,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 77184788,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:54.429Z",
+            "updatedAt": "2023-10-30T12:47:54.429Z",
+            "tags": [
+                {
+                    "id": 44366069,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "NEW",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:54.428Z",
+                    "updatedAt": "2023-10-30T12:47:54.428Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        68
+                    ],
+                    [
+                        328,
+                        53
+                    ],
+                    [
+                        362,
+                        42
+                    ],
+                    [
+                        394,
+                        38
+                    ],
+                    [
+                        428,
+                        35
+                    ],
+                    [
+                        427,
+                        81
+                    ],
+                    [
+                        398,
+                        86
+                    ],
+                    [
+                        369,
+                        92
+                    ],
+                    [
+                        338,
+                        102
+                    ],
+                    [
+                        308,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184787,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:54.427Z",
+            "updatedAt": "2023-10-30T12:47:54.427Z",
+            "tags": [
+                {
+                    "id": 44366068,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ORLEANS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:54.427Z",
+                    "updatedAt": "2023-10-30T12:47:54.427Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        27
+                    ],
+                    [
+                        513,
+                        28
+                    ],
+                    [
+                        587,
+                        31
+                    ],
+                    [
+                        659,
+                        41
+                    ],
+                    [
+                        731,
+                        70
+                    ],
+                    [
+                        722,
+                        111
+                    ],
+                    [
+                        656,
+                        93
+                    ],
+                    [
+                        587,
+                        79
+                    ],
+                    [
+                        517,
+                        76
+                    ],
+                    [
+                        451,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

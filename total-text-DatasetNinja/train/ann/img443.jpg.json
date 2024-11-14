@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1936,
+        "width": 2592
+    },
+    "objects": [
+        {
+            "id": 77180992,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.196Z",
+            "updatedAt": "2023-10-30T12:46:03.196Z",
+            "tags": [
+                {
+                    "id": 44362273,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KIRSTALL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.195Z",
+                    "updatedAt": "2023-10-30T12:46:03.195Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        1333
+                    ],
+                    [
+                        776,
+                        1290
+                    ],
+                    [
+                        1027,
+                        1283
+                    ],
+                    [
+                        1275,
+                        1307
+                    ],
+                    [
+                        1523,
+                        1336
+                    ],
+                    [
+                        1523,
+                        1522
+                    ],
+                    [
+                        1269,
+                        1507
+                    ],
+                    [
+                        1004,
+                        1515
+                    ],
+                    [
+                        750,
+                        1551
+                    ],
+                    [
+                        491,
+                        1609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180991,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.194Z",
+            "updatedAt": "2023-10-30T12:46:03.194Z",
+            "tags": [
+                {
+                    "id": 44362272,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RUMMET",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.193Z",
+                    "updatedAt": "2023-10-30T12:46:03.193Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        1549
+                    ],
+                    [
+                        1004,
+                        1512
+                    ],
+                    [
+                        1252,
+                        1512
+                    ],
+                    [
+                        1498,
+                        1517
+                    ],
+                    [
+                        1742,
+                        1549
+                    ],
+                    [
+                        1709,
+                        1681
+                    ],
+                    [
+                        1463,
+                        1677
+                    ],
+                    [
+                        1221,
+                        1684
+                    ],
+                    [
+                        978,
+                        1710
+                    ],
+                    [
+                        731,
+                        1744
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

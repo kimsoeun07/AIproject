@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1201,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77181004,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.200Z",
+            "updatedAt": "2023-10-30T12:46:03.200Z",
+            "tags": [
+                {
+                    "id": 44362285,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WHISTLESTOP",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.199Z",
+                    "updatedAt": "2023-10-30T12:46:03.199Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        601
+                    ],
+                    [
+                        710,
+                        431
+                    ],
+                    [
+                        814,
+                        363
+                    ],
+                    [
+                        941,
+                        420
+                    ],
+                    [
+                        966,
+                        576
+                    ],
+                    [
+                        918,
+                        575
+                    ],
+                    [
+                        902,
+                        479
+                    ],
+                    [
+                        823,
+                        419
+                    ],
+                    [
+                        750,
+                        475
+                    ],
+                    [
+                        728,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181003,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.198Z",
+            "updatedAt": "2023-10-30T12:46:03.198Z",
+            "tags": [
+                {
+                    "id": 44362284,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.198Z",
+                    "updatedAt": "2023-10-30T12:46:03.198Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        683
+                    ],
+                    [
+                        789,
+                        702
+                    ],
+                    [
+                        825,
+                        707
+                    ],
+                    [
+                        856,
+                        698
+                    ],
+                    [
+                        889,
+                        676
+                    ],
+                    [
+                        916,
+                        724
+                    ],
+                    [
+                        872,
+                        750
+                    ],
+                    [
+                        825,
+                        766
+                    ],
+                    [
+                        780,
+                        759
+                    ],
+                    [
+                        736,
+                        736
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

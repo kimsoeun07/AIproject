@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 250,
+        "width": 250
+    },
+    "objects": [
+        {
+            "id": 77180212,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.914Z",
+            "updatedAt": "2023-10-30T12:44:31.914Z",
+            "tags": [
+                {
+                    "id": 44361848,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BAGGE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.914Z",
+                    "updatedAt": "2023-10-30T12:44:31.914Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        101
+                    ],
+                    [
+                        119,
+                        96
+                    ],
+                    [
+                        136,
+                        95
+                    ],
+                    [
+                        152,
+                        99
+                    ],
+                    [
+                        168,
+                        105
+                    ],
+                    [
+                        157,
+                        120
+                    ],
+                    [
+                        146,
+                        114
+                    ],
+                    [
+                        133,
+                        108
+                    ],
+                    [
+                        119,
+                        110
+                    ],
+                    [
+                        107,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180211,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.914Z",
+            "updatedAt": "2023-10-30T12:44:31.914Z",
+            "tags": [
+                {
+                    "id": 44361847,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MERCHANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.913Z",
+                    "updatedAt": "2023-10-30T12:44:31.913Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        183
+                    ],
+                    [
+                        94,
+                        182
+                    ],
+                    [
+                        121,
+                        181
+                    ],
+                    [
+                        149,
+                        181
+                    ],
+                    [
+                        175,
+                        180
+                    ],
+                    [
+                        176,
+                        196
+                    ],
+                    [
+                        148,
+                        199
+                    ],
+                    [
+                        121,
+                        200
+                    ],
+                    [
+                        94,
+                        201
+                    ],
+                    [
+                        67,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180210,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.913Z",
+            "updatedAt": "2023-10-30T12:44:31.913Z",
+            "tags": [
+                {
+                    "id": 44361846,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "T",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.913Z",
+                    "updatedAt": "2023-10-30T12:44:31.913Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        115
+                    ],
+                    [
+                        88,
+                        111
+                    ],
+                    [
+                        93,
+                        109
+                    ],
+                    [
+                        98,
+                        107
+                    ],
+                    [
+                        103,
+                        106
+                    ],
+                    [
+                        109,
+                        116
+                    ],
+                    [
+                        106,
+                        120
+                    ],
+                    [
+                        102,
+                        122
+                    ],
+                    [
+                        98,
+                        124
+                    ],
+                    [
+                        93,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

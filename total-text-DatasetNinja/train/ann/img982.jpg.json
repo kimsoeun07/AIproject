@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 824
+    },
+    "objects": [
+        {
+            "id": 77184801,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:54.435Z",
+            "updatedAt": "2023-10-30T12:47:54.435Z",
+            "tags": [
+                {
+                    "id": 44366082,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Gasthol",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:54.435Z",
+                    "updatedAt": "2023-10-30T12:47:54.435Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        392
+                    ],
+                    [
+                        137,
+                        395
+                    ],
+                    [
+                        163,
+                        396
+                    ],
+                    [
+                        187,
+                        395
+                    ],
+                    [
+                        211,
+                        385
+                    ],
+                    [
+                        227,
+                        411
+                    ],
+                    [
+                        196,
+                        423
+                    ],
+                    [
+                        168,
+                        427
+                    ],
+                    [
+                        138,
+                        425
+                    ],
+                    [
+                        110,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

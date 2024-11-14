@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1936,
+        "width": 2592
+    },
+    "objects": [
+        {
+            "id": 77181126,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.240Z",
+            "updatedAt": "2023-10-30T12:46:03.240Z",
+            "tags": [
+                {
+                    "id": 44362407,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Skeppsbar",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.240Z",
+                    "updatedAt": "2023-10-30T12:46:03.240Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        809,
+                        847
+                    ],
+                    [
+                        980,
+                        791
+                    ],
+                    [
+                        1151,
+                        772
+                    ],
+                    [
+                        1325,
+                        780
+                    ],
+                    [
+                        1496,
+                        838
+                    ],
+                    [
+                        1463,
+                        937
+                    ],
+                    [
+                        1311,
+                        917
+                    ],
+                    [
+                        1156,
+                        916
+                    ],
+                    [
+                        1008,
+                        929
+                    ],
+                    [
+                        854,
+                        973
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181125,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.239Z",
+            "updatedAt": "2023-10-30T12:46:03.239Z",
+            "tags": [
+                {
+                    "id": 44362406,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "OPPE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.239Z",
+                    "updatedAt": "2023-10-30T12:46:03.239Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1130,
+                        1579
+                    ],
+                    [
+                        1168,
+                        1576
+                    ],
+                    [
+                        1208,
+                        1575
+                    ],
+                    [
+                        1249,
+                        1572
+                    ],
+                    [
+                        1289,
+                        1567
+                    ],
+                    [
+                        1295,
+                        1651
+                    ],
+                    [
+                        1255,
+                        1646
+                    ],
+                    [
+                        1219,
+                        1651
+                    ],
+                    [
+                        1175,
+                        1648
+                    ],
+                    [
+                        1139,
+                        1651
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

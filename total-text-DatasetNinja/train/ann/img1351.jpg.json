@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 494,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77176961,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.038Z",
+            "updatedAt": "2023-10-30T12:41:56.038Z",
+            "tags": [
+                {
+                    "id": 44358597,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "IDLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.038Z",
+                    "updatedAt": "2023-10-30T12:41:56.038Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        130
+                    ],
+                    [
+                        175,
+                        126
+                    ],
+                    [
+                        219,
+                        127
+                    ],
+                    [
+                        262,
+                        132
+                    ],
+                    [
+                        298,
+                        152
+                    ],
+                    [
+                        305,
+                        219
+                    ],
+                    [
+                        263,
+                        221
+                    ],
+                    [
+                        222,
+                        224
+                    ],
+                    [
+                        177,
+                        239
+                    ],
+                    [
+                        135,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176960,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.037Z",
+            "updatedAt": "2023-10-30T12:41:56.037Z",
+            "tags": [
+                {
+                    "id": 44358596,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HAND",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.037Z",
+                    "updatedAt": "2023-10-30T12:41:56.037Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        158
+                    ],
+                    [
+                        359,
+                        169
+                    ],
+                    [
+                        403,
+                        174
+                    ],
+                    [
+                        448,
+                        174
+                    ],
+                    [
+                        489,
+                        174
+                    ],
+                    [
+                        503,
+                        305
+                    ],
+                    [
+                        456,
+                        296
+                    ],
+                    [
+                        410,
+                        280
+                    ],
+                    [
+                        362,
+                        255
+                    ],
+                    [
+                        315,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176959,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.034Z",
+            "updatedAt": "2023-10-30T12:41:56.034Z",
+            "tags": [
+                {
+                    "id": 44358595,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TATTOO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.033Z",
+                    "updatedAt": "2023-10-30T12:41:56.033Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        250
+                    ],
+                    [
+                        194,
+                        225
+                    ],
+                    [
+                        237,
+                        218
+                    ],
+                    [
+                        285,
+                        219
+                    ],
+                    [
+                        323,
+                        228
+                    ],
+                    [
+                        328,
+                        261
+                    ],
+                    [
+                        289,
+                        259
+                    ],
+                    [
+                        245,
+                        261
+                    ],
+                    [
+                        204,
+                        274
+                    ],
+                    [
+                        162,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176958,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.032Z",
+            "updatedAt": "2023-10-30T12:41:56.032Z",
+            "tags": [
+                {
+                    "id": 44358594,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STUDIO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.032Z",
+                    "updatedAt": "2023-10-30T12:41:56.032Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        275
+                    ],
+                    [
+                        381,
+                        286
+                    ],
+                    [
+                        422,
+                        293
+                    ],
+                    [
+                        462,
+                        297
+                    ],
+                    [
+                        503,
+                        299
+                    ],
+                    [
+                        502,
+                        333
+                    ],
+                    [
+                        462,
+                        338
+                    ],
+                    [
+                        419,
+                        337
+                    ],
+                    [
+                        377,
+                        331
+                    ],
+                    [
+                        336,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

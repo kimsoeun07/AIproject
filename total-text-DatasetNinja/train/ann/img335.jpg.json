@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2556,
+        "width": 3333
+    },
+    "objects": [
+        {
+            "id": 77180088,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.832Z",
+            "updatedAt": "2023-10-30T12:44:23.832Z",
+            "tags": [
+                {
+                    "id": 44361724,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Astro",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.832Z",
+                    "updatedAt": "2023-10-30T12:44:23.832Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        1202
+                    ],
+                    [
+                        1131,
+                        1040
+                    ],
+                    [
+                        1645,
+                        938
+                    ],
+                    [
+                        2164,
+                        1035
+                    ],
+                    [
+                        2682,
+                        1187
+                    ],
+                    [
+                        2600,
+                        1441
+                    ],
+                    [
+                        2124,
+                        1382
+                    ],
+                    [
+                        1650,
+                        1242
+                    ],
+                    [
+                        1170,
+                        1341
+                    ],
+                    [
+                        693,
+                        1522
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

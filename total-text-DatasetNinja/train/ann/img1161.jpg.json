@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 719
+    },
+    "objects": [
+        {
+            "id": 77175179,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:12.598Z",
+            "updatedAt": "2023-10-30T12:41:12.598Z",
+            "tags": [
+                {
+                    "id": 44356815,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "IMMIGRESEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:12.598Z",
+                    "updatedAt": "2023-10-30T12:41:12.598Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        703
+                    ],
+                    [
+                        310,
+                        725
+                    ],
+                    [
+                        328,
+                        738
+                    ],
+                    [
+                        349,
+                        745
+                    ],
+                    [
+                        367,
+                        743
+                    ],
+                    [
+                        367,
+                        777
+                    ],
+                    [
+                        342,
+                        771
+                    ],
+                    [
+                        318,
+                        763
+                    ],
+                    [
+                        294,
+                        749
+                    ],
+                    [
+                        270,
+                        729
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175178,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:12.597Z",
+            "updatedAt": "2023-10-30T12:41:12.597Z",
+            "tags": [
+                {
+                    "id": 44356814,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MALAYSIA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:12.597Z",
+                    "updatedAt": "2023-10-30T12:41:12.597Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        749
+                    ],
+                    [
+                        391,
+                        746
+                    ],
+                    [
+                        410,
+                        739
+                    ],
+                    [
+                        428,
+                        727
+                    ],
+                    [
+                        445,
+                        711
+                    ],
+                    [
+                        462,
+                        725
+                    ],
+                    [
+                        442,
+                        748
+                    ],
+                    [
+                        418,
+                        762
+                    ],
+                    [
+                        396,
+                        770
+                    ],
+                    [
+                        372,
+                        773
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

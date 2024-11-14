@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 383,
+        "width": 369
+    },
+    "objects": [
+        {
+            "id": 77175621,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:17.376Z",
+            "updatedAt": "2023-10-30T12:41:17.376Z",
+            "tags": [
+                {
+                    "id": 44357257,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CLARKSTON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:17.376Z",
+                    "updatedAt": "2023-10-30T12:41:17.376Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        96
+                    ],
+                    [
+                        133,
+                        39
+                    ],
+                    [
+                        191,
+                        7
+                    ],
+                    [
+                        249,
+                        11
+                    ],
+                    [
+                        292,
+                        43
+                    ],
+                    [
+                        274,
+                        68
+                    ],
+                    [
+                        242,
+                        43
+                    ],
+                    [
+                        209,
+                        35
+                    ],
+                    [
+                        168,
+                        54
+                    ],
+                    [
+                        142,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175620,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:17.376Z",
+            "updatedAt": "2023-10-30T12:41:17.376Z",
+            "tags": [
+                {
+                    "id": 44357256,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "UNION",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:17.376Z",
+                    "updatedAt": "2023-10-30T12:41:17.376Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        153
+                    ],
+                    [
+                        192,
+                        175
+                    ],
+                    [
+                        231,
+                        177
+                    ],
+                    [
+                        265,
+                        153
+                    ],
+                    [
+                        284,
+                        119
+                    ],
+                    [
+                        314,
+                        135
+                    ],
+                    [
+                        278,
+                        189
+                    ],
+                    [
+                        242,
+                        211
+                    ],
+                    [
+                        185,
+                        209
+                    ],
+                    [
+                        142,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

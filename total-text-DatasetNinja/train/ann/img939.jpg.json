@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77184479,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.281Z",
+            "updatedAt": "2023-10-30T12:47:50.281Z",
+            "tags": [
+                {
+                    "id": 44365760,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Marine",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.281Z",
+                    "updatedAt": "2023-10-30T12:47:50.281Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        341
+                    ],
+                    [
+                        265,
+                        344
+                    ],
+                    [
+                        279,
+                        347
+                    ],
+                    [
+                        292,
+                        350
+                    ],
+                    [
+                        303,
+                        350
+                    ],
+                    [
+                        305,
+                        367
+                    ],
+                    [
+                        291,
+                        369
+                    ],
+                    [
+                        273,
+                        366
+                    ],
+                    [
+                        255,
+                        361
+                    ],
+                    [
+                        239,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184478,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.280Z",
+            "updatedAt": "2023-10-30T12:47:50.280Z",
+            "tags": [
+                {
+                    "id": 44365759,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Apotheke",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.279Z",
+                    "updatedAt": "2023-10-30T12:47:50.279Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        348
+                    ],
+                    [
+                        328,
+                        344
+                    ],
+                    [
+                        345,
+                        338
+                    ],
+                    [
+                        362,
+                        329
+                    ],
+                    [
+                        379,
+                        319
+                    ],
+                    [
+                        394,
+                        335
+                    ],
+                    [
+                        374,
+                        347
+                    ],
+                    [
+                        352,
+                        358
+                    ],
+                    [
+                        329,
+                        368
+                    ],
+                    [
+                        308,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 945,
+        "width": 615
+    },
+    "objects": [
+        {
+            "id": 77184252,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.640Z",
+            "updatedAt": "2023-10-30T12:47:45.640Z",
+            "tags": [
+                {
+                    "id": 44365533,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TOYS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.639Z",
+                    "updatedAt": "2023-10-30T12:47:45.639Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        595
+                    ],
+                    [
+                        365,
+                        596
+                    ],
+                    [
+                        380,
+                        596
+                    ],
+                    [
+                        395,
+                        597
+                    ],
+                    [
+                        409,
+                        595
+                    ],
+                    [
+                        409,
+                        617
+                    ],
+                    [
+                        396,
+                        618
+                    ],
+                    [
+                        380,
+                        617
+                    ],
+                    [
+                        366,
+                        616
+                    ],
+                    [
+                        350,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184251,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.639Z",
+            "updatedAt": "2023-10-30T12:47:45.639Z",
+            "tags": [
+                {
+                    "id": 44365532,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HAMLEYS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.638Z",
+                    "updatedAt": "2023-10-30T12:47:45.638Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        594
+                    ],
+                    [
+                        118,
+                        595
+                    ],
+                    [
+                        150,
+                        595
+                    ],
+                    [
+                        180,
+                        595
+                    ],
+                    [
+                        211,
+                        594
+                    ],
+                    [
+                        211,
+                        616
+                    ],
+                    [
+                        180,
+                        617
+                    ],
+                    [
+                        149,
+                        617
+                    ],
+                    [
+                        118,
+                        616
+                    ],
+                    [
+                        90,
+                        616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184250,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.638Z",
+            "updatedAt": "2023-10-30T12:47:45.638Z",
+            "tags": [
+                {
+                    "id": 44365531,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Hamleys",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.637Z",
+                    "updatedAt": "2023-10-30T12:47:45.637Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        267
+                    ],
+                    [
+                        244,
+                        239
+                    ],
+                    [
+                        306,
+                        238
+                    ],
+                    [
+                        364,
+                        240
+                    ],
+                    [
+                        421,
+                        235
+                    ],
+                    [
+                        429,
+                        285
+                    ],
+                    [
+                        375,
+                        313
+                    ],
+                    [
+                        320,
+                        316
+                    ],
+                    [
+                        266,
+                        327
+                    ],
+                    [
+                        211,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

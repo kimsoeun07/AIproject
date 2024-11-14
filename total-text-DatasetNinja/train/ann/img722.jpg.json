@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 947
+    },
+    "objects": [
+        {
+            "id": 77182259,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.893Z",
+            "updatedAt": "2023-10-30T12:46:46.893Z",
+            "tags": [
+                {
+                    "id": 44363540,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.893Z",
+                    "updatedAt": "2023-10-30T12:46:46.893Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        872
+                    ],
+                    [
+                        255,
+                        858
+                    ],
+                    [
+                        260,
+                        931
+                    ],
+                    [
+                        78,
+                        936
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182258,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.893Z",
+            "updatedAt": "2023-10-30T12:46:46.893Z",
+            "tags": [
+                {
+                    "id": 44363539,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "refreshments",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.893Z",
+                    "updatedAt": "2023-10-30T12:46:46.893Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        673
+                    ],
+                    [
+                        414,
+                        606
+                    ],
+                    [
+                        483,
+                        551
+                    ],
+                    [
+                        553,
+                        594
+                    ],
+                    [
+                        572,
+                        661
+                    ],
+                    [
+                        539,
+                        659
+                    ],
+                    [
+                        535,
+                        612
+                    ],
+                    [
+                        493,
+                        585
+                    ],
+                    [
+                        448,
+                        608
+                    ],
+                    [
+                        451,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

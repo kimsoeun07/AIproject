@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77182034,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.974Z",
+            "updatedAt": "2023-10-30T12:46:41.974Z",
+            "tags": [
+                {
+                    "id": 44363315,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Cupola",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.974Z",
+                    "updatedAt": "2023-10-30T12:46:41.974Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        429
+                    ],
+                    [
+                        314,
+                        396
+                    ],
+                    [
+                        400,
+                        381
+                    ],
+                    [
+                        487,
+                        375
+                    ],
+                    [
+                        572,
+                        381
+                    ],
+                    [
+                        572,
+                        435
+                    ],
+                    [
+                        497,
+                        449
+                    ],
+                    [
+                        420,
+                        462
+                    ],
+                    [
+                        344,
+                        488
+                    ],
+                    [
+                        271,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182033,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.973Z",
+            "updatedAt": "2023-10-30T12:46:41.973Z",
+            "tags": [
+                {
+                    "id": 44363314,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Sanjo",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.973Z",
+                    "updatedAt": "2023-10-30T12:46:41.973Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        360
+                    ],
+                    [
+                        684,
+                        370
+                    ],
+                    [
+                        752,
+                        396
+                    ],
+                    [
+                        814,
+                        427
+                    ],
+                    [
+                        878,
+                        472
+                    ],
+                    [
+                        824,
+                        544
+                    ],
+                    [
+                        769,
+                        512
+                    ],
+                    [
+                        713,
+                        482
+                    ],
+                    [
+                        657,
+                        453
+                    ],
+                    [
+                        601,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182032,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.972Z",
+            "updatedAt": "2023-10-30T12:46:41.972Z",
+            "tags": [
+                {
+                    "id": 44363313,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.972Z",
+                    "updatedAt": "2023-10-30T12:46:41.972Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        637
+                    ],
+                    [
+                        423,
+                        640
+                    ],
+                    [
+                        572,
+                        650
+                    ],
+                    [
+                        720,
+                        652
+                    ],
+                    [
+                        867,
+                        664
+                    ],
+                    [
+                        864,
+                        762
+                    ],
+                    [
+                        714,
+                        757
+                    ],
+                    [
+                        564,
+                        755
+                    ],
+                    [
+                        414,
+                        748
+                    ],
+                    [
+                        264,
+                        735
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

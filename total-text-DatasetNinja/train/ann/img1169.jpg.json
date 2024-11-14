@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 676,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77175134,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:12.584Z",
+            "updatedAt": "2023-10-30T12:41:12.584Z",
+            "tags": [
+                {
+                    "id": 44356770,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FLAMINGOS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:12.584Z",
+                    "updatedAt": "2023-10-30T12:41:12.584Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        120
+                    ],
+                    [
+                        166,
+                        95
+                    ],
+                    [
+                        254,
+                        85
+                    ],
+                    [
+                        345,
+                        97
+                    ],
+                    [
+                        432,
+                        120
+                    ],
+                    [
+                        427,
+                        167
+                    ],
+                    [
+                        341,
+                        148
+                    ],
+                    [
+                        252,
+                        141
+                    ],
+                    [
+                        165,
+                        150
+                    ],
+                    [
+                        77,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175133,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:12.584Z",
+            "updatedAt": "2023-10-30T12:41:12.584Z",
+            "tags": [
+                {
+                    "id": 44356769,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CLUB",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:12.583Z",
+                    "updatedAt": "2023-10-30T12:41:12.583Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        161
+                    ],
+                    [
+                        209,
+                        162
+                    ],
+                    [
+                        246,
+                        161
+                    ],
+                    [
+                        282,
+                        160
+                    ],
+                    [
+                        318,
+                        159
+                    ],
+                    [
+                        322,
+                        204
+                    ],
+                    [
+                        285,
+                        201
+                    ],
+                    [
+                        249,
+                        203
+                    ],
+                    [
+                        212,
+                        205
+                    ],
+                    [
+                        177,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

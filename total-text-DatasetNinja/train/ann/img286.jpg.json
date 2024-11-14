@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 180
+    },
+    "objects": [
+        {
+            "id": 77179621,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.921Z",
+            "updatedAt": "2023-10-30T12:44:08.921Z",
+            "tags": [
+                {
+                    "id": 44361257,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TacoTime",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.921Z",
+                    "updatedAt": "2023-10-30T12:44:08.921Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        85
+                    ],
+                    [
+                        94,
+                        82
+                    ],
+                    [
+                        106,
+                        82
+                    ],
+                    [
+                        118,
+                        83
+                    ],
+                    [
+                        131,
+                        89
+                    ],
+                    [
+                        130,
+                        97
+                    ],
+                    [
+                        121,
+                        94
+                    ],
+                    [
+                        110,
+                        92
+                    ],
+                    [
+                        97,
+                        92
+                    ],
+                    [
+                        87,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

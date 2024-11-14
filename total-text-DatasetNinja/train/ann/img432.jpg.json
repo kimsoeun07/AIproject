@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1002,
+        "width": 864
+    },
+    "objects": [
+        {
+            "id": 77180884,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.517Z",
+            "updatedAt": "2023-10-30T12:45:53.517Z",
+            "tags": [
+                {
+                    "id": 44362165,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Euthanize",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.517Z",
+                    "updatedAt": "2023-10-30T12:45:53.517Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        360
+                    ],
+                    [
+                        530,
+                        346
+                    ],
+                    [
+                        594,
+                        346
+                    ],
+                    [
+                        656,
+                        364
+                    ],
+                    [
+                        718,
+                        406
+                    ],
+                    [
+                        697,
+                        460
+                    ],
+                    [
+                        639,
+                        415
+                    ],
+                    [
+                        579,
+                        398
+                    ],
+                    [
+                        525,
+                        397
+                    ],
+                    [
+                        468,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180883,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.516Z",
+            "updatedAt": "2023-10-30T12:45:53.516Z",
+            "tags": [
+                {
+                    "id": 44362164,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Vick",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.516Z",
+                    "updatedAt": "2023-10-30T12:45:53.516Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        532,
+                        393
+                    ],
+                    [
+                        562,
+                        399
+                    ],
+                    [
+                        593,
+                        404
+                    ],
+                    [
+                        622,
+                        409
+                    ],
+                    [
+                        651,
+                        423
+                    ],
+                    [
+                        640,
+                        472
+                    ],
+                    [
+                        608,
+                        467
+                    ],
+                    [
+                        579,
+                        461
+                    ],
+                    [
+                        547,
+                        454
+                    ],
+                    [
+                        519,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

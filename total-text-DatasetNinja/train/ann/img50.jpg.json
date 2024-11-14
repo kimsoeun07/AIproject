@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 786
+    },
+    "objects": [
+        {
+            "id": 77181263,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.918Z",
+            "updatedAt": "2023-10-30T12:46:09.918Z",
+            "tags": [
+                {
+                    "id": 44362544,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "13",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.918Z",
+                    "updatedAt": "2023-10-30T12:46:09.918Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        304
+                    ],
+                    [
+                        449,
+                        306
+                    ],
+                    [
+                        463,
+                        307
+                    ],
+                    [
+                        482,
+                        312
+                    ],
+                    [
+                        498,
+                        319
+                    ],
+                    [
+                        501,
+                        364
+                    ],
+                    [
+                        484,
+                        363
+                    ],
+                    [
+                        467,
+                        360
+                    ],
+                    [
+                        451,
+                        355
+                    ],
+                    [
+                        435,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181262,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.917Z",
+            "updatedAt": "2023-10-30T12:46:09.917Z",
+            "tags": [
+                {
+                    "id": 44362543,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BANDON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.917Z",
+                    "updatedAt": "2023-10-30T12:46:09.917Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        750
+                    ],
+                    [
+                        297,
+                        689
+                    ],
+                    [
+                        438,
+                        676
+                    ],
+                    [
+                        587,
+                        686
+                    ],
+                    [
+                        678,
+                        730
+                    ],
+                    [
+                        661,
+                        801
+                    ],
+                    [
+                        554,
+                        766
+                    ],
+                    [
+                        440,
+                        750
+                    ],
+                    [
+                        337,
+                        774
+                    ],
+                    [
+                        216,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181261,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.915Z",
+            "updatedAt": "2023-10-30T12:46:09.915Z",
+            "tags": [
+                {
+                    "id": 44362542,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PRESERVE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.915Z",
+                    "updatedAt": "2023-10-30T12:46:09.915Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        792
+                    ],
+                    [
+                        376,
+                        779
+                    ],
+                    [
+                        442,
+                        778
+                    ],
+                    [
+                        513,
+                        779
+                    ],
+                    [
+                        582,
+                        777
+                    ],
+                    [
+                        585,
+                        822
+                    ],
+                    [
+                        515,
+                        827
+                    ],
+                    [
+                        443,
+                        830
+                    ],
+                    [
+                        374,
+                        834
+                    ],
+                    [
+                        301,
+                        837
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

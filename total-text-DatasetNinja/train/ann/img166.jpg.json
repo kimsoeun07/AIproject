@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1067,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77178828,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.970Z",
+            "updatedAt": "2023-10-30T12:42:32.970Z",
+            "tags": [
+                {
+                    "id": 44360464,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MALUKU",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.970Z",
+                    "updatedAt": "2023-10-30T12:42:32.970Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        502,
+                        538
+                    ],
+                    [
+                        596,
+                        538
+                    ],
+                    [
+                        692,
+                        537
+                    ],
+                    [
+                        781,
+                        538
+                    ],
+                    [
+                        875,
+                        539
+                    ],
+                    [
+                        871,
+                        685
+                    ],
+                    [
+                        779,
+                        643
+                    ],
+                    [
+                        681,
+                        623
+                    ],
+                    [
+                        590,
+                        646
+                    ],
+                    [
+                        498,
+                        674
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2112,
+        "width": 2816
+    },
+    "objects": [
+        {
+            "id": 77179172,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.853Z",
+            "updatedAt": "2023-10-30T12:43:47.853Z",
+            "tags": [
+                {
+                    "id": 44360808,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Antonic",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.852Z",
+                    "updatedAt": "2023-10-30T12:43:47.852Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1009,
+                        803
+                    ],
+                    [
+                        1148,
+                        791
+                    ],
+                    [
+                        1284,
+                        776
+                    ],
+                    [
+                        1419,
+                        762
+                    ],
+                    [
+                        1555,
+                        746
+                    ],
+                    [
+                        1549,
+                        887
+                    ],
+                    [
+                        1411,
+                        950
+                    ],
+                    [
+                        1273,
+                        1034
+                    ],
+                    [
+                        1123,
+                        1136
+                    ],
+                    [
+                        979,
+                        1199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179171,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.852Z",
+            "updatedAt": "2023-10-30T12:43:47.852Z",
+            "tags": [
+                {
+                    "id": 44360807,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Blance",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.852Z",
+                    "updatedAt": "2023-10-30T12:43:47.852Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1988,
+                        728
+                    ],
+                    [
+                        2111,
+                        735
+                    ],
+                    [
+                        2228,
+                        745
+                    ],
+                    [
+                        2360,
+                        774
+                    ],
+                    [
+                        2480,
+                        842
+                    ],
+                    [
+                        2429,
+                        1052
+                    ],
+                    [
+                        2305,
+                        987
+                    ],
+                    [
+                        2180,
+                        921
+                    ],
+                    [
+                        2066,
+                        888
+                    ],
+                    [
+                        1936,
+                        833
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

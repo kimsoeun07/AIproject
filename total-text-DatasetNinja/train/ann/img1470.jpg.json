@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 887,
+        "width": 662
+    },
+    "objects": [
+        {
+            "id": 77178032,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.353Z",
+            "updatedAt": "2023-10-30T12:42:16.353Z",
+            "tags": [
+                {
+                    "id": 44359668,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LOTS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.353Z",
+                    "updatedAt": "2023-10-30T12:42:16.353Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        515
+                    ],
+                    [
+                        271,
+                        516
+                    ],
+                    [
+                        315,
+                        516
+                    ],
+                    [
+                        359,
+                        516
+                    ],
+                    [
+                        401,
+                        515
+                    ],
+                    [
+                        404,
+                        561
+                    ],
+                    [
+                        364,
+                        572
+                    ],
+                    [
+                        323,
+                        571
+                    ],
+                    [
+                        275,
+                        577
+                    ],
+                    [
+                        236,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178031,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.352Z",
+            "updatedAt": "2023-10-30T12:42:16.352Z",
+            "tags": [
+                {
+                    "id": 44359667,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KRAAMHUYS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.349Z",
+                    "updatedAt": "2023-10-30T12:42:16.349Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        657
+                    ],
+                    [
+                        244,
+                        719
+                    ],
+                    [
+                        325,
+                        739
+                    ],
+                    [
+                        404,
+                        721
+                    ],
+                    [
+                        482,
+                        656
+                    ],
+                    [
+                        522,
+                        688
+                    ],
+                    [
+                        426,
+                        768
+                    ],
+                    [
+                        327,
+                        788
+                    ],
+                    [
+                        227,
+                        773
+                    ],
+                    [
+                        129,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

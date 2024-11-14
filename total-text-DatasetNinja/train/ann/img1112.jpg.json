@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77174525,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.552Z",
+            "updatedAt": "2023-10-30T12:41:01.552Z",
+            "tags": [
+                {
+                    "id": 44356161,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STBORIHACE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.551Z",
+                    "updatedAt": "2023-10-30T12:41:01.551Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        95
+                    ],
+                    [
+                        535,
+                        97
+                    ],
+                    [
+                        620,
+                        101
+                    ],
+                    [
+                        708,
+                        104
+                    ],
+                    [
+                        795,
+                        114
+                    ],
+                    [
+                        794,
+                        148
+                    ],
+                    [
+                        708,
+                        146
+                    ],
+                    [
+                        621,
+                        143
+                    ],
+                    [
+                        533,
+                        139
+                    ],
+                    [
+                        446,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77174524,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.551Z",
+            "updatedAt": "2023-10-30T12:41:01.551Z",
+            "tags": [
+                {
+                    "id": 44356160,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "sanoon",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.551Z",
+                    "updatedAt": "2023-10-30T12:41:01.551Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        506,
+                        267
+                    ],
+                    [
+                        565,
+                        247
+                    ],
+                    [
+                        622,
+                        243
+                    ],
+                    [
+                        680,
+                        255
+                    ],
+                    [
+                        736,
+                        268
+                    ],
+                    [
+                        712,
+                        322
+                    ],
+                    [
+                        662,
+                        299
+                    ],
+                    [
+                        613,
+                        290
+                    ],
+                    [
+                        563,
+                        301
+                    ],
+                    [
+                        515,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

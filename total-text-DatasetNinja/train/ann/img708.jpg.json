@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 77182059,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.986Z",
+            "updatedAt": "2023-10-30T12:46:41.986Z",
+            "tags": [
+                {
+                    "id": 44363340,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TapiocaBelize",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.985Z",
+                    "updatedAt": "2023-10-30T12:46:41.985Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        701
+                    ],
+                    [
+                        275,
+                        704
+                    ],
+                    [
+                        478,
+                        704
+                    ],
+                    [
+                        676,
+                        704
+                    ],
+                    [
+                        870,
+                        705
+                    ],
+                    [
+                        872,
+                        807
+                    ],
+                    [
+                        674,
+                        811
+                    ],
+                    [
+                        476,
+                        813
+                    ],
+                    [
+                        284,
+                        812
+                    ],
+                    [
+                        83,
+                        813
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182058,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.984Z",
+            "updatedAt": "2023-10-30T12:46:41.984Z",
+            "tags": [
+                {
+                    "id": 44363339,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Tapioca",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.983Z",
+                    "updatedAt": "2023-10-30T12:46:41.983Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        458
+                    ],
+                    [
+                        383,
+                        478
+                    ],
+                    [
+                        388,
+                        502
+                    ],
+                    [
+                        409,
+                        524
+                    ],
+                    [
+                        459,
+                        543
+                    ],
+                    [
+                        460,
+                        573
+                    ],
+                    [
+                        391,
+                        545
+                    ],
+                    [
+                        358,
+                        519
+                    ],
+                    [
+                        345,
+                        491
+                    ],
+                    [
+                        342,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182057,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.982Z",
+            "updatedAt": "2023-10-30T12:46:41.982Z",
+            "tags": [
+                {
+                    "id": 44363338,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Belize",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.982Z",
+                    "updatedAt": "2023-10-30T12:46:41.982Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        467,
+                        536
+                    ],
+                    [
+                        507,
+                        518
+                    ],
+                    [
+                        518,
+                        500
+                    ],
+                    [
+                        522,
+                        483
+                    ],
+                    [
+                        524,
+                        466
+                    ],
+                    [
+                        554,
+                        468
+                    ],
+                    [
+                        550,
+                        496
+                    ],
+                    [
+                        545,
+                        523
+                    ],
+                    [
+                        526,
+                        549
+                    ],
+                    [
+                        474,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

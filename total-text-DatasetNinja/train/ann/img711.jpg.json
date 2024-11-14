@@ -1,0 +1,796 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77182082,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.990Z",
+            "updatedAt": "2023-10-30T12:46:41.990Z",
+            "tags": [
+                {
+                    "id": 44363363,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Spaghetti",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.990Z",
+                    "updatedAt": "2023-10-30T12:46:41.990Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        748
+                    ],
+                    [
+                        394,
+                        751
+                    ],
+                    [
+                        452,
+                        750
+                    ],
+                    [
+                        511,
+                        751
+                    ],
+                    [
+                        570,
+                        748
+                    ],
+                    [
+                        570,
+                        807
+                    ],
+                    [
+                        513,
+                        807
+                    ],
+                    [
+                        453,
+                        807
+                    ],
+                    [
+                        396,
+                        808
+                    ],
+                    [
+                        337,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182081,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.989Z",
+            "updatedAt": "2023-10-30T12:46:41.989Z",
+            "tags": [
+                {
+                    "id": 44363362,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Curry",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.988Z",
+                    "updatedAt": "2023-10-30T12:46:41.988Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        953,
+                        749
+                    ],
+                    [
+                        997,
+                        751
+                    ],
+                    [
+                        1041,
+                        752
+                    ],
+                    [
+                        1084,
+                        753
+                    ],
+                    [
+                        1127,
+                        749
+                    ],
+                    [
+                        1127,
+                        809
+                    ],
+                    [
+                        1085,
+                        810
+                    ],
+                    [
+                        1042,
+                        809
+                    ],
+                    [
+                        997,
+                        808
+                    ],
+                    [
+                        953,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182080,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.988Z",
+            "updatedAt": "2023-10-30T12:46:41.988Z",
+            "tags": [
+                {
+                    "id": 44363361,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Shakeys",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.988Z",
+                    "updatedAt": "2023-10-30T12:46:41.988Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        438
+                    ],
+                    [
+                        515,
+                        439
+                    ],
+                    [
+                        632,
+                        441
+                    ],
+                    [
+                        750,
+                        445
+                    ],
+                    [
+                        857,
+                        438
+                    ],
+                    [
+                        857,
+                        563
+                    ],
+                    [
+                        746,
+                        560
+                    ],
+                    [
+                        630,
+                        562
+                    ],
+                    [
+                        517,
+                        565
+                    ],
+                    [
+                        403,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182079,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.987Z",
+            "updatedAt": "2023-10-30T12:46:41.987Z",
+            "tags": [
+                {
+                    "id": 44363360,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Pizza",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.987Z",
+                    "updatedAt": "2023-10-30T12:46:41.987Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        749
+                    ],
+                    [
+                        158,
+                        750
+                    ],
+                    [
+                        200,
+                        750
+                    ],
+                    [
+                        241,
+                        752
+                    ],
+                    [
+                        282,
+                        749
+                    ],
+                    [
+                        282,
+                        797
+                    ],
+                    [
+                        241,
+                        798
+                    ],
+                    [
+                        198,
+                        798
+                    ],
+                    [
+                        158,
+                        798
+                    ],
+                    [
+                        118,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182078,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.987Z",
+            "updatedAt": "2023-10-30T12:46:41.987Z",
+            "tags": [
+                {
+                    "id": 44363359,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Potato",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.986Z",
+                    "updatedAt": "2023-10-30T12:46:41.986Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        709,
+                        752
+                    ],
+                    [
+                        760,
+                        753
+                    ],
+                    [
+                        812,
+                        753
+                    ],
+                    [
+                        864,
+                        756
+                    ],
+                    [
+                        914,
+                        752
+                    ],
+                    [
+                        914,
+                        805
+                    ],
+                    [
+                        862,
+                        807
+                    ],
+                    [
+                        807,
+                        806
+                    ],
+                    [
+                        759,
+                        807
+                    ],
+                    [
+                        709,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182077,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.986Z",
+            "updatedAt": "2023-10-30T12:46:41.986Z",
+            "tags": [
+                {
+                    "id": 44363358,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Shakeys",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.985Z",
+                    "updatedAt": "2023-10-30T12:46:41.985Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        685
+                    ],
+                    [
+                        314,
+                        690
+                    ],
+                    [
+                        348,
+                        691
+                    ],
+                    [
+                        383,
+                        689
+                    ],
+                    [
+                        417,
+                        685
+                    ],
+                    [
+                        417,
+                        730
+                    ],
+                    [
+                        381,
+                        730
+                    ],
+                    [
+                        347,
+                        731
+                    ],
+                    [
+                        310,
+                        730
+                    ],
+                    [
+                        278,
+                        730
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182076,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.984Z",
+            "updatedAt": "2023-10-30T12:46:41.984Z",
+            "tags": [
+                {
+                    "id": 44363357,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.983Z",
+                    "updatedAt": "2023-10-30T12:46:41.983Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        314
+                    ],
+                    [
+                        647,
+                        314
+                    ],
+                    [
+                        910,
+                        314
+                    ],
+                    [
+                        910,
+                        422
+                    ],
+                    [
+                        647,
+                        422
+                    ],
+                    [
+                        383,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182075,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.983Z",
+            "updatedAt": "2023-10-30T12:46:41.983Z",
+            "tags": [
+                {
+                    "id": 44363356,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Shakeys",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.982Z",
+                    "updatedAt": "2023-10-30T12:46:41.982Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        853,
+                        696
+                    ],
+                    [
+                        883,
+                        699
+                    ],
+                    [
+                        915,
+                        699
+                    ],
+                    [
+                        946,
+                        699
+                    ],
+                    [
+                        978,
+                        696
+                    ],
+                    [
+                        978,
+                        737
+                    ],
+                    [
+                        945,
+                        737
+                    ],
+                    [
+                        914,
+                        735
+                    ],
+                    [
+                        884,
+                        737
+                    ],
+                    [
+                        853,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182074,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.982Z",
+            "updatedAt": "2023-10-30T12:46:41.982Z",
+            "tags": [
+                {
+                    "id": 44363355,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.982Z",
+                    "updatedAt": "2023-10-30T12:46:41.982Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        911,
+                        752
+                    ],
+                    [
+                        933,
+                        752
+                    ],
+                    [
+                        955,
+                        752
+                    ],
+                    [
+                        955,
+                        812
+                    ],
+                    [
+                        933,
+                        812
+                    ],
+                    [
+                        911,
+                        812
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182073,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.981Z",
+            "updatedAt": "2023-10-30T12:46:41.981Z",
+            "tags": [
+                {
+                    "id": 44363354,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.981Z",
+                    "updatedAt": "2023-10-30T12:46:41.981Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        747
+                    ],
+                    [
+                        313,
+                        747
+                    ],
+                    [
+                        335,
+                        747
+                    ],
+                    [
+                        335,
+                        809
+                    ],
+                    [
+                        313,
+                        809
+                    ],
+                    [
+                        290,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182072,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.980Z",
+            "updatedAt": "2023-10-30T12:46:41.980Z",
+            "tags": [
+                {
+                    "id": 44363353,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Pizza",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.980Z",
+                    "updatedAt": "2023-10-30T12:46:41.980Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        453
+                    ],
+                    [
+                        141,
+                        423
+                    ],
+                    [
+                        205,
+                        403
+                    ],
+                    [
+                        269,
+                        378
+                    ],
+                    [
+                        332,
+                        354
+                    ],
+                    [
+                        365,
+                        415
+                    ],
+                    [
+                        302,
+                        439
+                    ],
+                    [
+                        243,
+                        463
+                    ],
+                    [
+                        179,
+                        502
+                    ],
+                    [
+                        118,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182071,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.979Z",
+            "updatedAt": "2023-10-30T12:46:41.979Z",
+            "tags": [
+                {
+                    "id": 44363352,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Pizza",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.979Z",
+                    "updatedAt": "2023-10-30T12:46:41.979Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        919,
+                        372
+                    ],
+                    [
+                        974,
+                        398
+                    ],
+                    [
+                        1030,
+                        431
+                    ],
+                    [
+                        1093,
+                        459
+                    ],
+                    [
+                        1148,
+                        493
+                    ],
+                    [
+                        1124,
+                        556
+                    ],
+                    [
+                        1064,
+                        521
+                    ],
+                    [
+                        1003,
+                        483
+                    ],
+                    [
+                        940,
+                        458
+                    ],
+                    [
+                        883,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182070,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.978Z",
+            "updatedAt": "2023-10-30T12:46:41.978Z",
+            "tags": [
+                {
+                    "id": 44363351,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.978Z",
+                    "updatedAt": "2023-10-30T12:46:41.978Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1189,
+                        496
+                    ],
+                    [
+                        1259,
+                        493
+                    ],
+                    [
+                        1270,
+                        669
+                    ],
+                    [
+                        1208,
+                        658
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

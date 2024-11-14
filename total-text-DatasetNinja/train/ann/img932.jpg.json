@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1066,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77184235,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.639Z",
+            "updatedAt": "2023-10-30T12:47:45.639Z",
+            "tags": [
+                {
+                    "id": 44365516,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HOTEL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.639Z",
+                    "updatedAt": "2023-10-30T12:47:45.639Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        932,
+                        740
+                    ],
+                    [
+                        967,
+                        755
+                    ],
+                    [
+                        1001,
+                        759
+                    ],
+                    [
+                        1038,
+                        758
+                    ],
+                    [
+                        1072,
+                        745
+                    ],
+                    [
+                        1082,
+                        785
+                    ],
+                    [
+                        1044,
+                        797
+                    ],
+                    [
+                        1004,
+                        800
+                    ],
+                    [
+                        965,
+                        797
+                    ],
+                    [
+                        926,
+                        782
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184234,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.638Z",
+            "updatedAt": "2023-10-30T12:47:45.638Z",
+            "tags": [
+                {
+                    "id": 44365515,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SAINT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.638Z",
+                    "updatedAt": "2023-10-30T12:47:45.638Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        893,
+                        760
+                    ],
+                    [
+                        917,
+                        778
+                    ],
+                    [
+                        942,
+                        791
+                    ],
+                    [
+                        965,
+                        799
+                    ],
+                    [
+                        988,
+                        800
+                    ],
+                    [
+                        967,
+                        842
+                    ],
+                    [
+                        944,
+                        834
+                    ],
+                    [
+                        919,
+                        824
+                    ],
+                    [
+                        894,
+                        808
+                    ],
+                    [
+                        871,
+                        790
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184233,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.636Z",
+            "updatedAt": "2023-10-30T12:47:45.636Z",
+            "tags": [
+                {
+                    "id": 44365514,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MARTIN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.635Z",
+                    "updatedAt": "2023-10-30T12:47:45.635Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        998,
+                        803
+                    ],
+                    [
+                        1027,
+                        804
+                    ],
+                    [
+                        1052,
+                        800
+                    ],
+                    [
+                        1081,
+                        786
+                    ],
+                    [
+                        1111,
+                        761
+                    ],
+                    [
+                        1139,
+                        797
+                    ],
+                    [
+                        1106,
+                        818
+                    ],
+                    [
+                        1071,
+                        833
+                    ],
+                    [
+                        1032,
+                        842
+                    ],
+                    [
+                        997,
+                        844
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

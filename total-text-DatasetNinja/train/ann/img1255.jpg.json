@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 608
+    },
+    "objects": [
+        {
+            "id": 77176100,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.283Z",
+            "updatedAt": "2023-10-30T12:41:26.283Z",
+            "tags": [
+                {
+                    "id": 44357736,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "OTTOS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.282Z",
+                    "updatedAt": "2023-10-30T12:41:26.282Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        276
+                    ],
+                    [
+                        251,
+                        283
+                    ],
+                    [
+                        295,
+                        287
+                    ],
+                    [
+                        336,
+                        290
+                    ],
+                    [
+                        376,
+                        294
+                    ],
+                    [
+                        379,
+                        331
+                    ],
+                    [
+                        335,
+                        327
+                    ],
+                    [
+                        291,
+                        325
+                    ],
+                    [
+                        249,
+                        321
+                    ],
+                    [
+                        206,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176099,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.282Z",
+            "updatedAt": "2023-10-30T12:41:26.282Z",
+            "tags": [
+                {
+                    "id": 44357735,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BAKERY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.282Z",
+                    "updatedAt": "2023-10-30T12:41:26.282Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        468
+                    ],
+                    [
+                        248,
+                        499
+                    ],
+                    [
+                        294,
+                        509
+                    ],
+                    [
+                        341,
+                        503
+                    ],
+                    [
+                        386,
+                        478
+                    ],
+                    [
+                        409,
+                        522
+                    ],
+                    [
+                        350,
+                        548
+                    ],
+                    [
+                        290,
+                        558
+                    ],
+                    [
+                        226,
+                        543
+                    ],
+                    [
+                        169,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

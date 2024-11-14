@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1087,
+        "width": 1020
+    },
+    "objects": [
+        {
+            "id": 77179920,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.963Z",
+            "updatedAt": "2023-10-30T12:44:14.963Z",
+            "tags": [
+                {
+                    "id": 44361556,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "POLLUTION",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.963Z",
+                    "updatedAt": "2023-10-30T12:44:14.963Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        382
+                    ],
+                    [
+                        199,
+                        222
+                    ],
+                    [
+                        293,
+                        139
+                    ],
+                    [
+                        390,
+                        93
+                    ],
+                    [
+                        484,
+                        63
+                    ],
+                    [
+                        480,
+                        154
+                    ],
+                    [
+                        400,
+                        161
+                    ],
+                    [
+                        324,
+                        193
+                    ],
+                    [
+                        247,
+                        259
+                    ],
+                    [
+                        171,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179919,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.963Z",
+            "updatedAt": "2023-10-30T12:44:14.963Z",
+            "tags": [
+                {
+                    "id": 44361555,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "INTERDITE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.962Z",
+                    "updatedAt": "2023-10-30T12:44:14.962Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        60
+                    ],
+                    [
+                        640,
+                        93
+                    ],
+                    [
+                        732,
+                        140
+                    ],
+                    [
+                        822,
+                        225
+                    ],
+                    [
+                        910,
+                        378
+                    ],
+                    [
+                        814,
+                        414
+                    ],
+                    [
+                        744,
+                        239
+                    ],
+                    [
+                        675,
+                        186
+                    ],
+                    [
+                        602,
+                        150
+                    ],
+                    [
+                        537,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

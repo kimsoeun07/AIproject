@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1600,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 77184493,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.288Z",
+            "updatedAt": "2023-10-30T12:47:50.288Z",
+            "tags": [
+                {
+                    "id": 44365774,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MAIRTOVN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.287Z",
+                    "updatedAt": "2023-10-30T12:47:50.287Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        572
+                    ],
+                    [
+                        489,
+                        518
+                    ],
+                    [
+                        415,
+                        507
+                    ],
+                    [
+                        343,
+                        524
+                    ],
+                    [
+                        272,
+                        590
+                    ],
+                    [
+                        308,
+                        619
+                    ],
+                    [
+                        365,
+                        570
+                    ],
+                    [
+                        418,
+                        556
+                    ],
+                    [
+                        473,
+                        570
+                    ],
+                    [
+                        526,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184492,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:50.286Z",
+            "updatedAt": "2023-10-30T12:47:50.286Z",
+            "tags": [
+                {
+                    "id": 44365773,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KINDERGARTEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:50.285Z",
+                    "updatedAt": "2023-10-30T12:47:50.285Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        678
+                    ],
+                    [
+                        504,
+                        764
+                    ],
+                    [
+                        423,
+                        788
+                    ],
+                    [
+                        352,
+                        764
+                    ],
+                    [
+                        298,
+                        679
+                    ],
+                    [
+                        244,
+                        693
+                    ],
+                    [
+                        305,
+                        804
+                    ],
+                    [
+                        422,
+                        846
+                    ],
+                    [
+                        535,
+                        810
+                    ],
+                    [
+                        598,
+                        689
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

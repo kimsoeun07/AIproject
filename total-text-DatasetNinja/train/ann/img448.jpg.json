@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1936,
+        "width": 2592
+    },
+    "objects": [
+        {
+            "id": 77181159,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.243Z",
+            "updatedAt": "2023-10-30T12:46:03.243Z",
+            "tags": [
+                {
+                    "id": 44362440,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Zum",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.243Z",
+                    "updatedAt": "2023-10-30T12:46:03.243Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        721
+                    ],
+                    [
+                        192,
+                        652
+                    ],
+                    [
+                        347,
+                        614
+                    ],
+                    [
+                        502,
+                        587
+                    ],
+                    [
+                        656,
+                        532
+                    ],
+                    [
+                        740,
+                        697
+                    ],
+                    [
+                        590,
+                        774
+                    ],
+                    [
+                        433,
+                        837
+                    ],
+                    [
+                        276,
+                        899
+                    ],
+                    [
+                        128,
+                        985
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181158,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.242Z",
+            "updatedAt": "2023-10-30T12:46:03.242Z",
+            "tags": [
+                {
+                    "id": 44362439,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Franziskaner",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.242Z",
+                    "updatedAt": "2023-10-30T12:46:03.242Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        415
+                    ],
+                    [
+                        1215,
+                        398
+                    ],
+                    [
+                        1650,
+                        421
+                    ],
+                    [
+                        2086,
+                        556
+                    ],
+                    [
+                        2517,
+                        917
+                    ],
+                    [
+                        2374,
+                        1005
+                    ],
+                    [
+                        1983,
+                        780
+                    ],
+                    [
+                        1589,
+                        641
+                    ],
+                    [
+                        1197,
+                        614
+                    ],
+                    [
+                        806,
+                        713
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

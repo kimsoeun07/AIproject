@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77182729,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.678Z",
+            "updatedAt": "2023-10-30T12:46:52.678Z",
+            "tags": [
+                {
+                    "id": 44364010,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "omo",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.678Z",
+                    "updatedAt": "2023-10-30T12:46:52.678Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        706,
+                        341
+                    ],
+                    [
+                        726,
+                        344
+                    ],
+                    [
+                        747,
+                        344
+                    ],
+                    [
+                        769,
+                        344
+                    ],
+                    [
+                        788,
+                        342
+                    ],
+                    [
+                        788,
+                        377
+                    ],
+                    [
+                        768,
+                        376
+                    ],
+                    [
+                        747,
+                        375
+                    ],
+                    [
+                        723,
+                        374
+                    ],
+                    [
+                        702,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182728,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.678Z",
+            "updatedAt": "2023-10-30T12:46:52.678Z",
+            "tags": [
+                {
+                    "id": 44364009,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Shenanigans",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.677Z",
+                    "updatedAt": "2023-10-30T12:46:52.677Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        209
+                    ],
+                    [
+                        401,
+                        211
+                    ],
+                    [
+                        515,
+                        247
+                    ],
+                    [
+                        635,
+                        249
+                    ],
+                    [
+                        750,
+                        262
+                    ],
+                    [
+                        753,
+                        332
+                    ],
+                    [
+                        649,
+                        328
+                    ],
+                    [
+                        606,
+                        358
+                    ],
+                    [
+                        535,
+                        313
+                    ],
+                    [
+                        271,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182727,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.677Z",
+            "updatedAt": "2023-10-30T12:46:52.677Z",
+            "tags": [
+                {
+                    "id": 44364008,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.677Z",
+                    "updatedAt": "2023-10-30T12:46:52.677Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        607
+                    ],
+                    [
+                        341,
+                        607
+                    ],
+                    [
+                        339,
+                        652
+                    ],
+                    [
+                        209,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

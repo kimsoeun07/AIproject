@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 947,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77182668,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.667Z",
+            "updatedAt": "2023-10-30T12:46:52.667Z",
+            "tags": [
+                {
+                    "id": 44363949,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MELUR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.667Z",
+                    "updatedAt": "2023-10-30T12:46:52.667Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        457
+                    ],
+                    [
+                        351,
+                        354
+                    ],
+                    [
+                        392,
+                        320
+                    ],
+                    [
+                        433,
+                        297
+                    ],
+                    [
+                        475,
+                        277
+                    ],
+                    [
+                        511,
+                        328
+                    ],
+                    [
+                        480,
+                        325
+                    ],
+                    [
+                        443,
+                        341
+                    ],
+                    [
+                        392,
+                        388
+                    ],
+                    [
+                        377,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182667,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.666Z",
+            "updatedAt": "2023-10-30T12:46:52.666Z",
+            "tags": [
+                {
+                    "id": 44363948,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARKING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.666Z",
+                    "updatedAt": "2023-10-30T12:46:52.666Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        556,
+                        263
+                    ],
+                    [
+                        631,
+                        266
+                    ],
+                    [
+                        705,
+                        288
+                    ],
+                    [
+                        826,
+                        368
+                    ],
+                    [
+                        857,
+                        478
+                    ],
+                    [
+                        784,
+                        500
+                    ],
+                    [
+                        754,
+                        389
+                    ],
+                    [
+                        667,
+                        327
+                    ],
+                    [
+                        610,
+                        314
+                    ],
+                    [
+                        548,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182666,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.666Z",
+            "updatedAt": "2023-10-30T12:46:52.666Z",
+            "tags": [
+                {
+                    "id": 44363947,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SDN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.665Z",
+                    "updatedAt": "2023-10-30T12:46:52.665Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        512
+                    ],
+                    [
+                        433,
+                        546
+                    ],
+                    [
+                        467,
+                        561
+                    ],
+                    [
+                        500,
+                        571
+                    ],
+                    [
+                        533,
+                        571
+                    ],
+                    [
+                        521,
+                        620
+                    ],
+                    [
+                        481,
+                        609
+                    ],
+                    [
+                        441,
+                        591
+                    ],
+                    [
+                        400,
+                        573
+                    ],
+                    [
+                        361,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182665,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:52.665Z",
+            "updatedAt": "2023-10-30T12:46:52.665Z",
+            "tags": [
+                {
+                    "id": 44363946,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BHD",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:52.665Z",
+                    "updatedAt": "2023-10-30T12:46:52.665Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        581
+                    ],
+                    [
+                        636,
+                        576
+                    ],
+                    [
+                        674,
+                        567
+                    ],
+                    [
+                        709,
+                        552
+                    ],
+                    [
+                        745,
+                        529
+                    ],
+                    [
+                        788,
+                        556
+                    ],
+                    [
+                        747,
+                        587
+                    ],
+                    [
+                        701,
+                        604
+                    ],
+                    [
+                        659,
+                        620
+                    ],
+                    [
+                        616,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

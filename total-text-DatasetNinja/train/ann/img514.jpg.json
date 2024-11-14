@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77181661,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:18.559Z",
+            "updatedAt": "2023-10-30T12:46:18.559Z",
+            "tags": [
+                {
+                    "id": 44362942,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PREMIER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:18.558Z",
+                    "updatedAt": "2023-10-30T12:46:18.558Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        248
+                    ],
+                    [
+                        446,
+                        173
+                    ],
+                    [
+                        522,
+                        153
+                    ],
+                    [
+                        599,
+                        183
+                    ],
+                    [
+                        652,
+                        258
+                    ],
+                    [
+                        619,
+                        289
+                    ],
+                    [
+                        572,
+                        227
+                    ],
+                    [
+                        518,
+                        205
+                    ],
+                    [
+                        468,
+                        217
+                    ],
+                    [
+                        419,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181660,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:18.558Z",
+            "updatedAt": "2023-10-30T12:46:18.558Z",
+            "tags": [
+                {
+                    "id": 44362941,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Grihalakshmi",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:18.558Z",
+                    "updatedAt": "2023-10-30T12:46:18.558Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        276
+                    ],
+                    [
+                        436,
+                        282
+                    ],
+                    [
+                        547,
+                        290
+                    ],
+                    [
+                        658,
+                        299
+                    ],
+                    [
+                        767,
+                        306
+                    ],
+                    [
+                        758,
+                        444
+                    ],
+                    [
+                        653,
+                        429
+                    ],
+                    [
+                        546,
+                        417
+                    ],
+                    [
+                        441,
+                        409
+                    ],
+                    [
+                        337,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

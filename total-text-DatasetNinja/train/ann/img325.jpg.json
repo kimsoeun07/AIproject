@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1063,
+        "width": 1154
+    },
+    "objects": [
+        {
+            "id": 77179997,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.812Z",
+            "updatedAt": "2023-10-30T12:44:23.812Z",
+            "tags": [
+                {
+                    "id": 44361633,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SAMA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.812Z",
+                    "updatedAt": "2023-10-30T12:44:23.812Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        498
+                    ],
+                    [
+                        235,
+                        657
+                    ],
+                    [
+                        296,
+                        729
+                    ],
+                    [
+                        364,
+                        772
+                    ],
+                    [
+                        425,
+                        793
+                    ],
+                    [
+                        440,
+                        937
+                    ],
+                    [
+                        345,
+                        910
+                    ],
+                    [
+                        242,
+                        848
+                    ],
+                    [
+                        145,
+                        738
+                    ],
+                    [
+                        46,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179996,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.811Z",
+            "updatedAt": "2023-10-30T12:44:23.811Z",
+            "tags": [
+                {
+                    "id": 44361632,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SEBO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.811Z",
+                    "updatedAt": "2023-10-30T12:44:23.811Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        806
+                    ],
+                    [
+                        639,
+                        774
+                    ],
+                    [
+                        709,
+                        731
+                    ],
+                    [
+                        781,
+                        652
+                    ],
+                    [
+                        853,
+                        484
+                    ],
+                    [
+                        964,
+                        520
+                    ],
+                    [
+                        877,
+                        758
+                    ],
+                    [
+                        785,
+                        853
+                    ],
+                    [
+                        694,
+                        907
+                    ],
+                    [
+                        602,
+                        944
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

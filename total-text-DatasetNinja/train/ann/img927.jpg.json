@@ -1,0 +1,168 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 692,
+        "width": 855
+    },
+    "objects": [
+        {
+            "id": 77184289,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.647Z",
+            "updatedAt": "2023-10-30T12:47:45.647Z",
+            "tags": [
+                {
+                    "id": 44365570,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.647Z",
+                    "updatedAt": "2023-10-30T12:47:45.647Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        297
+                    ],
+                    [
+                        491,
+                        297
+                    ],
+                    [
+                        596,
+                        297
+                    ],
+                    [
+                        596,
+                        332
+                    ],
+                    [
+                        491,
+                        332
+                    ],
+                    [
+                        385,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184288,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.646Z",
+            "updatedAt": "2023-10-30T12:47:45.646Z",
+            "tags": [
+                {
+                    "id": 44365569,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PetiteFrance",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.646Z",
+                    "updatedAt": "2023-10-30T12:47:45.646Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        143
+                    ],
+                    [
+                        349,
+                        106
+                    ],
+                    [
+                        464,
+                        100
+                    ],
+                    [
+                        579,
+                        116
+                    ],
+                    [
+                        690,
+                        156
+                    ],
+                    [
+                        688,
+                        206
+                    ],
+                    [
+                        579,
+                        177
+                    ],
+                    [
+                        472,
+                        167
+                    ],
+                    [
+                        364,
+                        179
+                    ],
+                    [
+                        258,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184287,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.645Z",
+            "updatedAt": "2023-10-30T12:47:45.645Z",
+            "tags": [
+                {
+                    "id": 44365568,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.645Z",
+                    "updatedAt": "2023-10-30T12:47:45.645Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        218
+                    ],
+                    [
+                        629,
+                        223
+                    ],
+                    [
+                        640,
+                        276
+                    ],
+                    [
+                        282,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

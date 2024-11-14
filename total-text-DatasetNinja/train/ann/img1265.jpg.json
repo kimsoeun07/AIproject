@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 520
+    },
+    "objects": [
+        {
+            "id": 77176289,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:30.841Z",
+            "updatedAt": "2023-10-30T12:41:30.841Z",
+            "tags": [
+                {
+                    "id": 44357925,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SHEPHERDS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:30.840Z",
+                    "updatedAt": "2023-10-30T12:41:30.840Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        325
+                    ],
+                    [
+                        392,
+                        314
+                    ],
+                    [
+                        421,
+                        306
+                    ],
+                    [
+                        448,
+                        303
+                    ],
+                    [
+                        474,
+                        299
+                    ],
+                    [
+                        472,
+                        341
+                    ],
+                    [
+                        448,
+                        338
+                    ],
+                    [
+                        420,
+                        341
+                    ],
+                    [
+                        395,
+                        352
+                    ],
+                    [
+                        366,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176288,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:30.840Z",
+            "updatedAt": "2023-10-30T12:41:30.840Z",
+            "tags": [
+                {
+                    "id": 44357924,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PURSE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:30.839Z",
+                    "updatedAt": "2023-10-30T12:41:30.839Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        356
+                    ],
+                    [
+                        404,
+                        346
+                    ],
+                    [
+                        423,
+                        341
+                    ],
+                    [
+                        440,
+                        339
+                    ],
+                    [
+                        456,
+                        337
+                    ],
+                    [
+                        461,
+                        370
+                    ],
+                    [
+                        448,
+                        377
+                    ],
+                    [
+                        428,
+                        378
+                    ],
+                    [
+                        412,
+                        381
+                    ],
+                    [
+                        395,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176287,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:30.839Z",
+            "updatedAt": "2023-10-30T12:41:30.839Z",
+            "tags": [
+                {
+                    "id": 44357923,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ACCOMMODATION",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:30.838Z",
+                    "updatedAt": "2023-10-30T12:41:30.838Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        381
+                    ],
+                    [
+                        395,
+                        387
+                    ],
+                    [
+                        420,
+                        388
+                    ],
+                    [
+                        445,
+                        390
+                    ],
+                    [
+                        470,
+                        393
+                    ],
+                    [
+                        472,
+                        418
+                    ],
+                    [
+                        447,
+                        417
+                    ],
+                    [
+                        419,
+                        411
+                    ],
+                    [
+                        393,
+                        409
+                    ],
+                    [
+                        366,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

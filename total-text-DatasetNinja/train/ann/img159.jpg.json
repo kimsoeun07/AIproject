@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 900,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 77178901,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.978Z",
+            "updatedAt": "2023-10-30T12:42:32.978Z",
+            "tags": [
+                {
+                    "id": 44360537,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.978Z",
+                    "updatedAt": "2023-10-30T12:42:32.978Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        327
+                    ],
+                    [
+                        410,
+                        318
+                    ],
+                    [
+                        435,
+                        310
+                    ],
+                    [
+                        463,
+                        305
+                    ],
+                    [
+                        490,
+                        303
+                    ],
+                    [
+                        491,
+                        336
+                    ],
+                    [
+                        469,
+                        351
+                    ],
+                    [
+                        441,
+                        359
+                    ],
+                    [
+                        416,
+                        367
+                    ],
+                    [
+                        389,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178900,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.978Z",
+            "updatedAt": "2023-10-30T12:42:32.978Z",
+            "tags": [
+                {
+                    "id": 44360536,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOARDWALK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.977Z",
+                    "updatedAt": "2023-10-30T12:42:32.977Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        292
+                    ],
+                    [
+                        593,
+                        288
+                    ],
+                    [
+                        673,
+                        294
+                    ],
+                    [
+                        752,
+                        307
+                    ],
+                    [
+                        832,
+                        338
+                    ],
+                    [
+                        831,
+                        372
+                    ],
+                    [
+                        752,
+                        344
+                    ],
+                    [
+                        671,
+                        327
+                    ],
+                    [
+                        590,
+                        325
+                    ],
+                    [
+                        511,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

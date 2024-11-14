@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 767,
+        "width": 1127
+    },
+    "objects": [
+        {
+            "id": 77178904,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.979Z",
+            "updatedAt": "2023-10-30T12:42:32.979Z",
+            "tags": [
+                {
+                    "id": 44360540,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LAMPIONGARDEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.979Z",
+                    "updatedAt": "2023-10-30T12:42:32.979Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        571
+                    ],
+                    [
+                        207,
+                        287
+                    ],
+                    [
+                        537,
+                        206
+                    ],
+                    [
+                        882,
+                        298
+                    ],
+                    [
+                        1029,
+                        556
+                    ],
+                    [
+                        945,
+                        600
+                    ],
+                    [
+                        823,
+                        400
+                    ],
+                    [
+                        560,
+                        311
+                    ],
+                    [
+                        311,
+                        395
+                    ],
+                    [
+                        168,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

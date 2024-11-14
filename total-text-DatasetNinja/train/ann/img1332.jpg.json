@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 533,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 77177132,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.061Z",
+            "updatedAt": "2023-10-30T12:41:56.061Z",
+            "tags": [
+                {
+                    "id": 44358768,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "UEFA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.060Z",
+                    "updatedAt": "2023-10-30T12:41:56.060Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        251
+                    ],
+                    [
+                        534,
+                        215
+                    ],
+                    [
+                        575,
+                        195
+                    ],
+                    [
+                        615,
+                        198
+                    ],
+                    [
+                        656,
+                        214
+                    ],
+                    [
+                        643,
+                        257
+                    ],
+                    [
+                        612,
+                        244
+                    ],
+                    [
+                        581,
+                        240
+                    ],
+                    [
+                        548,
+                        257
+                    ],
+                    [
+                        519,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

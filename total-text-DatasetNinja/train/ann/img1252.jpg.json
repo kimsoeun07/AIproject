@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 608,
+        "width": 1080
+    },
+    "objects": [
+        {
+            "id": 77176128,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.284Z",
+            "updatedAt": "2023-10-30T12:41:26.284Z",
+            "tags": [
+                {
+                    "id": 44357764,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Arcobrau",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.284Z",
+                    "updatedAt": "2023-10-30T12:41:26.284Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        97
+                    ],
+                    [
+                        312,
+                        89
+                    ],
+                    [
+                        386,
+                        78
+                    ],
+                    [
+                        456,
+                        77
+                    ],
+                    [
+                        527,
+                        81
+                    ],
+                    [
+                        524,
+                        119
+                    ],
+                    [
+                        450,
+                        122
+                    ],
+                    [
+                        381,
+                        126
+                    ],
+                    [
+                        309,
+                        140
+                    ],
+                    [
+                        239,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176127,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.284Z",
+            "updatedAt": "2023-10-30T12:41:26.284Z",
+            "tags": [
+                {
+                    "id": 44357763,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Brauhaus",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.284Z",
+                    "updatedAt": "2023-10-30T12:41:26.284Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        545,
+                        70
+                    ],
+                    [
+                        622,
+                        77
+                    ],
+                    [
+                        697,
+                        80
+                    ],
+                    [
+                        775,
+                        94
+                    ],
+                    [
+                        847,
+                        113
+                    ],
+                    [
+                        831,
+                        160
+                    ],
+                    [
+                        761,
+                        143
+                    ],
+                    [
+                        685,
+                        133
+                    ],
+                    [
+                        615,
+                        124
+                    ],
+                    [
+                        540,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 673,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77184291,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.648Z",
+            "updatedAt": "2023-10-30T12:47:45.648Z",
+            "tags": [
+                {
+                    "id": 44365572,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "hotel",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.647Z",
+                    "updatedAt": "2023-10-30T12:47:45.647Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        280
+                    ],
+                    [
+                        224,
+                        273
+                    ],
+                    [
+                        250,
+                        270
+                    ],
+                    [
+                        280,
+                        271
+                    ],
+                    [
+                        308,
+                        269
+                    ],
+                    [
+                        306,
+                        313
+                    ],
+                    [
+                        281,
+                        313
+                    ],
+                    [
+                        254,
+                        312
+                    ],
+                    [
+                        228,
+                        313
+                    ],
+                    [
+                        203,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184290,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.647Z",
+            "updatedAt": "2023-10-30T12:47:45.647Z",
+            "tags": [
+                {
+                    "id": 44365571,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Murtenhof",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.646Z",
+                    "updatedAt": "2023-10-30T12:47:45.646Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        466
+                    ],
+                    [
+                        227,
+                        478
+                    ],
+                    [
+                        259,
+                        482
+                    ],
+                    [
+                        292,
+                        479
+                    ],
+                    [
+                        327,
+                        464
+                    ],
+                    [
+                        336,
+                        504
+                    ],
+                    [
+                        298,
+                        511
+                    ],
+                    [
+                        256,
+                        517
+                    ],
+                    [
+                        216,
+                        514
+                    ],
+                    [
+                        177,
+                        498
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

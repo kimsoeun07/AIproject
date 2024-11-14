@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1071,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77180130,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.880Z",
+            "updatedAt": "2023-10-30T12:44:31.880Z",
+            "tags": [
+                {
+                    "id": 44361766,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KENTUCKY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.879Z",
+                    "updatedAt": "2023-10-30T12:44:31.879Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        424
+                    ],
+                    [
+                        531,
+                        266
+                    ],
+                    [
+                        579,
+                        213
+                    ],
+                    [
+                        630,
+                        182
+                    ],
+                    [
+                        681,
+                        154
+                    ],
+                    [
+                        689,
+                        206
+                    ],
+                    [
+                        646,
+                        224
+                    ],
+                    [
+                        603,
+                        254
+                    ],
+                    [
+                        560,
+                        305
+                    ],
+                    [
+                        514,
+                        438
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180129,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.878Z",
+            "updatedAt": "2023-10-30T12:44:31.878Z",
+            "tags": [
+                {
+                    "id": 44361765,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HORSE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.878Z",
+                    "updatedAt": "2023-10-30T12:44:31.878Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        738,
+                        152
+                    ],
+                    [
+                        789,
+                        159
+                    ],
+                    [
+                        838,
+                        171
+                    ],
+                    [
+                        889,
+                        194
+                    ],
+                    [
+                        937,
+                        225
+                    ],
+                    [
+                        922,
+                        254
+                    ],
+                    [
+                        879,
+                        228
+                    ],
+                    [
+                        832,
+                        205
+                    ],
+                    [
+                        786,
+                        193
+                    ],
+                    [
+                        740,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180128,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.876Z",
+            "updatedAt": "2023-10-30T12:44:31.876Z",
+            "tags": [
+                {
+                    "id": 44361764,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARk",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.876Z",
+                    "updatedAt": "2023-10-30T12:44:31.876Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        965,
+                        265
+                    ],
+                    [
+                        993,
+                        304
+                    ],
+                    [
+                        1011,
+                        345
+                    ],
+                    [
+                        1020,
+                        386
+                    ],
+                    [
+                        1024,
+                        426
+                    ],
+                    [
+                        992,
+                        429
+                    ],
+                    [
+                        987,
+                        393
+                    ],
+                    [
+                        974,
+                        358
+                    ],
+                    [
+                        960,
+                        324
+                    ],
+                    [
+                        937,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

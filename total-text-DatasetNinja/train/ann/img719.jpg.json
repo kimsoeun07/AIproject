@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77181984,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.955Z",
+            "updatedAt": "2023-10-30T12:46:41.955Z",
+            "tags": [
+                {
+                    "id": 44363265,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.952Z",
+                    "updatedAt": "2023-10-30T12:46:41.952Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        512
+                    ],
+                    [
+                        664,
+                        515
+                    ],
+                    [
+                        661,
+                        540
+                    ],
+                    [
+                        501,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181983,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.951Z",
+            "updatedAt": "2023-10-30T12:46:41.951Z",
+            "tags": [
+                {
+                    "id": 44363264,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "NAGASHIMA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.951Z",
+                    "updatedAt": "2023-10-30T12:46:41.951Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        560
+                    ],
+                    [
+                        438,
+                        547
+                    ],
+                    [
+                        497,
+                        536
+                    ],
+                    [
+                        558,
+                        534
+                    ],
+                    [
+                        616,
+                        536
+                    ],
+                    [
+                        600,
+                        560
+                    ],
+                    [
+                        547,
+                        559
+                    ],
+                    [
+                        494,
+                        562
+                    ],
+                    [
+                        437,
+                        572
+                    ],
+                    [
+                        384,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181982,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.950Z",
+            "updatedAt": "2023-10-30T12:46:41.950Z",
+            "tags": [
+                {
+                    "id": 44363263,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SPALAND",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.950Z",
+                    "updatedAt": "2023-10-30T12:46:41.950Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        532
+                    ],
+                    [
+                        663,
+                        542
+                    ],
+                    [
+                        699,
+                        551
+                    ],
+                    [
+                        734,
+                        560
+                    ],
+                    [
+                        770,
+                        575
+                    ],
+                    [
+                        763,
+                        596
+                    ],
+                    [
+                        728,
+                        585
+                    ],
+                    [
+                        691,
+                        575
+                    ],
+                    [
+                        653,
+                        566
+                    ],
+                    [
+                        617,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

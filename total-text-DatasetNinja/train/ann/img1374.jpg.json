@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 609
+    },
+    "objects": [
+        {
+            "id": 77177249,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.949Z",
+            "updatedAt": "2023-10-30T12:42:01.949Z",
+            "tags": [
+                {
+                    "id": 44358885,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Byrord",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.949Z",
+                    "updatedAt": "2023-10-30T12:42:01.949Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        334
+                    ],
+                    [
+                        155,
+                        315
+                    ],
+                    [
+                        188,
+                        313
+                    ],
+                    [
+                        219,
+                        324
+                    ],
+                    [
+                        249,
+                        337
+                    ],
+                    [
+                        225,
+                        367
+                    ],
+                    [
+                        205,
+                        356
+                    ],
+                    [
+                        181,
+                        347
+                    ],
+                    [
+                        160,
+                        351
+                    ],
+                    [
+                        139,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177248,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.948Z",
+            "updatedAt": "2023-10-30T12:42:01.948Z",
+            "tags": [
+                {
+                    "id": 44358884,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LONDON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.947Z",
+                    "updatedAt": "2023-10-30T12:42:01.947Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        409
+                    ],
+                    [
+                        166,
+                        423
+                    ],
+                    [
+                        188,
+                        427
+                    ],
+                    [
+                        208,
+                        425
+                    ],
+                    [
+                        229,
+                        417
+                    ],
+                    [
+                        241,
+                        438
+                    ],
+                    [
+                        215,
+                        453
+                    ],
+                    [
+                        184,
+                        458
+                    ],
+                    [
+                        155,
+                        452
+                    ],
+                    [
+                        132,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 690,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77176988,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.044Z",
+            "updatedAt": "2023-10-30T12:41:56.044Z",
+            "tags": [
+                {
+                    "id": 44358624,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COFFEE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.044Z",
+                    "updatedAt": "2023-10-30T12:41:56.044Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        334
+                    ],
+                    [
+                        174,
+                        336
+                    ],
+                    [
+                        193,
+                        336
+                    ],
+                    [
+                        212,
+                        336
+                    ],
+                    [
+                        229,
+                        334
+                    ],
+                    [
+                        229,
+                        350
+                    ],
+                    [
+                        213,
+                        351
+                    ],
+                    [
+                        193,
+                        351
+                    ],
+                    [
+                        174,
+                        351
+                    ],
+                    [
+                        155,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176987,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.043Z",
+            "updatedAt": "2023-10-30T12:41:56.043Z",
+            "tags": [
+                {
+                    "id": 44358623,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.043Z",
+                    "updatedAt": "2023-10-30T12:41:56.043Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        279
+                    ],
+                    [
+                        365,
+                        279
+                    ],
+                    [
+                        393,
+                        279
+                    ],
+                    [
+                        393,
+                        301
+                    ],
+                    [
+                        365,
+                        301
+                    ],
+                    [
+                        337,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176986,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.043Z",
+            "updatedAt": "2023-10-30T12:41:56.043Z",
+            "tags": [
+                {
+                    "id": 44358622,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ROASTERS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.042Z",
+                    "updatedAt": "2023-10-30T12:41:56.042Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        333
+                    ],
+                    [
+                        263,
+                        334
+                    ],
+                    [
+                        288,
+                        334
+                    ],
+                    [
+                        314,
+                        334
+                    ],
+                    [
+                        337,
+                        333
+                    ],
+                    [
+                        337,
+                        350
+                    ],
+                    [
+                        314,
+                        351
+                    ],
+                    [
+                        288,
+                        351
+                    ],
+                    [
+                        263,
+                        351
+                    ],
+                    [
+                        238,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176985,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:56.042Z",
+            "updatedAt": "2023-10-30T12:41:56.042Z",
+            "tags": [
+                {
+                    "id": 44358621,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STUMPTOWN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:56.041Z",
+                    "updatedAt": "2023-10-30T12:41:56.041Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        306
+                    ],
+                    [
+                        191,
+                        290
+                    ],
+                    [
+                        245,
+                        282
+                    ],
+                    [
+                        299,
+                        286
+                    ],
+                    [
+                        351,
+                        303
+                    ],
+                    [
+                        346,
+                        326
+                    ],
+                    [
+                        296,
+                        315
+                    ],
+                    [
+                        245,
+                        309
+                    ],
+                    [
+                        194,
+                        321
+                    ],
+                    [
+                        143,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

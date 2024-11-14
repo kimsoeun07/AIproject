@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 213,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 77178470,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.183Z",
+            "updatedAt": "2023-10-30T12:42:27.183Z",
+            "tags": [
+                {
+                    "id": 44360106,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HELLESEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.183Z",
+                    "updatedAt": "2023-10-30T12:42:27.183Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        131
+                    ],
+                    [
+                        218,
+                        93
+                    ],
+                    [
+                        266,
+                        93
+                    ],
+                    [
+                        317,
+                        131
+                    ],
+                    [
+                        315,
+                        173
+                    ],
+                    [
+                        278,
+                        154
+                    ],
+                    [
+                        227,
+                        166
+                    ],
+                    [
+                        178,
+                        212
+                    ],
+                    [
+                        70,
+                        212
+                    ],
+                    [
+                        59,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

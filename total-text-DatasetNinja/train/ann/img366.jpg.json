@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 225,
+        "width": 225
+    },
+    "objects": [
+        {
+            "id": 77180209,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.913Z",
+            "updatedAt": "2023-10-30T12:44:31.913Z",
+            "tags": [
+                {
+                    "id": 44361845,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LIPTONS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.913Z",
+                    "updatedAt": "2023-10-30T12:44:31.913Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        33
+                    ],
+                    [
+                        65,
+                        28
+                    ],
+                    [
+                        111,
+                        25
+                    ],
+                    [
+                        159,
+                        31
+                    ],
+                    [
+                        204,
+                        41
+                    ],
+                    [
+                        201,
+                        98
+                    ],
+                    [
+                        156,
+                        86
+                    ],
+                    [
+                        112,
+                        76
+                    ],
+                    [
+                        67,
+                        102
+                    ],
+                    [
+                        24,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180208,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.912Z",
+            "updatedAt": "2023-10-30T12:44:31.912Z",
+            "tags": [
+                {
+                    "id": 44361844,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TEA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.912Z",
+                    "updatedAt": "2023-10-30T12:44:31.912Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        161
+                    ],
+                    [
+                        80,
+                        160
+                    ],
+                    [
+                        111,
+                        161
+                    ],
+                    [
+                        141,
+                        161
+                    ],
+                    [
+                        173,
+                        159
+                    ],
+                    [
+                        181,
+                        197
+                    ],
+                    [
+                        149,
+                        200
+                    ],
+                    [
+                        116,
+                        201
+                    ],
+                    [
+                        82,
+                        203
+                    ],
+                    [
+                        50,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

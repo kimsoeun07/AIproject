@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77179319,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.782Z",
+            "updatedAt": "2023-10-30T12:43:54.782Z",
+            "tags": [
+                {
+                    "id": 44360955,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GATE1",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.782Z",
+                    "updatedAt": "2023-10-30T12:43:54.782Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        708
+                    ],
+                    [
+                        402,
+                        676
+                    ],
+                    [
+                        497,
+                        634
+                    ],
+                    [
+                        583,
+                        583
+                    ],
+                    [
+                        668,
+                        553
+                    ],
+                    [
+                        703,
+                        645
+                    ],
+                    [
+                        608,
+                        697
+                    ],
+                    [
+                        522,
+                        743
+                    ],
+                    [
+                        420,
+                        778
+                    ],
+                    [
+                        326,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

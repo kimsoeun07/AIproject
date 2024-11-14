@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 534,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 77180016,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.820Z",
+            "updatedAt": "2023-10-30T12:44:23.820Z",
+            "tags": [
+                {
+                    "id": 44361652,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "APPLE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.818Z",
+                    "updatedAt": "2023-10-30T12:44:23.818Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        173
+                    ],
+                    [
+                        298,
+                        144
+                    ],
+                    [
+                        414,
+                        140
+                    ],
+                    [
+                        533,
+                        159
+                    ],
+                    [
+                        650,
+                        193
+                    ],
+                    [
+                        632,
+                        289
+                    ],
+                    [
+                        521,
+                        255
+                    ],
+                    [
+                        405,
+                        234
+                    ],
+                    [
+                        293,
+                        250
+                    ],
+                    [
+                        178,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180015,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.817Z",
+            "updatedAt": "2023-10-30T12:44:23.817Z",
+            "tags": [
+                {
+                    "id": 44361651,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "orchard",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.817Z",
+                    "updatedAt": "2023-10-30T12:44:23.817Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        314
+                    ],
+                    [
+                        266,
+                        313
+                    ],
+                    [
+                        398,
+                        312
+                    ],
+                    [
+                        533,
+                        313
+                    ],
+                    [
+                        663,
+                        310
+                    ],
+                    [
+                        669,
+                        431
+                    ],
+                    [
+                        534,
+                        432
+                    ],
+                    [
+                        397,
+                        432
+                    ],
+                    [
+                        260,
+                        432
+                    ],
+                    [
+                        123,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180014,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.817Z",
+            "updatedAt": "2023-10-30T12:44:23.817Z",
+            "tags": [
+                {
+                    "id": 44361650,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.817Z",
+                    "updatedAt": "2023-10-30T12:44:23.817Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        501
+                    ],
+                    [
+                        790,
+                        503
+                    ],
+                    [
+                        788,
+                        528
+                    ],
+                    [
+                        641,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

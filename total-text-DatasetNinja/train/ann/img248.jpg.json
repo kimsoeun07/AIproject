@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 273,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77179527,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.005Z",
+            "updatedAt": "2023-10-30T12:44:01.005Z",
+            "tags": [
+                {
+                    "id": 44361163,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FORTEZZA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.005Z",
+                    "updatedAt": "2023-10-30T12:44:01.005Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        92
+                    ],
+                    [
+                        190,
+                        70
+                    ],
+                    [
+                        245,
+                        53
+                    ],
+                    [
+                        308,
+                        55
+                    ],
+                    [
+                        346,
+                        65
+                    ],
+                    [
+                        336,
+                        112
+                    ],
+                    [
+                        300,
+                        109
+                    ],
+                    [
+                        246,
+                        105
+                    ],
+                    [
+                        199,
+                        112
+                    ],
+                    [
+                        161,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

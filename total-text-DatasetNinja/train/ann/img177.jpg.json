@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 272,
+        "width": 449
+    },
+    "objects": [
+        {
+            "id": 77179167,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.852Z",
+            "updatedAt": "2023-10-30T12:43:47.852Z",
+            "tags": [
+                {
+                    "id": 44360803,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SJOSTANGAVEIDIFELAG",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.851Z",
+                    "updatedAt": "2023-10-30T12:43:47.851Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        91
+                    ],
+                    [
+                        94,
+                        45
+                    ],
+                    [
+                        140,
+                        35
+                    ],
+                    [
+                        186,
+                        42
+                    ],
+                    [
+                        228,
+                        77
+                    ],
+                    [
+                        211,
+                        90
+                    ],
+                    [
+                        183,
+                        59
+                    ],
+                    [
+                        140,
+                        50
+                    ],
+                    [
+                        98,
+                        62
+                    ],
+                    [
+                        65,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179166,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.851Z",
+            "updatedAt": "2023-10-30T12:43:47.851Z",
+            "tags": [
+                {
+                    "id": 44360802,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "REYKJAVIKUR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.851Z",
+                    "updatedAt": "2023-10-30T12:43:47.851Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        84
+                    ],
+                    [
+                        244,
+                        113
+                    ],
+                    [
+                        243,
+                        143
+                    ],
+                    [
+                        235,
+                        172
+                    ],
+                    [
+                        218,
+                        198
+                    ],
+                    [
+                        205,
+                        185
+                    ],
+                    [
+                        218,
+                        162
+                    ],
+                    [
+                        226,
+                        138
+                    ],
+                    [
+                        226,
+                        114
+                    ],
+                    [
+                        216,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179165,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.850Z",
+            "updatedAt": "2023-10-30T12:43:47.850Z",
+            "tags": [
+                {
+                    "id": 44360801,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SJOR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.850Z",
+                    "updatedAt": "2023-10-30T12:43:47.850Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        159
+                    ],
+                    [
+                        82,
+                        189
+                    ],
+                    [
+                        104,
+                        204
+                    ],
+                    [
+                        126,
+                        211
+                    ],
+                    [
+                        147,
+                        213
+                    ],
+                    [
+                        147,
+                        229
+                    ],
+                    [
+                        120,
+                        228
+                    ],
+                    [
+                        94,
+                        219
+                    ],
+                    [
+                        67,
+                        200
+                    ],
+                    [
+                        42,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

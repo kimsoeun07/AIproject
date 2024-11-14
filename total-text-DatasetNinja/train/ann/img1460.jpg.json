@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 995,
+        "width": 667
+    },
+    "objects": [
+        {
+            "id": 77178089,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.374Z",
+            "updatedAt": "2023-10-30T12:42:16.374Z",
+            "tags": [
+                {
+                    "id": 44359725,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MAISLINGER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.373Z",
+                    "updatedAt": "2023-10-30T12:42:16.373Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        785
+                    ],
+                    [
+                        263,
+                        768
+                    ],
+                    [
+                        314,
+                        760
+                    ],
+                    [
+                        364,
+                        773
+                    ],
+                    [
+                        415,
+                        792
+                    ],
+                    [
+                        415,
+                        820
+                    ],
+                    [
+                        363,
+                        800
+                    ],
+                    [
+                        312,
+                        786
+                    ],
+                    [
+                        261,
+                        797
+                    ],
+                    [
+                        210,
+                        812
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

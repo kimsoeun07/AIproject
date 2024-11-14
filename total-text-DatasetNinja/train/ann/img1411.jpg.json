@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 823
+    },
+    "objects": [
+        {
+            "id": 77177479,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.851Z",
+            "updatedAt": "2023-10-30T12:42:06.851Z",
+            "tags": [
+                {
+                    "id": 44359115,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PACIFIC",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.851Z",
+                    "updatedAt": "2023-10-30T12:42:06.851Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        94
+                    ],
+                    [
+                        223,
+                        97
+                    ],
+                    [
+                        309,
+                        97
+                    ],
+                    [
+                        390,
+                        98
+                    ],
+                    [
+                        475,
+                        99
+                    ],
+                    [
+                        479,
+                        182
+                    ],
+                    [
+                        391,
+                        198
+                    ],
+                    [
+                        299,
+                        206
+                    ],
+                    [
+                        209,
+                        221
+                    ],
+                    [
+                        117,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177478,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.850Z",
+            "updatedAt": "2023-10-30T12:42:06.850Z",
+            "tags": [
+                {
+                    "id": 44359114,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.850Z",
+                    "updatedAt": "2023-10-30T12:42:06.850Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        102
+                    ],
+                    [
+                        568,
+                        107
+                    ],
+                    [
+                        617,
+                        104
+                    ],
+                    [
+                        658,
+                        106
+                    ],
+                    [
+                        700,
+                        102
+                    ],
+                    [
+                        745,
+                        227
+                    ],
+                    [
+                        690,
+                        222
+                    ],
+                    [
+                        639,
+                        212
+                    ],
+                    [
+                        584,
+                        201
+                    ],
+                    [
+                        533,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

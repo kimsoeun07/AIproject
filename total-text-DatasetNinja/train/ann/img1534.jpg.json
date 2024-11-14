@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 240
+    },
+    "objects": [
+        {
+            "id": 77178948,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.990Z",
+            "updatedAt": "2023-10-30T12:42:32.990Z",
+            "tags": [
+                {
+                    "id": 44360584,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DOMINE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.990Z",
+                    "updatedAt": "2023-10-30T12:42:32.990Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        226
+                    ],
+                    [
+                        73,
+                        238
+                    ],
+                    [
+                        73,
+                        250
+                    ],
+                    [
+                        80,
+                        263
+                    ],
+                    [
+                        87,
+                        274
+                    ],
+                    [
+                        79,
+                        286
+                    ],
+                    [
+                        63,
+                        271
+                    ],
+                    [
+                        59,
+                        256
+                    ],
+                    [
+                        58,
+                        238
+                    ],
+                    [
+                        61,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178947,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.989Z",
+            "updatedAt": "2023-10-30T12:42:32.989Z",
+            "tags": [
+                {
+                    "id": 44360583,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DIRIGA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.989Z",
+                    "updatedAt": "2023-10-30T12:42:32.989Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        267
+                    ],
+                    [
+                        111,
+                        271
+                    ],
+                    [
+                        125,
+                        274
+                    ],
+                    [
+                        140,
+                        273
+                    ],
+                    [
+                        153,
+                        267
+                    ],
+                    [
+                        161,
+                        279
+                    ],
+                    [
+                        148,
+                        288
+                    ],
+                    [
+                        128,
+                        290
+                    ],
+                    [
+                        106,
+                        288
+                    ],
+                    [
+                        93,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178946,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:32.988Z",
+            "updatedAt": "2023-10-30T12:42:32.988Z",
+            "tags": [
+                {
+                    "id": 44360582,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ROB",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:32.986Z",
+                    "updatedAt": "2023-10-30T12:42:32.986Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        268
+                    ],
+                    [
+                        178,
+                        261
+                    ],
+                    [
+                        181,
+                        256
+                    ],
+                    [
+                        182,
+                        246
+                    ],
+                    [
+                        184,
+                        239
+                    ],
+                    [
+                        197,
+                        246
+                    ],
+                    [
+                        197,
+                        258
+                    ],
+                    [
+                        194,
+                        271
+                    ],
+                    [
+                        187,
+                        276
+                    ],
+                    [
+                        180,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

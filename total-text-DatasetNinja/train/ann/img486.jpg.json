@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 960
+    },
+    "objects": [
+        {
+            "id": 77181311,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.928Z",
+            "updatedAt": "2023-10-30T12:46:09.928Z",
+            "tags": [
+                {
+                    "id": 44362592,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MRk",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.928Z",
+                    "updatedAt": "2023-10-30T12:46:09.928Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        454
+                    ],
+                    [
+                        78,
+                        608
+                    ],
+                    [
+                        82,
+                        770
+                    ],
+                    [
+                        80,
+                        922
+                    ],
+                    [
+                        83,
+                        1076
+                    ],
+                    [
+                        196,
+                        1090
+                    ],
+                    [
+                        195,
+                        944
+                    ],
+                    [
+                        202,
+                        791
+                    ],
+                    [
+                        205,
+                        635
+                    ],
+                    [
+                        209,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181310,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.927Z",
+            "updatedAt": "2023-10-30T12:46:09.927Z",
+            "tags": [
+                {
+                    "id": 44362591,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MANSION",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.927Z",
+                    "updatedAt": "2023-10-30T12:46:09.927Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        1108
+                    ],
+                    [
+                        88,
+                        1194
+                    ],
+                    [
+                        129,
+                        1221
+                    ],
+                    [
+                        177,
+                        1204
+                    ],
+                    [
+                        198,
+                        1125
+                    ],
+                    [
+                        247,
+                        1141
+                    ],
+                    [
+                        213,
+                        1233
+                    ],
+                    [
+                        134,
+                        1270
+                    ],
+                    [
+                        67,
+                        1227
+                    ],
+                    [
+                        23,
+                        1108
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

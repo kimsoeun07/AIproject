@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 947
+    },
+    "objects": [
+        {
+            "id": 77181967,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.947Z",
+            "updatedAt": "2023-10-30T12:46:41.947Z",
+            "tags": [
+                {
+                    "id": 44363248,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CAFE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.947Z",
+                    "updatedAt": "2023-10-30T12:46:41.947Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        645
+                    ],
+                    [
+                        178,
+                        626
+                    ],
+                    [
+                        226,
+                        604
+                    ],
+                    [
+                        271,
+                        586
+                    ],
+                    [
+                        319,
+                        571
+                    ],
+                    [
+                        344,
+                        626
+                    ],
+                    [
+                        296,
+                        635
+                    ],
+                    [
+                        248,
+                        653
+                    ],
+                    [
+                        196,
+                        679
+                    ],
+                    [
+                        148,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181966,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:41.946Z",
+            "updatedAt": "2023-10-30T12:46:41.946Z",
+            "tags": [
+                {
+                    "id": 44363247,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BARBERA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:41.945Z",
+                    "updatedAt": "2023-10-30T12:46:41.945Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        556
+                    ],
+                    [
+                        462,
+                        548
+                    ],
+                    [
+                        549,
+                        547
+                    ],
+                    [
+                        643,
+                        564
+                    ],
+                    [
+                        730,
+                        595
+                    ],
+                    [
+                        730,
+                        651
+                    ],
+                    [
+                        642,
+                        621
+                    ],
+                    [
+                        553,
+                        604
+                    ],
+                    [
+                        459,
+                        599
+                    ],
+                    [
+                        372,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

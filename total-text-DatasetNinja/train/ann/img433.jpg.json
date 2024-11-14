@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 568,
+        "width": 638
+    },
+    "objects": [
+        {
+            "id": 77180882,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.516Z",
+            "updatedAt": "2023-10-30T12:45:53.516Z",
+            "tags": [
+                {
+                    "id": 44362163,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.516Z",
+                    "updatedAt": "2023-10-30T12:45:53.516Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        52
+                    ],
+                    [
+                        314,
+                        51
+                    ],
+                    [
+                        348,
+                        54
+                    ],
+                    [
+                        386,
+                        59
+                    ],
+                    [
+                        418,
+                        69
+                    ],
+                    [
+                        412,
+                        142
+                    ],
+                    [
+                        385,
+                        128
+                    ],
+                    [
+                        358,
+                        122
+                    ],
+                    [
+                        329,
+                        123
+                    ],
+                    [
+                        304,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180881,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.515Z",
+            "updatedAt": "2023-10-30T12:45:53.515Z",
+            "tags": [
+                {
+                    "id": 44362162,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CHAPLINS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.515Z",
+                    "updatedAt": "2023-10-30T12:45:53.515Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        395
+                    ],
+                    [
+                        274,
+                        432
+                    ],
+                    [
+                        346,
+                        447
+                    ],
+                    [
+                        419,
+                        425
+                    ],
+                    [
+                        486,
+                        388
+                    ],
+                    [
+                        517,
+                        430
+                    ],
+                    [
+                        431,
+                        506
+                    ],
+                    [
+                        344,
+                        520
+                    ],
+                    [
+                        255,
+                        511
+                    ],
+                    [
+                        167,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

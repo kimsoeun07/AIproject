@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2448,
+        "width": 3264
+    },
+    "objects": [
+        {
+            "id": 77180149,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.895Z",
+            "updatedAt": "2023-10-30T12:44:31.895Z",
+            "tags": [
+                {
+                    "id": 44361785,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HOTEL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.894Z",
+                    "updatedAt": "2023-10-30T12:44:31.894Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        1403
+                    ],
+                    [
+                        659,
+                        1290
+                    ],
+                    [
+                        758,
+                        1243
+                    ],
+                    [
+                        860,
+                        1211
+                    ],
+                    [
+                        959,
+                        1190
+                    ],
+                    [
+                        971,
+                        1277
+                    ],
+                    [
+                        883,
+                        1294
+                    ],
+                    [
+                        796,
+                        1324
+                    ],
+                    [
+                        709,
+                        1380
+                    ],
+                    [
+                        623,
+                        1472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180148,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.893Z",
+            "updatedAt": "2023-10-30T12:44:31.893Z",
+            "tags": [
+                {
+                    "id": 44361784,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MONACO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.893Z",
+                    "updatedAt": "2023-10-30T12:44:31.893Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1022,
+                        1193
+                    ],
+                    [
+                        1155,
+                        1209
+                    ],
+                    [
+                        1289,
+                        1252
+                    ],
+                    [
+                        1428,
+                        1323
+                    ],
+                    [
+                        1562,
+                        1463
+                    ],
+                    [
+                        1481,
+                        1532
+                    ],
+                    [
+                        1364,
+                        1405
+                    ],
+                    [
+                        1244,
+                        1331
+                    ],
+                    [
+                        1125,
+                        1290
+                    ],
+                    [
+                        1007,
+                        1274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180147,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.885Z",
+            "updatedAt": "2023-10-30T12:44:31.885Z",
+            "tags": [
+                {
+                    "id": 44361783,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WASHINGTON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.885Z",
+                    "updatedAt": "2023-10-30T12:44:31.885Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        642,
+                        1696
+                    ],
+                    [
+                        836,
+                        1835
+                    ],
+                    [
+                        1029,
+                        1872
+                    ],
+                    [
+                        1225,
+                        1848
+                    ],
+                    [
+                        1421,
+                        1747
+                    ],
+                    [
+                        1478,
+                        1823
+                    ],
+                    [
+                        1257,
+                        1963
+                    ],
+                    [
+                        1036,
+                        1979
+                    ],
+                    [
+                        811,
+                        1942
+                    ],
+                    [
+                        591,
+                        1789
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

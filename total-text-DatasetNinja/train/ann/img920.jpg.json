@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 640,
+        "width": 425
+    },
+    "objects": [
+        {
+            "id": 77184340,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.657Z",
+            "updatedAt": "2023-10-30T12:47:45.657Z",
+            "tags": [
+                {
+                    "id": 44365621,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTAURANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.656Z",
+                    "updatedAt": "2023-10-30T12:47:45.656Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        285
+                    ],
+                    [
+                        219,
+                        273
+                    ],
+                    [
+                        251,
+                        268
+                    ],
+                    [
+                        286,
+                        262
+                    ],
+                    [
+                        319,
+                        254
+                    ],
+                    [
+                        319,
+                        271
+                    ],
+                    [
+                        287,
+                        282
+                    ],
+                    [
+                        252,
+                        289
+                    ],
+                    [
+                        222,
+                        298
+                    ],
+                    [
+                        188,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184339,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.656Z",
+            "updatedAt": "2023-10-30T12:47:45.656Z",
+            "tags": [
+                {
+                    "id": 44365620,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Zumwerben",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.655Z",
+                    "updatedAt": "2023-10-30T12:47:45.655Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        293
+                    ],
+                    [
+                        235,
+                        290
+                    ],
+                    [
+                        251,
+                        287
+                    ],
+                    [
+                        267,
+                        283
+                    ],
+                    [
+                        280,
+                        281
+                    ],
+                    [
+                        279,
+                        298
+                    ],
+                    [
+                        268,
+                        300
+                    ],
+                    [
+                        252,
+                        303
+                    ],
+                    [
+                        238,
+                        306
+                    ],
+                    [
+                        225,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184338,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.655Z",
+            "updatedAt": "2023-10-30T12:47:45.655Z",
+            "tags": [
+                {
+                    "id": 44365619,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Raunchfangkehrer",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.655Z",
+                    "updatedAt": "2023-10-30T12:47:45.655Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        298
+                    ],
+                    [
+                        215,
+                        306
+                    ],
+                    [
+                        252,
+                        302
+                    ],
+                    [
+                        290,
+                        291
+                    ],
+                    [
+                        329,
+                        279
+                    ],
+                    [
+                        332,
+                        320
+                    ],
+                    [
+                        296,
+                        341
+                    ],
+                    [
+                        255,
+                        349
+                    ],
+                    [
+                        215,
+                        353
+                    ],
+                    [
+                        178,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

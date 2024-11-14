@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 535
+    },
+    "objects": [
+        {
+            "id": 77183109,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:56.958Z",
+            "updatedAt": "2023-10-30T12:46:56.958Z",
+            "tags": [
+                {
+                    "id": 44364390,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EXCELSIOR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:56.957Z",
+                    "updatedAt": "2023-10-30T12:46:56.957Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        149
+                    ],
+                    [
+                        165,
+                        77
+                    ],
+                    [
+                        285,
+                        60
+                    ],
+                    [
+                        376,
+                        113
+                    ],
+                    [
+                        412,
+                        187
+                    ],
+                    [
+                        379,
+                        194
+                    ],
+                    [
+                        352,
+                        132
+                    ],
+                    [
+                        273,
+                        91
+                    ],
+                    [
+                        196,
+                        118
+                    ],
+                    [
+                        175,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183108,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:56.957Z",
+            "updatedAt": "2023-10-30T12:46:56.957Z",
+            "tags": [
+                {
+                    "id": 44364389,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CAFFE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:56.956Z",
+                    "updatedAt": "2023-10-30T12:46:56.956Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        243
+                    ],
+                    [
+                        235,
+                        275
+                    ],
+                    [
+                        281,
+                        286
+                    ],
+                    [
+                        325,
+                        282
+                    ],
+                    [
+                        366,
+                        252
+                    ],
+                    [
+                        391,
+                        283
+                    ],
+                    [
+                        337,
+                        320
+                    ],
+                    [
+                        274,
+                        331
+                    ],
+                    [
+                        202,
+                        311
+                    ],
+                    [
+                        159,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

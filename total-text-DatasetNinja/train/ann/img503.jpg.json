@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1936,
+        "width": 1936
+    },
+    "objects": [
+        {
+            "id": 77181233,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.911Z",
+            "updatedAt": "2023-10-30T12:46:09.911Z",
+            "tags": [
+                {
+                    "id": 44362514,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RALLI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.911Z",
+                    "updatedAt": "2023-10-30T12:46:09.911Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        730
+                    ],
+                    [
+                        695,
+                        681
+                    ],
+                    [
+                        860,
+                        670
+                    ],
+                    [
+                        1029,
+                        682
+                    ],
+                    [
+                        1195,
+                        724
+                    ],
+                    [
+                        1168,
+                        856
+                    ],
+                    [
+                        1020,
+                        815
+                    ],
+                    [
+                        872,
+                        797
+                    ],
+                    [
+                        727,
+                        809
+                    ],
+                    [
+                        577,
+                        853
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181232,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.910Z",
+            "updatedAt": "2023-10-30T12:46:09.910Z",
+            "tags": [
+                {
+                    "id": 44362513,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "APARTIMANI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.909Z",
+                    "updatedAt": "2023-10-30T12:46:09.909Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        844
+                    ],
+                    [
+                        732,
+                        847
+                    ],
+                    [
+                        863,
+                        849
+                    ],
+                    [
+                        992,
+                        849
+                    ],
+                    [
+                        1117,
+                        844
+                    ],
+                    [
+                        1120,
+                        922
+                    ],
+                    [
+                        987,
+                        923
+                    ],
+                    [
+                        853,
+                        918
+                    ],
+                    [
+                        723,
+                        918
+                    ],
+                    [
+                        595,
+                        916
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181231,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.909Z",
+            "updatedAt": "2023-10-30T12:46:09.909Z",
+            "tags": [
+                {
+                    "id": 44362512,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "59",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.908Z",
+                    "updatedAt": "2023-10-30T12:46:09.908Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        777,
+                        937
+                    ],
+                    [
+                        820,
+                        939
+                    ],
+                    [
+                        863,
+                        938
+                    ],
+                    [
+                        906,
+                        938
+                    ],
+                    [
+                        950,
+                        940
+                    ],
+                    [
+                        944,
+                        1014
+                    ],
+                    [
+                        902,
+                        1013
+                    ],
+                    [
+                        859,
+                        1011
+                    ],
+                    [
+                        815,
+                        1012
+                    ],
+                    [
+                        773,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

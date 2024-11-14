@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1936,
+        "width": 2592
+    },
+    "objects": [
+        {
+            "id": 77181249,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.915Z",
+            "updatedAt": "2023-10-30T12:46:09.915Z",
+            "tags": [
+                {
+                    "id": 44362530,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STEVE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.915Z",
+                    "updatedAt": "2023-10-30T12:46:09.915Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        653,
+                        574
+                    ],
+                    [
+                        953,
+                        528
+                    ],
+                    [
+                        1262,
+                        514
+                    ],
+                    [
+                        1564,
+                        534
+                    ],
+                    [
+                        1865,
+                        595
+                    ],
+                    [
+                        1799,
+                        817
+                    ],
+                    [
+                        1515,
+                        758
+                    ],
+                    [
+                        1226,
+                        739
+                    ],
+                    [
+                        945,
+                        758
+                    ],
+                    [
+                        662,
+                        793
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181248,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:09.914Z",
+            "updatedAt": "2023-10-30T12:46:09.914Z",
+            "tags": [
+                {
+                    "id": 44362529,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MADDEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:09.913Z",
+                    "updatedAt": "2023-10-30T12:46:09.913Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        1051
+                    ],
+                    [
+                        857,
+                        1157
+                    ],
+                    [
+                        1231,
+                        1213
+                    ],
+                    [
+                        1606,
+                        1180
+                    ],
+                    [
+                        1982,
+                        1063
+                    ],
+                    [
+                        2099,
+                        1327
+                    ],
+                    [
+                        1669,
+                        1433
+                    ],
+                    [
+                        1231,
+                        1473
+                    ],
+                    [
+                        783,
+                        1434
+                    ],
+                    [
+                        356,
+                        1288
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

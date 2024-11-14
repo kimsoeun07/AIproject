@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 180
+    },
+    "objects": [
+        {
+            "id": 77179318,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.781Z",
+            "updatedAt": "2023-10-30T12:43:54.781Z",
+            "tags": [
+                {
+                    "id": 44360954,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BODA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.781Z",
+                    "updatedAt": "2023-10-30T12:43:54.781Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        62
+                    ],
+                    [
+                        64,
+                        56
+                    ],
+                    [
+                        78,
+                        56
+                    ],
+                    [
+                        95,
+                        55
+                    ],
+                    [
+                        106,
+                        55
+                    ],
+                    [
+                        105,
+                        69
+                    ],
+                    [
+                        95,
+                        70
+                    ],
+                    [
+                        82,
+                        72
+                    ],
+                    [
+                        73,
+                        74
+                    ],
+                    [
+                        61,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179317,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.780Z",
+            "updatedAt": "2023-10-30T12:43:54.780Z",
+            "tags": [
+                {
+                    "id": 44360953,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FURNITURE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.780Z",
+                    "updatedAt": "2023-10-30T12:43:54.780Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        71
+                    ],
+                    [
+                        72,
+                        98
+                    ],
+                    [
+                        73,
+                        123
+                    ],
+                    [
+                        72,
+                        150
+                    ],
+                    [
+                        72,
+                        174
+                    ],
+                    [
+                        92,
+                        174
+                    ],
+                    [
+                        91,
+                        149
+                    ],
+                    [
+                        91,
+                        123
+                    ],
+                    [
+                        91,
+                        96
+                    ],
+                    [
+                        92,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179316,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.779Z",
+            "updatedAt": "2023-10-30T12:43:54.779Z",
+            "tags": [
+                {
+                    "id": 44360952,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.778Z",
+                    "updatedAt": "2023-10-30T12:43:54.778Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        176
+                    ],
+                    [
+                        73,
+                        174
+                    ],
+                    [
+                        83,
+                        173
+                    ],
+                    [
+                        93,
+                        172
+                    ],
+                    [
+                        102,
+                        169
+                    ],
+                    [
+                        108,
+                        181
+                    ],
+                    [
+                        97,
+                        191
+                    ],
+                    [
+                        84,
+                        192
+                    ],
+                    [
+                        73,
+                        191
+                    ],
+                    [
+                        61,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

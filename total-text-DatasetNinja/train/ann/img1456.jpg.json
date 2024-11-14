@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 661
+    },
+    "objects": [
+        {
+            "id": 77178107,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.379Z",
+            "updatedAt": "2023-10-30T12:42:16.379Z",
+            "tags": [
+                {
+                    "id": 44359743,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Magic",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.379Z",
+                    "updatedAt": "2023-10-30T12:42:16.379Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        239
+                    ],
+                    [
+                        140,
+                        220
+                    ],
+                    [
+                        176,
+                        210
+                    ],
+                    [
+                        213,
+                        200
+                    ],
+                    [
+                        248,
+                        201
+                    ],
+                    [
+                        249,
+                        239
+                    ],
+                    [
+                        221,
+                        245
+                    ],
+                    [
+                        191,
+                        257
+                    ],
+                    [
+                        160,
+                        269
+                    ],
+                    [
+                        130,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178106,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.378Z",
+            "updatedAt": "2023-10-30T12:42:16.378Z",
+            "tags": [
+                {
+                    "id": 44359742,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Kingdom",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.378Z",
+                    "updatedAt": "2023-10-30T12:42:16.378Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        189
+                    ],
+                    [
+                        453,
+                        193
+                    ],
+                    [
+                        498,
+                        212
+                    ],
+                    [
+                        543,
+                        225
+                    ],
+                    [
+                        589,
+                        256
+                    ],
+                    [
+                        578,
+                        295
+                    ],
+                    [
+                        533,
+                        278
+                    ],
+                    [
+                        490,
+                        263
+                    ],
+                    [
+                        445,
+                        252
+                    ],
+                    [
+                        402,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

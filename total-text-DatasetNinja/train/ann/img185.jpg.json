@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1066,
+        "width": 762
+    },
+    "objects": [
+        {
+            "id": 77179075,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.842Z",
+            "updatedAt": "2023-10-30T12:43:47.842Z",
+            "tags": [
+                {
+                    "id": 44360711,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ASTACALA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.842Z",
+                    "updatedAt": "2023-10-30T12:43:47.842Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        230
+                    ],
+                    [
+                        140,
+                        41
+                    ],
+                    [
+                        298,
+                        11
+                    ],
+                    [
+                        462,
+                        65
+                    ],
+                    [
+                        569,
+                        234
+                    ],
+                    [
+                        498,
+                        291
+                    ],
+                    [
+                        401,
+                        158
+                    ],
+                    [
+                        302,
+                        121
+                    ],
+                    [
+                        156,
+                        184
+                    ],
+                    [
+                        109,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179074,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.841Z",
+            "updatedAt": "2023-10-30T12:43:47.841Z",
+            "tags": [
+                {
+                    "id": 44360710,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.841Z",
+                    "updatedAt": "2023-10-30T12:43:47.841Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        1020
+                    ],
+                    [
+                        751,
+                        1012
+                    ],
+                    [
+                        751,
+                        1057
+                    ],
+                    [
+                        433,
+                        1057
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

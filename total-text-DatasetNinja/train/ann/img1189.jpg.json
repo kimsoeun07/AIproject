@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 77175513,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:17.358Z",
+            "updatedAt": "2023-10-30T12:41:17.358Z",
+            "tags": [
+                {
+                    "id": 44357149,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:17.358Z",
+                    "updatedAt": "2023-10-30T12:41:17.358Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        34
+                    ],
+                    [
+                        135,
+                        23
+                    ],
+                    [
+                        171,
+                        21
+                    ],
+                    [
+                        204,
+                        25
+                    ],
+                    [
+                        241,
+                        36
+                    ],
+                    [
+                        221,
+                        67
+                    ],
+                    [
+                        193,
+                        50
+                    ],
+                    [
+                        164,
+                        47
+                    ],
+                    [
+                        139,
+                        51
+                    ],
+                    [
+                        109,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175512,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:17.357Z",
+            "updatedAt": "2023-10-30T12:41:17.357Z",
+            "tags": [
+                {
+                    "id": 44357148,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WHWAHNEE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:17.357Z",
+                    "updatedAt": "2023-10-30T12:41:17.357Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        109
+                    ],
+                    [
+                        68,
+                        200
+                    ],
+                    [
+                        164,
+                        244
+                    ],
+                    [
+                        256,
+                        196
+                    ],
+                    [
+                        273,
+                        117
+                    ],
+                    [
+                        312,
+                        114
+                    ],
+                    [
+                        311,
+                        223
+                    ],
+                    [
+                        164,
+                        295
+                    ],
+                    [
+                        21,
+                        253
+                    ],
+                    [
+                        16,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

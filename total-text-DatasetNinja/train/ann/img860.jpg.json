@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 77183702,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.124Z",
+            "updatedAt": "2023-10-30T12:47:20.124Z",
+            "tags": [
+                {
+                    "id": 44364983,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HELMSTETTER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.124Z",
+                    "updatedAt": "2023-10-30T12:47:20.124Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        303
+                    ],
+                    [
+                        166,
+                        319
+                    ],
+                    [
+                        197,
+                        326
+                    ],
+                    [
+                        229,
+                        324
+                    ],
+                    [
+                        259,
+                        309
+                    ],
+                    [
+                        272,
+                        328
+                    ],
+                    [
+                        233,
+                        345
+                    ],
+                    [
+                        194,
+                        350
+                    ],
+                    [
+                        155,
+                        341
+                    ],
+                    [
+                        118,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77183701,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:20.124Z",
+            "updatedAt": "2023-10-30T12:47:20.124Z",
+            "tags": [
+                {
+                    "id": 44364982,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "20060722",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:20.123Z",
+                    "updatedAt": "2023-10-30T12:47:20.123Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        385
+                    ],
+                    [
+                        39,
+                        404
+                    ],
+                    [
+                        40,
+                        425
+                    ],
+                    [
+                        40,
+                        446
+                    ],
+                    [
+                        40,
+                        465
+                    ],
+                    [
+                        28,
+                        465
+                    ],
+                    [
+                        28,
+                        446
+                    ],
+                    [
+                        27,
+                        427
+                    ],
+                    [
+                        28,
+                        406
+                    ],
+                    [
+                        28,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

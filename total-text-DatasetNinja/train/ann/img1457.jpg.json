@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 916,
+        "width": 649
+    },
+    "objects": [
+        {
+            "id": 77178105,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.378Z",
+            "updatedAt": "2023-10-30T12:42:16.378Z",
+            "tags": [
+                {
+                    "id": 44359741,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.378Z",
+                    "updatedAt": "2023-10-30T12:42:16.378Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        556,
+                        704
+                    ],
+                    [
+                        577,
+                        704
+                    ],
+                    [
+                        597,
+                        704
+                    ],
+                    [
+                        597,
+                        716
+                    ],
+                    [
+                        577,
+                        716
+                    ],
+                    [
+                        556,
+                        716
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178104,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.377Z",
+            "updatedAt": "2023-10-30T12:42:16.377Z",
+            "tags": [
+                {
+                    "id": 44359740,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TIVOLI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.377Z",
+                    "updatedAt": "2023-10-30T12:42:16.377Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        404
+                    ],
+                    [
+                        291,
+                        398
+                    ],
+                    [
+                        316,
+                        397
+                    ],
+                    [
+                        342,
+                        398
+                    ],
+                    [
+                        369,
+                        406
+                    ],
+                    [
+                        365,
+                        426
+                    ],
+                    [
+                        341,
+                        419
+                    ],
+                    [
+                        317,
+                        417
+                    ],
+                    [
+                        292,
+                        420
+                    ],
+                    [
+                        269,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

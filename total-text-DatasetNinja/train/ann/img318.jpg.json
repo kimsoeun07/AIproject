@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 474,
+        "width": 360
+    },
+    "objects": [
+        {
+            "id": 77179844,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.951Z",
+            "updatedAt": "2023-10-30T12:44:14.951Z",
+            "tags": [
+                {
+                    "id": 44361480,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TRACK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.950Z",
+                    "updatedAt": "2023-10-30T12:44:14.950Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        73
+                    ],
+                    [
+                        133,
+                        53
+                    ],
+                    [
+                        183,
+                        48
+                    ],
+                    [
+                        232,
+                        59
+                    ],
+                    [
+                        284,
+                        89
+                    ],
+                    [
+                        266,
+                        125
+                    ],
+                    [
+                        226,
+                        95
+                    ],
+                    [
+                        187,
+                        84
+                    ],
+                    [
+                        145,
+                        88
+                    ],
+                    [
+                        106,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179843,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.949Z",
+            "updatedAt": "2023-10-30T12:44:14.949Z",
+            "tags": [
+                {
+                    "id": 44361479,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CROSSING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.949Z",
+                    "updatedAt": "2023-10-30T12:44:14.949Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        289
+                    ],
+                    [
+                        122,
+                        346
+                    ],
+                    [
+                        178,
+                        361
+                    ],
+                    [
+                        234,
+                        351
+                    ],
+                    [
+                        290,
+                        301
+                    ],
+                    [
+                        312,
+                        320
+                    ],
+                    [
+                        246,
+                        386
+                    ],
+                    [
+                        177,
+                        398
+                    ],
+                    [
+                        110,
+                        380
+                    ],
+                    [
+                        42,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179842,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.948Z",
+            "updatedAt": "2023-10-30T12:44:14.948Z",
+            "tags": [
+                {
+                    "id": 44361478,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "4",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.948Z",
+                    "updatedAt": "2023-10-30T12:44:14.948Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        129
+                    ],
+                    [
+                        147,
+                        129
+                    ],
+                    [
+                        176,
+                        128
+                    ],
+                    [
+                        208,
+                        132
+                    ],
+                    [
+                        235,
+                        135
+                    ],
+                    [
+                        237,
+                        320
+                    ],
+                    [
+                        205,
+                        320
+                    ],
+                    [
+                        173,
+                        319
+                    ],
+                    [
+                        142,
+                        316
+                    ],
+                    [
+                        112,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

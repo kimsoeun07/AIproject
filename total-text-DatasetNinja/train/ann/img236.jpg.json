@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1064,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77179442,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:00.978Z",
+            "updatedAt": "2023-10-30T12:44:00.978Z",
+            "tags": [
+                {
+                    "id": 44361078,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOULANGERIE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:00.978Z",
+                    "updatedAt": "2023-10-30T12:44:00.978Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        377
+                    ],
+                    [
+                        469,
+                        194
+                    ],
+                    [
+                        745,
+                        139
+                    ],
+                    [
+                        1011,
+                        189
+                    ],
+                    [
+                        1102,
+                        349
+                    ],
+                    [
+                        1047,
+                        387
+                    ],
+                    [
+                        928,
+                        250
+                    ],
+                    [
+                        762,
+                        216
+                    ],
+                    [
+                        541,
+                        272
+                    ],
+                    [
+                        472,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179441,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:00.976Z",
+            "updatedAt": "2023-10-30T12:44:00.976Z",
+            "tags": [
+                {
+                    "id": 44361077,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "pastisserie",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:00.976Z",
+                    "updatedAt": "2023-10-30T12:44:00.976Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        440
+                    ],
+                    [
+                        641,
+                        405
+                    ],
+                    [
+                        762,
+                        404
+                    ],
+                    [
+                        879,
+                        407
+                    ],
+                    [
+                        998,
+                        403
+                    ],
+                    [
+                        988,
+                        487
+                    ],
+                    [
+                        869,
+                        502
+                    ],
+                    [
+                        742,
+                        513
+                    ],
+                    [
+                        617,
+                        529
+                    ],
+                    [
+                        496,
+                        545
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

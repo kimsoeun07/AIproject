@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1910,
+        "width": 2996
+    },
+    "objects": [
+        {
+            "id": 77179999,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.812Z",
+            "updatedAt": "2023-10-30T12:44:23.812Z",
+            "tags": [
+                {
+                    "id": 44361635,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GOLDEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.812Z",
+                    "updatedAt": "2023-10-30T12:44:23.812Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        899,
+                        796
+                    ],
+                    [
+                        1053,
+                        538
+                    ],
+                    [
+                        1207,
+                        390
+                    ],
+                    [
+                        1360,
+                        317
+                    ],
+                    [
+                        1516,
+                        280
+                    ],
+                    [
+                        1535,
+                        424
+                    ],
+                    [
+                        1400,
+                        453
+                    ],
+                    [
+                        1261,
+                        512
+                    ],
+                    [
+                        1124,
+                        628
+                    ],
+                    [
+                        988,
+                        855
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179998,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.811Z",
+            "updatedAt": "2023-10-30T12:44:23.811Z",
+            "tags": [
+                {
+                    "id": 44361634,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BUGGET",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.811Z",
+                    "updatedAt": "2023-10-30T12:44:23.811Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1625,
+                        292
+                    ],
+                    [
+                        1936,
+                        426
+                    ],
+                    [
+                        2032,
+                        561
+                    ],
+                    [
+                        2094,
+                        695
+                    ],
+                    [
+                        2164,
+                        831
+                    ],
+                    [
+                        2094,
+                        897
+                    ],
+                    [
+                        2035,
+                        780
+                    ],
+                    [
+                        1970,
+                        662
+                    ],
+                    [
+                        1884,
+                        545
+                    ],
+                    [
+                        1632,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

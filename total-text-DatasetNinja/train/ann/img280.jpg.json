@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1125,
+        "width": 1687
+    },
+    "objects": [
+        {
+            "id": 77179652,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.926Z",
+            "updatedAt": "2023-10-30T12:44:08.926Z",
+            "tags": [
+                {
+                    "id": 44361288,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BEVERLY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.926Z",
+                    "updatedAt": "2023-10-30T12:44:08.926Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        502
+                    ],
+                    [
+                        501,
+                        326
+                    ],
+                    [
+                        814,
+                        265
+                    ],
+                    [
+                        1141,
+                        279
+                    ],
+                    [
+                        1453,
+                        334
+                    ],
+                    [
+                        1329,
+                        546
+                    ],
+                    [
+                        1057,
+                        506
+                    ],
+                    [
+                        784,
+                        499
+                    ],
+                    [
+                        510,
+                        550
+                    ],
+                    [
+                        235,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179651,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.926Z",
+            "updatedAt": "2023-10-30T12:44:08.926Z",
+            "tags": [
+                {
+                    "id": 44361287,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HILLS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.926Z",
+                    "updatedAt": "2023-10-30T12:44:08.926Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        687
+                    ],
+                    [
+                        556,
+                        650
+                    ],
+                    [
+                        725,
+                        637
+                    ],
+                    [
+                        904,
+                        625
+                    ],
+                    [
+                        1077,
+                        618
+                    ],
+                    [
+                        1074,
+                        834
+                    ],
+                    [
+                        897,
+                        842
+                    ],
+                    [
+                        732,
+                        847
+                    ],
+                    [
+                        554,
+                        852
+                    ],
+                    [
+                        376,
+                        861
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

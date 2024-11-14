@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 880,
+        "width": 682
+    },
+    "objects": [
+        {
+            "id": 77177196,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.933Z",
+            "updatedAt": "2023-10-30T12:42:01.933Z",
+            "tags": [
+                {
+                    "id": 44358832,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Old",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.933Z",
+                    "updatedAt": "2023-10-30T12:42:01.933Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        284
+                    ],
+                    [
+                        84,
+                        255
+                    ],
+                    [
+                        109,
+                        222
+                    ],
+                    [
+                        135,
+                        221
+                    ],
+                    [
+                        161,
+                        219
+                    ],
+                    [
+                        193,
+                        256
+                    ],
+                    [
+                        172,
+                        270
+                    ],
+                    [
+                        149,
+                        287
+                    ],
+                    [
+                        125,
+                        307
+                    ],
+                    [
+                        102,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177195,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.933Z",
+            "updatedAt": "2023-10-30T12:42:01.933Z",
+            "tags": [
+                {
+                    "id": 44358831,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Coffee",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.933Z",
+                    "updatedAt": "2023-10-30T12:42:01.933Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        191
+                    ],
+                    [
+                        219,
+                        170
+                    ],
+                    [
+                        274,
+                        154
+                    ],
+                    [
+                        329,
+                        151
+                    ],
+                    [
+                        381,
+                        154
+                    ],
+                    [
+                        375,
+                        206
+                    ],
+                    [
+                        334,
+                        203
+                    ],
+                    [
+                        292,
+                        212
+                    ],
+                    [
+                        250,
+                        229
+                    ],
+                    [
+                        208,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177194,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:01.932Z",
+            "updatedAt": "2023-10-30T12:42:01.932Z",
+            "tags": [
+                {
+                    "id": 44358830,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "house",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:01.932Z",
+                    "updatedAt": "2023-10-30T12:42:01.932Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        130
+                    ],
+                    [
+                        440,
+                        134
+                    ],
+                    [
+                        490,
+                        163
+                    ],
+                    [
+                        536,
+                        175
+                    ],
+                    [
+                        585,
+                        191
+                    ],
+                    [
+                        560,
+                        235
+                    ],
+                    [
+                        517,
+                        226
+                    ],
+                    [
+                        472,
+                        209
+                    ],
+                    [
+                        430,
+                        216
+                    ],
+                    [
+                        387,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

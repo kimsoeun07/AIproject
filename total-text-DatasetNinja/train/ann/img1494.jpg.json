@@ -1,0 +1,192 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 609,
+        "width": 1080
+    },
+    "objects": [
+        {
+            "id": 77178222,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.944Z",
+            "updatedAt": "2023-10-30T12:42:21.944Z",
+            "tags": [
+                {
+                    "id": 44359858,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Bas",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.944Z",
+                    "updatedAt": "2023-10-30T12:42:21.944Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        573,
+                        348
+                    ],
+                    [
+                        600,
+                        345
+                    ],
+                    [
+                        630,
+                        347
+                    ],
+                    [
+                        655,
+                        349
+                    ],
+                    [
+                        682,
+                        351
+                    ],
+                    [
+                        676,
+                        410
+                    ],
+                    [
+                        652,
+                        412
+                    ],
+                    [
+                        625,
+                        413
+                    ],
+                    [
+                        599,
+                        415
+                    ],
+                    [
+                        576,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178221,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.943Z",
+            "updatedAt": "2023-10-30T12:42:21.943Z",
+            "tags": [
+                {
+                    "id": 44359857,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Sekolah",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.943Z",
+                    "updatedAt": "2023-10-30T12:42:21.943Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        705,
+                        341
+                    ],
+                    [
+                        747,
+                        345
+                    ],
+                    [
+                        786,
+                        350
+                    ],
+                    [
+                        829,
+                        363
+                    ],
+                    [
+                        869,
+                        384
+                    ],
+                    [
+                        855,
+                        433
+                    ],
+                    [
+                        818,
+                        416
+                    ],
+                    [
+                        779,
+                        407
+                    ],
+                    [
+                        740,
+                        403
+                    ],
+                    [
+                        701,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178220,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.942Z",
+            "updatedAt": "2023-10-30T12:42:21.942Z",
+            "tags": [
+                {
+                    "id": 44359856,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.942Z",
+                    "updatedAt": "2023-10-30T12:42:21.942Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        130
+                    ],
+                    [
+                        183,
+                        124
+                    ],
+                    [
+                        204,
+                        120
+                    ],
+                    [
+                        212,
+                        137
+                    ],
+                    [
+                        196,
+                        143
+                    ],
+                    [
+                        174,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

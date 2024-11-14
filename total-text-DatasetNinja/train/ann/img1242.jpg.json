@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 524,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77176219,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.292Z",
+            "updatedAt": "2023-10-30T12:41:26.292Z",
+            "tags": [
+                {
+                    "id": 44357855,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VETUS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.292Z",
+                    "updatedAt": "2023-10-30T12:41:26.292Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        250
+                    ],
+                    [
+                        173,
+                        252
+                    ],
+                    [
+                        185,
+                        253
+                    ],
+                    [
+                        196,
+                        248
+                    ],
+                    [
+                        207,
+                        240
+                    ],
+                    [
+                        210,
+                        256
+                    ],
+                    [
+                        199,
+                        259
+                    ],
+                    [
+                        188,
+                        263
+                    ],
+                    [
+                        175,
+                        265
+                    ],
+                    [
+                        163,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176218,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.291Z",
+            "updatedAt": "2023-10-30T12:41:26.291Z",
+            "tags": [
+                {
+                    "id": 44357854,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PURUM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.291Z",
+                    "updatedAt": "2023-10-30T12:41:26.291Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        249
+                    ],
+                    [
+                        299,
+                        251
+                    ],
+                    [
+                        311,
+                        255
+                    ],
+                    [
+                        322,
+                        257
+                    ],
+                    [
+                        330,
+                        257
+                    ],
+                    [
+                        329,
+                        265
+                    ],
+                    [
+                        317,
+                        266
+                    ],
+                    [
+                        307,
+                        264
+                    ],
+                    [
+                        298,
+                        261
+                    ],
+                    [
+                        288,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77176217,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:26.291Z",
+            "updatedAt": "2023-10-30T12:41:26.291Z",
+            "tags": [
+                {
+                    "id": 44357853,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "StHugo",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:26.291Z",
+                    "updatedAt": "2023-10-30T12:41:26.291Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        346
+                    ],
+                    [
+                        203,
+                        348
+                    ],
+                    [
+                        266,
+                        369
+                    ],
+                    [
+                        328,
+                        367
+                    ],
+                    [
+                        389,
+                        389
+                    ],
+                    [
+                        378,
+                        453
+                    ],
+                    [
+                        308,
+                        460
+                    ],
+                    [
+                        236,
+                        435
+                    ],
+                    [
+                        166,
+                        431
+                    ],
+                    [
+                        97,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

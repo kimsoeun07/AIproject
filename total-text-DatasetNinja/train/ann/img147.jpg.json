@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 831,
+        "width": 950
+    },
+    "objects": [
+        {
+            "id": 77178041,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.355Z",
+            "updatedAt": "2023-10-30T12:42:16.355Z",
+            "tags": [
+                {
+                    "id": 44359677,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KIA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.354Z",
+                    "updatedAt": "2023-10-30T12:42:16.354Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        169
+                    ],
+                    [
+                        307,
+                        100
+                    ],
+                    [
+                        451,
+                        88
+                    ],
+                    [
+                        603,
+                        142
+                    ],
+                    [
+                        700,
+                        251
+                    ],
+                    [
+                        640,
+                        362
+                    ],
+                    [
+                        556,
+                        284
+                    ],
+                    [
+                        454,
+                        226
+                    ],
+                    [
+                        348,
+                        237
+                    ],
+                    [
+                        250,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178040,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.353Z",
+            "updatedAt": "2023-10-30T12:42:16.353Z",
+            "tags": [
+                {
+                    "id": 44359676,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MOTORS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.353Z",
+                    "updatedAt": "2023-10-30T12:42:16.353Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        527
+                    ],
+                    [
+                        320,
+                        632
+                    ],
+                    [
+                        417,
+                        676
+                    ],
+                    [
+                        514,
+                        683
+                    ],
+                    [
+                        611,
+                        650
+                    ],
+                    [
+                        634,
+                        687
+                    ],
+                    [
+                        525,
+                        723
+                    ],
+                    [
+                        411,
+                        717
+                    ],
+                    [
+                        299,
+                        662
+                    ],
+                    [
+                        184,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

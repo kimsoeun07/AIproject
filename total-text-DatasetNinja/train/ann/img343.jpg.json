@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2095,
+        "width": 2938
+    },
+    "objects": [
+        {
+            "id": 77180048,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.825Z",
+            "updatedAt": "2023-10-30T12:44:23.825Z",
+            "tags": [
+                {
+                    "id": 44361684,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "INVEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.824Z",
+                    "updatedAt": "2023-10-30T12:44:23.824Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        1537
+                    ],
+                    [
+                        551,
+                        1616
+                    ],
+                    [
+                        787,
+                        1629
+                    ],
+                    [
+                        1018,
+                        1581
+                    ],
+                    [
+                        1252,
+                        1507
+                    ],
+                    [
+                        1321,
+                        1684
+                    ],
+                    [
+                        1050,
+                        1765
+                    ],
+                    [
+                        776,
+                        1791
+                    ],
+                    [
+                        503,
+                        1772
+                    ],
+                    [
+                        233,
+                        1720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180047,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.824Z",
+            "updatedAt": "2023-10-30T12:44:23.824Z",
+            "tags": [
+                {
+                    "id": 44361683,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "IONS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.824Z",
+                    "updatedAt": "2023-10-30T12:44:23.824Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1894,
+                        1267
+                    ],
+                    [
+                        2082,
+                        1242
+                    ],
+                    [
+                        2285,
+                        1227
+                    ],
+                    [
+                        2477,
+                        1257
+                    ],
+                    [
+                        2670,
+                        1330
+                    ],
+                    [
+                        2607,
+                        1510
+                    ],
+                    [
+                        2434,
+                        1438
+                    ],
+                    [
+                        2265,
+                        1391
+                    ],
+                    [
+                        2091,
+                        1402
+                    ],
+                    [
+                        1921,
+                        1438
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

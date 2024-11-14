@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1600,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 77180425,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.042Z",
+            "updatedAt": "2023-10-30T12:45:46.042Z",
+            "tags": [
+                {
+                    "id": 44362061,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Village",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.042Z",
+                    "updatedAt": "2023-10-30T12:45:46.042Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        702
+                    ],
+                    [
+                        494,
+                        619
+                    ],
+                    [
+                        651,
+                        597
+                    ],
+                    [
+                        809,
+                        638
+                    ],
+                    [
+                        963,
+                        712
+                    ],
+                    [
+                        937,
+                        844
+                    ],
+                    [
+                        819,
+                        833
+                    ],
+                    [
+                        693,
+                        781
+                    ],
+                    [
+                        575,
+                        807
+                    ],
+                    [
+                        451,
+                        868
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180424,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.042Z",
+            "updatedAt": "2023-10-30T12:45:46.042Z",
+            "tags": [
+                {
+                    "id": 44362060,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Woods",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.041Z",
+                    "updatedAt": "2023-10-30T12:45:46.041Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        900
+                    ],
+                    [
+                        421,
+                        884
+                    ],
+                    [
+                        569,
+                        874
+                    ],
+                    [
+                        716,
+                        864
+                    ],
+                    [
+                        861,
+                        862
+                    ],
+                    [
+                        870,
+                        1028
+                    ],
+                    [
+                        724,
+                        1044
+                    ],
+                    [
+                        582,
+                        1060
+                    ],
+                    [
+                        436,
+                        1080
+                    ],
+                    [
+                        293,
+                        1098
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

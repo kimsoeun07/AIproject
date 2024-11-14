@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 588,
+        "width": 884
+    },
+    "objects": [
+        {
+            "id": 77179906,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.960Z",
+            "updatedAt": "2023-10-30T12:44:14.960Z",
+            "tags": [
+                {
+                    "id": 44361542,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTORAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.960Z",
+                    "updatedAt": "2023-10-30T12:44:14.960Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        129
+                    ],
+                    [
+                        119,
+                        139
+                    ],
+                    [
+                        197,
+                        145
+                    ],
+                    [
+                        275,
+                        154
+                    ],
+                    [
+                        354,
+                        156
+                    ],
+                    [
+                        358,
+                        217
+                    ],
+                    [
+                        279,
+                        211
+                    ],
+                    [
+                        202,
+                        204
+                    ],
+                    [
+                        122,
+                        200
+                    ],
+                    [
+                        45,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179905,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.960Z",
+            "updatedAt": "2023-10-30T12:44:14.960Z",
+            "tags": [
+                {
+                    "id": 44361541,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MALAYSIA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.960Z",
+                    "updatedAt": "2023-10-30T12:44:14.960Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        220
+                    ],
+                    [
+                        448,
+                        182
+                    ],
+                    [
+                        466,
+                        176
+                    ],
+                    [
+                        484,
+                        184
+                    ],
+                    [
+                        499,
+                        227
+                    ],
+                    [
+                        482,
+                        224
+                    ],
+                    [
+                        473,
+                        198
+                    ],
+                    [
+                        465,
+                        195
+                    ],
+                    [
+                        456,
+                        197
+                    ],
+                    [
+                        449,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179904,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:14.959Z",
+            "updatedAt": "2023-10-30T12:44:14.959Z",
+            "tags": [
+                {
+                    "id": 44361540,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MALAYSIA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:14.959Z",
+                    "updatedAt": "2023-10-30T12:44:14.959Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        169
+                    ],
+                    [
+                        610,
+                        170
+                    ],
+                    [
+                        669,
+                        170
+                    ],
+                    [
+                        727,
+                        171
+                    ],
+                    [
+                        783,
+                        175
+                    ],
+                    [
+                        793,
+                        229
+                    ],
+                    [
+                        732,
+                        226
+                    ],
+                    [
+                        673,
+                        223
+                    ],
+                    [
+                        611,
+                        225
+                    ],
+                    [
+                        550,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

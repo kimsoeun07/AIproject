@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 810
+    },
+    "objects": [
+        {
+            "id": 77173711,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.129Z",
+            "updatedAt": "2023-10-30T12:40:46.129Z",
+            "tags": [
+                {
+                    "id": 44355347,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CONNOISSENR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.129Z",
+                    "updatedAt": "2023-10-30T12:40:46.129Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        375
+                    ],
+                    [
+                        404,
+                        380
+                    ],
+                    [
+                        438,
+                        379
+                    ],
+                    [
+                        473,
+                        379
+                    ],
+                    [
+                        505,
+                        375
+                    ],
+                    [
+                        505,
+                        392
+                    ],
+                    [
+                        473,
+                        393
+                    ],
+                    [
+                        438,
+                        392
+                    ],
+                    [
+                        404,
+                        392
+                    ],
+                    [
+                        370,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77173710,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:40:46.129Z",
+            "updatedAt": "2023-10-30T12:40:46.129Z",
+            "tags": [
+                {
+                    "id": 44355346,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CONFECTIONERY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:40:46.129Z",
+                    "updatedAt": "2023-10-30T12:40:46.129Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        361
+                    ],
+                    [
+                        334,
+                        350
+                    ],
+                    [
+                        437,
+                        347
+                    ],
+                    [
+                        540,
+                        352
+                    ],
+                    [
+                        643,
+                        355
+                    ],
+                    [
+                        639,
+                        387
+                    ],
+                    [
+                        538,
+                        375
+                    ],
+                    [
+                        434,
+                        372
+                    ],
+                    [
+                        332,
+                        378
+                    ],
+                    [
+                        229,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

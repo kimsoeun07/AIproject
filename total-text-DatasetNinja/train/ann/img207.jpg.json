@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 77179237,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.752Z",
+            "updatedAt": "2023-10-30T12:43:54.752Z",
+            "tags": [
+                {
+                    "id": 44360873,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.752Z",
+                    "updatedAt": "2023-10-30T12:43:54.752Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        220
+                    ],
+                    [
+                        95,
+                        204
+                    ],
+                    [
+                        112,
+                        191
+                    ],
+                    [
+                        128,
+                        181
+                    ],
+                    [
+                        143,
+                        170
+                    ],
+                    [
+                        168,
+                        180
+                    ],
+                    [
+                        158,
+                        186
+                    ],
+                    [
+                        145,
+                        195
+                    ],
+                    [
+                        132,
+                        207
+                    ],
+                    [
+                        121,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179236,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.751Z",
+            "updatedAt": "2023-10-30T12:43:54.751Z",
+            "tags": [
+                {
+                    "id": 44360872,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CHAMPIONSHIPS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.751Z",
+                    "updatedAt": "2023-10-30T12:43:54.751Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        155
+                    ],
+                    [
+                        265,
+                        138
+                    ],
+                    [
+                        371,
+                        139
+                    ],
+                    [
+                        472,
+                        169
+                    ],
+                    [
+                        551,
+                        234
+                    ],
+                    [
+                        501,
+                        243
+                    ],
+                    [
+                        422,
+                        175
+                    ],
+                    [
+                        342,
+                        156
+                    ],
+                    [
+                        260,
+                        156
+                    ],
+                    [
+                        179,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179235,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.750Z",
+            "updatedAt": "2023-10-30T12:43:54.750Z",
+            "tags": [
+                {
+                    "id": 44360871,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WIMBLEDON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.749Z",
+                    "updatedAt": "2023-10-30T12:43:54.749Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        303
+                    ],
+                    [
+                        215,
+                        353
+                    ],
+                    [
+                        309,
+                        364
+                    ],
+                    [
+                        416,
+                        354
+                    ],
+                    [
+                        497,
+                        308
+                    ],
+                    [
+                        531,
+                        338
+                    ],
+                    [
+                        435,
+                        389
+                    ],
+                    [
+                        309,
+                        405
+                    ],
+                    [
+                        194,
+                        389
+                    ],
+                    [
+                        88,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

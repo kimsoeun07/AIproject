@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77180131,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:31.882Z",
+            "updatedAt": "2023-10-30T12:44:31.882Z",
+            "tags": [
+                {
+                    "id": 44361767,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "moosewood",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:31.882Z",
+                    "updatedAt": "2023-10-30T12:44:31.882Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        273
+                    ],
+                    [
+                        408,
+                        128
+                    ],
+                    [
+                        644,
+                        95
+                    ],
+                    [
+                        873,
+                        108
+                    ],
+                    [
+                        1103,
+                        212
+                    ],
+                    [
+                        998,
+                        326
+                    ],
+                    [
+                        807,
+                        226
+                    ],
+                    [
+                        614,
+                        197
+                    ],
+                    [
+                        423,
+                        236
+                    ],
+                    [
+                        230,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

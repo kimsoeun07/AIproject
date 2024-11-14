@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 448,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 77180819,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.505Z",
+            "updatedAt": "2023-10-30T12:45:53.505Z",
+            "tags": [
+                {
+                    "id": 44362100,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Radisson",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.504Z",
+                    "updatedAt": "2023-10-30T12:45:53.504Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        179
+                    ],
+                    [
+                        267,
+                        178
+                    ],
+                    [
+                        302,
+                        178
+                    ],
+                    [
+                        339,
+                        184
+                    ],
+                    [
+                        373,
+                        197
+                    ],
+                    [
+                        373,
+                        213
+                    ],
+                    [
+                        338,
+                        222
+                    ],
+                    [
+                        301,
+                        225
+                    ],
+                    [
+                        263,
+                        230
+                    ],
+                    [
+                        227,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

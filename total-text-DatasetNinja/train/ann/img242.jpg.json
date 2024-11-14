@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 77179562,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.013Z",
+            "updatedAt": "2023-10-30T12:44:01.013Z",
+            "tags": [
+                {
+                    "id": 44361198,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LIBERTY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.013Z",
+                    "updatedAt": "2023-10-30T12:44:01.013Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        119
+                    ],
+                    [
+                        133,
+                        68
+                    ],
+                    [
+                        204,
+                        54
+                    ],
+                    [
+                        275,
+                        68
+                    ],
+                    [
+                        340,
+                        120
+                    ],
+                    [
+                        302,
+                        140
+                    ],
+                    [
+                        251,
+                        105
+                    ],
+                    [
+                        203,
+                        95
+                    ],
+                    [
+                        150,
+                        108
+                    ],
+                    [
+                        99,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179561,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:01.012Z",
+            "updatedAt": "2023-10-30T12:44:01.012Z",
+            "tags": [
+                {
+                    "id": 44361197,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TATTOO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:01.012Z",
+                    "updatedAt": "2023-10-30T12:44:01.012Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        298
+                    ],
+                    [
+                        128,
+                        299
+                    ],
+                    [
+                        195,
+                        298
+                    ],
+                    [
+                        273,
+                        299
+                    ],
+                    [
+                        330,
+                        297
+                    ],
+                    [
+                        328,
+                        354
+                    ],
+                    [
+                        267,
+                        354
+                    ],
+                    [
+                        203,
+                        351
+                    ],
+                    [
+                        134,
+                        350
+                    ],
+                    [
+                        76,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

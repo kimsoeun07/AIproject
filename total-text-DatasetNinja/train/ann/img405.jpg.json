@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 333
+    },
+    "objects": [
+        {
+            "id": 77180327,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.028Z",
+            "updatedAt": "2023-10-30T12:45:46.028Z",
+            "tags": [
+                {
+                    "id": 44361963,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STASSNY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.027Z",
+                    "updatedAt": "2023-10-30T12:45:46.027Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        420
+                    ],
+                    [
+                        143,
+                        428
+                    ],
+                    [
+                        182,
+                        426
+                    ],
+                    [
+                        223,
+                        422
+                    ],
+                    [
+                        263,
+                        414
+                    ],
+                    [
+                        265,
+                        449
+                    ],
+                    [
+                        223,
+                        460
+                    ],
+                    [
+                        180,
+                        464
+                    ],
+                    [
+                        137,
+                        464
+                    ],
+                    [
+                        96,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

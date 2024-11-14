@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 758
+    },
+    "objects": [
+        {
+            "id": 77184201,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.625Z",
+            "updatedAt": "2023-10-30T12:47:45.625Z",
+            "tags": [
+                {
+                    "id": 44365482,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "HoTeL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.624Z",
+                    "updatedAt": "2023-10-30T12:47:45.624Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        246
+                    ],
+                    [
+                        499,
+                        218
+                    ],
+                    [
+                        545,
+                        208
+                    ],
+                    [
+                        591,
+                        212
+                    ],
+                    [
+                        632,
+                        232
+                    ],
+                    [
+                        633,
+                        276
+                    ],
+                    [
+                        593,
+                        277
+                    ],
+                    [
+                        549,
+                        281
+                    ],
+                    [
+                        509,
+                        285
+                    ],
+                    [
+                        465,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77184200,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:47:45.624Z",
+            "updatedAt": "2023-10-30T12:47:45.624Z",
+            "tags": [
+                {
+                    "id": 44365481,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Freadenzimmer",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:47:45.624Z",
+                    "updatedAt": "2023-10-30T12:47:45.624Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        348
+                    ],
+                    [
+                        524,
+                        360
+                    ],
+                    [
+                        552,
+                        361
+                    ],
+                    [
+                        582,
+                        354
+                    ],
+                    [
+                        614,
+                        342
+                    ],
+                    [
+                        624,
+                        353
+                    ],
+                    [
+                        589,
+                        375
+                    ],
+                    [
+                        554,
+                        384
+                    ],
+                    [
+                        521,
+                        380
+                    ],
+                    [
+                        486,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

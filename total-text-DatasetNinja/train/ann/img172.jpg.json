@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2206,
+        "width": 1638
+    },
+    "objects": [
+        {
+            "id": 77179027,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.826Z",
+            "updatedAt": "2023-10-30T12:43:47.826Z",
+            "tags": [
+                {
+                    "id": 44360663,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VULCANIZING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.826Z",
+                    "updatedAt": "2023-10-30T12:43:47.826Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        1217
+                    ],
+                    [
+                        246,
+                        790
+                    ],
+                    [
+                        630,
+                        657
+                    ],
+                    [
+                        988,
+                        783
+                    ],
+                    [
+                        1127,
+                        1081
+                    ],
+                    [
+                        969,
+                        1148
+                    ],
+                    [
+                        870,
+                        905
+                    ],
+                    [
+                        642,
+                        814
+                    ],
+                    [
+                        394,
+                        911
+                    ],
+                    [
+                        285,
+                        1195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179026,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.826Z",
+            "updatedAt": "2023-10-30T12:43:47.826Z",
+            "tags": [
+                {
+                    "id": 44360662,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SHOP",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.826Z",
+                    "updatedAt": "2023-10-30T12:43:47.826Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        1408
+                    ],
+                    [
+                        513,
+                        1437
+                    ],
+                    [
+                        632,
+                        1463
+                    ],
+                    [
+                        755,
+                        1427
+                    ],
+                    [
+                        878,
+                        1405
+                    ],
+                    [
+                        914,
+                        1585
+                    ],
+                    [
+                        763,
+                        1600
+                    ],
+                    [
+                        615,
+                        1605
+                    ],
+                    [
+                        467,
+                        1602
+                    ],
+                    [
+                        317,
+                        1564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

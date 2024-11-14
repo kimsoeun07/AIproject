@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 309,
+        "width": 550
+    },
+    "objects": [
+        {
+            "id": 77180002,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.813Z",
+            "updatedAt": "2023-10-30T12:44:23.813Z",
+            "tags": [
+                {
+                    "id": 44361638,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "INDIAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.813Z",
+                    "updatedAt": "2023-10-30T12:44:23.813Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        167
+                    ],
+                    [
+                        150,
+                        155
+                    ],
+                    [
+                        179,
+                        144
+                    ],
+                    [
+                        208,
+                        136
+                    ],
+                    [
+                        238,
+                        132
+                    ],
+                    [
+                        243,
+                        161
+                    ],
+                    [
+                        217,
+                        161
+                    ],
+                    [
+                        191,
+                        168
+                    ],
+                    [
+                        165,
+                        179
+                    ],
+                    [
+                        139,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180001,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.812Z",
+            "updatedAt": "2023-10-30T12:44:23.812Z",
+            "tags": [
+                {
+                    "id": 44361637,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "RESTAURANT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.812Z",
+                    "updatedAt": "2023-10-30T12:44:23.812Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        128
+                    ],
+                    [
+                        314,
+                        129
+                    ],
+                    [
+                        373,
+                        132
+                    ],
+                    [
+                        433,
+                        146
+                    ],
+                    [
+                        492,
+                        169
+                    ],
+                    [
+                        477,
+                        195
+                    ],
+                    [
+                        423,
+                        172
+                    ],
+                    [
+                        367,
+                        158
+                    ],
+                    [
+                        311,
+                        153
+                    ],
+                    [
+                        257,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180000,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:23.811Z",
+            "updatedAt": "2023-10-30T12:44:23.811Z",
+            "tags": [
+                {
+                    "id": 44361636,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GANDHI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:23.811Z",
+                    "updatedAt": "2023-10-30T12:44:23.811Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        185
+                    ],
+                    [
+                        224,
+                        186
+                    ],
+                    [
+                        308,
+                        187
+                    ],
+                    [
+                        393,
+                        188
+                    ],
+                    [
+                        476,
+                        193
+                    ],
+                    [
+                        476,
+                        258
+                    ],
+                    [
+                        392,
+                        258
+                    ],
+                    [
+                        309,
+                        256
+                    ],
+                    [
+                        225,
+                        256
+                    ],
+                    [
+                        143,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

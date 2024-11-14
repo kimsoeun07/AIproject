@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 986,
+        "width": 1500
+    },
+    "objects": [
+        {
+            "id": 77175824,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.017Z",
+            "updatedAt": "2023-10-30T12:41:22.017Z",
+            "tags": [
+                {
+                    "id": 44357460,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DENVER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.017Z",
+                    "updatedAt": "2023-10-30T12:41:22.017Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        415
+                    ],
+                    [
+                        493,
+                        304
+                    ],
+                    [
+                        578,
+                        237
+                    ],
+                    [
+                        649,
+                        206
+                    ],
+                    [
+                        718,
+                        195
+                    ],
+                    [
+                        727,
+                        281
+                    ],
+                    [
+                        679,
+                        285
+                    ],
+                    [
+                        628,
+                        309
+                    ],
+                    [
+                        574,
+                        349
+                    ],
+                    [
+                        528,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175823,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.016Z",
+            "updatedAt": "2023-10-30T12:41:22.016Z",
+            "tags": [
+                {
+                    "id": 44357459,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BEER",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.016Z",
+                    "updatedAt": "2023-10-30T12:41:22.016Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        758,
+                        196
+                    ],
+                    [
+                        813,
+                        203
+                    ],
+                    [
+                        869,
+                        219
+                    ],
+                    [
+                        925,
+                        245
+                    ],
+                    [
+                        982,
+                        287
+                    ],
+                    [
+                        931,
+                        345
+                    ],
+                    [
+                        888,
+                        313
+                    ],
+                    [
+                        845,
+                        293
+                    ],
+                    [
+                        801,
+                        279
+                    ],
+                    [
+                        759,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175822,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.015Z",
+            "updatedAt": "2023-10-30T12:41:22.015Z",
+            "tags": [
+                {
+                    "id": 44357458,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.015Z",
+                    "updatedAt": "2023-10-30T12:41:22.015Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        1008,
+                        314
+                    ],
+                    [
+                        1039,
+                        329
+                    ],
+                    [
+                        1050,
+                        353
+                    ],
+                    [
+                        1063,
+                        383
+                    ],
+                    [
+                        1063,
+                        416
+                    ],
+                    [
+                        982,
+                        442
+                    ],
+                    [
+                        974,
+                        428
+                    ],
+                    [
+                        962,
+                        404
+                    ],
+                    [
+                        941,
+                        372
+                    ],
+                    [
+                        940,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1182,
+        "width": 1574
+    },
+    "objects": [
+        {
+            "id": 77178100,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.377Z",
+            "updatedAt": "2023-10-30T12:42:16.377Z",
+            "tags": [
+                {
+                    "id": 44359736,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "STARBUCKS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.376Z",
+                    "updatedAt": "2023-10-30T12:42:16.376Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        640
+                    ],
+                    [
+                        726,
+                        398
+                    ],
+                    [
+                        908,
+                        248
+                    ],
+                    [
+                        1180,
+                        297
+                    ],
+                    [
+                        1335,
+                        483
+                    ],
+                    [
+                        1220,
+                        554
+                    ],
+                    [
+                        1095,
+                        400
+                    ],
+                    [
+                        943,
+                        365
+                    ],
+                    [
+                        787,
+                        477
+                    ],
+                    [
+                        753,
+                        669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178099,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.375Z",
+            "updatedAt": "2023-10-30T12:42:16.375Z",
+            "tags": [
+                {
+                    "id": 44359735,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "COFFEE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.375Z",
+                    "updatedAt": "2023-10-30T12:42:16.375Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        818,
+                        827
+                    ],
+                    [
+                        917,
+                        900
+                    ],
+                    [
+                        1012,
+                        930
+                    ],
+                    [
+                        1113,
+                        903
+                    ],
+                    [
+                        1211,
+                        801
+                    ],
+                    [
+                        1311,
+                        890
+                    ],
+                    [
+                        1181,
+                        1015
+                    ],
+                    [
+                        1049,
+                        1045
+                    ],
+                    [
+                        917,
+                        1011
+                    ],
+                    [
+                        787,
+                        914
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77174602,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.563Z",
+            "updatedAt": "2023-10-30T12:41:01.563Z",
+            "tags": [
+                {
+                    "id": 44356238,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Seafood",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.563Z",
+                    "updatedAt": "2023-10-30T12:41:01.563Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        501
+                    ],
+                    [
+                        264,
+                        512
+                    ],
+                    [
+                        289,
+                        517
+                    ],
+                    [
+                        314,
+                        520
+                    ],
+                    [
+                        340,
+                        517
+                    ],
+                    [
+                        337,
+                        544
+                    ],
+                    [
+                        309,
+                        545
+                    ],
+                    [
+                        279,
+                        543
+                    ],
+                    [
+                        250,
+                        536
+                    ],
+                    [
+                        221,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77174601,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.562Z",
+            "updatedAt": "2023-10-30T12:41:01.562Z",
+            "tags": [
+                {
+                    "id": 44356237,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "Market",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.562Z",
+                    "updatedAt": "2023-10-30T12:41:01.562Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        513
+                    ],
+                    [
+                        370,
+                        508
+                    ],
+                    [
+                        388,
+                        503
+                    ],
+                    [
+                        406,
+                        493
+                    ],
+                    [
+                        425,
+                        477
+                    ],
+                    [
+                        449,
+                        490
+                    ],
+                    [
+                        425,
+                        512
+                    ],
+                    [
+                        402,
+                        526
+                    ],
+                    [
+                        379,
+                        535
+                    ],
+                    [
+                        356,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77174600,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.562Z",
+            "updatedAt": "2023-10-30T12:41:01.562Z",
+            "tags": [
+                {
+                    "id": 44356236,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.561Z",
+                    "updatedAt": "2023-10-30T12:41:01.561Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        499
+                    ],
+                    [
+                        652,
+                        499
+                    ],
+                    [
+                        649,
+                        520
+                    ],
+                    [
+                        605,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77174599,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:01.561Z",
+            "updatedAt": "2023-10-30T12:41:01.561Z",
+            "tags": [
+                {
+                    "id": 44356235,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "KL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:01.561Z",
+                    "updatedAt": "2023-10-30T12:41:01.561Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        468
+                    ],
+                    [
+                        213,
+                        476
+                    ],
+                    [
+                        222,
+                        486
+                    ],
+                    [
+                        231,
+                        493
+                    ],
+                    [
+                        239,
+                        499
+                    ],
+                    [
+                        217,
+                        509
+                    ],
+                    [
+                        208,
+                        505
+                    ],
+                    [
+                        200,
+                        497
+                    ],
+                    [
+                        192,
+                        487
+                    ],
+                    [
+                        184,
+                        477
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

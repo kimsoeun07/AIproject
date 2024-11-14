@@ -1,0 +1,192 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 875,
+        "width": 642
+    },
+    "objects": [
+        {
+            "id": 77178137,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.384Z",
+            "updatedAt": "2023-10-30T12:42:16.384Z",
+            "tags": [
+                {
+                    "id": 44359773,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.384Z",
+                    "updatedAt": "2023-10-30T12:42:16.384Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        536
+                    ],
+                    [
+                        158,
+                        536
+                    ],
+                    [
+                        174,
+                        536
+                    ],
+                    [
+                        174,
+                        555
+                    ],
+                    [
+                        158,
+                        555
+                    ],
+                    [
+                        141,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178136,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.383Z",
+            "updatedAt": "2023-10-30T12:42:16.383Z",
+            "tags": [
+                {
+                    "id": 44359772,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CEME",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.383Z",
+                    "updatedAt": "2023-10-30T12:42:16.383Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        99
+                    ],
+                    [
+                        175,
+                        79
+                    ],
+                    [
+                        226,
+                        67
+                    ],
+                    [
+                        278,
+                        66
+                    ],
+                    [
+                        329,
+                        65
+                    ],
+                    [
+                        334,
+                        160
+                    ],
+                    [
+                        291,
+                        159
+                    ],
+                    [
+                        247,
+                        165
+                    ],
+                    [
+                        201,
+                        179
+                    ],
+                    [
+                        158,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178135,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.382Z",
+            "updatedAt": "2023-10-30T12:42:16.382Z",
+            "tags": [
+                {
+                    "id": 44359771,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TERY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.382Z",
+                    "updatedAt": "2023-10-30T12:42:16.382Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        78
+                    ],
+                    [
+                        397,
+                        91
+                    ],
+                    [
+                        433,
+                        114
+                    ],
+                    [
+                        467,
+                        137
+                    ],
+                    [
+                        498,
+                        163
+                    ],
+                    [
+                        477,
+                        213
+                    ],
+                    [
+                        447,
+                        197
+                    ],
+                    [
+                        418,
+                        180
+                    ],
+                    [
+                        389,
+                        169
+                    ],
+                    [
+                        360,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

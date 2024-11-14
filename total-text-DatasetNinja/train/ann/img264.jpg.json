@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 757
+    },
+    "objects": [
+        {
+            "id": 77179785,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.948Z",
+            "updatedAt": "2023-10-30T12:44:08.948Z",
+            "tags": [
+                {
+                    "id": 44361421,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "AKIHABARA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.948Z",
+                    "updatedAt": "2023-10-30T12:44:08.948Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        19
+                    ],
+                    [
+                        295,
+                        14
+                    ],
+                    [
+                        400,
+                        14
+                    ],
+                    [
+                        514,
+                        31
+                    ],
+                    [
+                        607,
+                        66
+                    ],
+                    [
+                        602,
+                        121
+                    ],
+                    [
+                        501,
+                        96
+                    ],
+                    [
+                        396,
+                        78
+                    ],
+                    [
+                        296,
+                        76
+                    ],
+                    [
+                        190,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179784,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:44:08.947Z",
+            "updatedAt": "2023-10-30T12:44:08.947Z",
+            "tags": [
+                {
+                    "id": 44361420,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GAMERS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:44:08.947Z",
+                    "updatedAt": "2023-10-30T12:44:08.947Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        100
+                    ],
+                    [
+                        220,
+                        109
+                    ],
+                    [
+                        388,
+                        123
+                    ],
+                    [
+                        558,
+                        136
+                    ],
+                    [
+                        721,
+                        164
+                    ],
+                    [
+                        689,
+                        232
+                    ],
+                    [
+                        530,
+                        222
+                    ],
+                    [
+                        365,
+                        210
+                    ],
+                    [
+                        199,
+                        201
+                    ],
+                    [
+                        42,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

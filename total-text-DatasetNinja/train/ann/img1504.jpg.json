@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 77178702,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.247Z",
+            "updatedAt": "2023-10-30T12:42:27.247Z",
+            "tags": [
+                {
+                    "id": 44360338,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CHICHEN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.247Z",
+                    "updatedAt": "2023-10-30T12:42:27.247Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        53
+                    ],
+                    [
+                        95,
+                        53
+                    ],
+                    [
+                        110,
+                        50
+                    ],
+                    [
+                        127,
+                        49
+                    ],
+                    [
+                        144,
+                        47
+                    ],
+                    [
+                        145,
+                        58
+                    ],
+                    [
+                        130,
+                        60
+                    ],
+                    [
+                        113,
+                        63
+                    ],
+                    [
+                        96,
+                        65
+                    ],
+                    [
+                        79,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178701,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.247Z",
+            "updatedAt": "2023-10-30T12:42:27.247Z",
+            "tags": [
+                {
+                    "id": 44360337,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ITZA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.247Z",
+                    "updatedAt": "2023-10-30T12:42:27.247Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        41
+                    ],
+                    [
+                        158,
+                        41
+                    ],
+                    [
+                        170,
+                        39
+                    ],
+                    [
+                        179,
+                        38
+                    ],
+                    [
+                        186,
+                        36
+                    ],
+                    [
+                        189,
+                        50
+                    ],
+                    [
+                        179,
+                        54
+                    ],
+                    [
+                        168,
+                        54
+                    ],
+                    [
+                        157,
+                        55
+                    ],
+                    [
+                        148,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178700,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:27.246Z",
+            "updatedAt": "2023-10-30T12:42:27.246Z",
+            "tags": [
+                {
+                    "id": 44360336,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BIENVENIDOS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:27.246Z",
+                    "updatedAt": "2023-10-30T12:42:27.246Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        130
+                    ],
+                    [
+                        76,
+                        117
+                    ],
+                    [
+                        123,
+                        114
+                    ],
+                    [
+                        173,
+                        115
+                    ],
+                    [
+                        217,
+                        114
+                    ],
+                    [
+                        214,
+                        140
+                    ],
+                    [
+                        173,
+                        142
+                    ],
+                    [
+                        122,
+                        139
+                    ],
+                    [
+                        72,
+                        140
+                    ],
+                    [
+                        31,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

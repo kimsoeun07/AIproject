@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 583
+    },
+    "objects": [
+        {
+            "id": 77178109,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.380Z",
+            "updatedAt": "2023-10-30T12:42:16.380Z",
+            "tags": [
+                {
+                    "id": 44359745,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SANIKA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.380Z",
+                    "updatedAt": "2023-10-30T12:42:16.380Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        220
+                    ],
+                    [
+                        168,
+                        172
+                    ],
+                    [
+                        206,
+                        149
+                    ],
+                    [
+                        242,
+                        137
+                    ],
+                    [
+                        277,
+                        136
+                    ],
+                    [
+                        284,
+                        180
+                    ],
+                    [
+                        256,
+                        179
+                    ],
+                    [
+                        227,
+                        187
+                    ],
+                    [
+                        197,
+                        208
+                    ],
+                    [
+                        169,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178108,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.379Z",
+            "updatedAt": "2023-10-30T12:42:16.379Z",
+            "tags": [
+                {
+                    "id": 44359744,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARK",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.379Z",
+                    "updatedAt": "2023-10-30T12:42:16.379Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        139
+                    ],
+                    [
+                        362,
+                        148
+                    ],
+                    [
+                        390,
+                        152
+                    ],
+                    [
+                        412,
+                        179
+                    ],
+                    [
+                        437,
+                        209
+                    ],
+                    [
+                        398,
+                        235
+                    ],
+                    [
+                        380,
+                        218
+                    ],
+                    [
+                        359,
+                        202
+                    ],
+                    [
+                        343,
+                        189
+                    ],
+                    [
+                        324,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

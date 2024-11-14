@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 848,
+        "width": 1094
+    },
+    "objects": [
+        {
+            "id": 77180885,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.517Z",
+            "updatedAt": "2023-10-30T12:45:53.517Z",
+            "tags": [
+                {
+                    "id": 44362166,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CREPES",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.517Z",
+                    "updatedAt": "2023-10-30T12:45:53.517Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        197
+                    ],
+                    [
+                        329,
+                        135
+                    ],
+                    [
+                        484,
+                        129
+                    ],
+                    [
+                        641,
+                        149
+                    ],
+                    [
+                        794,
+                        222
+                    ],
+                    [
+                        735,
+                        285
+                    ],
+                    [
+                        605,
+                        225
+                    ],
+                    [
+                        477,
+                        205
+                    ],
+                    [
+                        346,
+                        217
+                    ],
+                    [
+                        222,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

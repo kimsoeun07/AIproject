@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1067,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77179077,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.843Z",
+            "updatedAt": "2023-10-30T12:43:47.843Z",
+            "tags": [
+                {
+                    "id": 44360713,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WASMUNDS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.843Z",
+                    "updatedAt": "2023-10-30T12:43:47.843Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        300
+                    ],
+                    [
+                        574,
+                        141
+                    ],
+                    [
+                        782,
+                        108
+                    ],
+                    [
+                        987,
+                        134
+                    ],
+                    [
+                        1190,
+                        271
+                    ],
+                    [
+                        1132,
+                        389
+                    ],
+                    [
+                        968,
+                        303
+                    ],
+                    [
+                        798,
+                        260
+                    ],
+                    [
+                        628,
+                        314
+                    ],
+                    [
+                        463,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179076,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.842Z",
+            "updatedAt": "2023-10-30T12:43:47.842Z",
+            "tags": [
+                {
+                    "id": 44360712,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.842Z",
+                    "updatedAt": "2023-10-30T12:43:47.842Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        496
+                    ],
+                    [
+                        628,
+                        341
+                    ],
+                    [
+                        692,
+                        428
+                    ],
+                    [
+                        331,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

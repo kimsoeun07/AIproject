@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 672
+    },
+    "objects": [
+        {
+            "id": 77178049,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.362Z",
+            "updatedAt": "2023-10-30T12:42:16.362Z",
+            "tags": [
+                {
+                    "id": 44359685,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "SOUTHPORT",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.362Z",
+                    "updatedAt": "2023-10-30T12:42:16.362Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        216
+                    ],
+                    [
+                        240,
+                        136
+                    ],
+                    [
+                        350,
+                        118
+                    ],
+                    [
+                        456,
+                        175
+                    ],
+                    [
+                        505,
+                        276
+                    ],
+                    [
+                        446,
+                        282
+                    ],
+                    [
+                        411,
+                        213
+                    ],
+                    [
+                        354,
+                        183
+                    ],
+                    [
+                        299,
+                        190
+                    ],
+                    [
+                        264,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178048,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.361Z",
+            "updatedAt": "2023-10-30T12:42:16.361Z",
+            "tags": [
+                {
+                    "id": 44359684,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LANES",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.359Z",
+                    "updatedAt": "2023-10-30T12:42:16.359Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        266
+                    ],
+                    [
+                        273,
+                        285
+                    ],
+                    [
+                        280,
+                        305
+                    ],
+                    [
+                        291,
+                        325
+                    ],
+                    [
+                        311,
+                        346
+                    ],
+                    [
+                        270,
+                        395
+                    ],
+                    [
+                        232,
+                        366
+                    ],
+                    [
+                        217,
+                        334
+                    ],
+                    [
+                        203,
+                        298
+                    ],
+                    [
+                        194,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178047,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.356Z",
+            "updatedAt": "2023-10-30T12:42:16.356Z",
+            "tags": [
+                {
+                    "id": 44359683,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BILLARDS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.355Z",
+                    "updatedAt": "2023-10-30T12:42:16.355Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        365
+                    ],
+                    [
+                        388,
+                        362
+                    ],
+                    [
+                        418,
+                        351
+                    ],
+                    [
+                        441,
+                        322
+                    ],
+                    [
+                        458,
+                        299
+                    ],
+                    [
+                        512,
+                        325
+                    ],
+                    [
+                        480,
+                        403
+                    ],
+                    [
+                        449,
+                        425
+                    ],
+                    [
+                        420,
+                        436
+                    ],
+                    [
+                        387,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

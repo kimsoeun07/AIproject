@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 736
+    },
+    "objects": [
+        {
+            "id": 77181059,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.229Z",
+            "updatedAt": "2023-10-30T12:46:03.229Z",
+            "tags": [
+                {
+                    "id": 44362340,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "DENE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.229Z",
+                    "updatedAt": "2023-10-30T12:46:03.229Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        217
+                    ],
+                    [
+                        307,
+                        202
+                    ],
+                    [
+                        359,
+                        200
+                    ],
+                    [
+                        415,
+                        203
+                    ],
+                    [
+                        465,
+                        210
+                    ],
+                    [
+                        461,
+                        262
+                    ],
+                    [
+                        410,
+                        256
+                    ],
+                    [
+                        362,
+                        255
+                    ],
+                    [
+                        312,
+                        256
+                    ],
+                    [
+                        264,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77181058,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:03.228Z",
+            "updatedAt": "2023-10-30T12:46:03.228Z",
+            "tags": [
+                {
+                    "id": 44362339,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VALLEY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:03.228Z",
+                    "updatedAt": "2023-10-30T12:46:03.228Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        288
+                    ],
+                    [
+                        280,
+                        263
+                    ],
+                    [
+                        354,
+                        254
+                    ],
+                    [
+                        430,
+                        260
+                    ],
+                    [
+                        506,
+                        278
+                    ],
+                    [
+                        491,
+                        327
+                    ],
+                    [
+                        427,
+                        315
+                    ],
+                    [
+                        362,
+                        311
+                    ],
+                    [
+                        296,
+                        321
+                    ],
+                    [
+                        232,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 77182492,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.938Z",
+            "updatedAt": "2023-10-30T12:46:46.938Z",
+            "tags": [
+                {
+                    "id": 44363773,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CONVENTRY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.938Z",
+                    "updatedAt": "2023-10-30T12:46:46.938Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        193
+                    ],
+                    [
+                        254,
+                        195
+                    ],
+                    [
+                        267,
+                        195
+                    ],
+                    [
+                        283,
+                        196
+                    ],
+                    [
+                        295,
+                        193
+                    ],
+                    [
+                        295,
+                        207
+                    ],
+                    [
+                        282,
+                        207
+                    ],
+                    [
+                        268,
+                        208
+                    ],
+                    [
+                        253,
+                        208
+                    ],
+                    [
+                        240,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182491,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.938Z",
+            "updatedAt": "2023-10-30T12:46:46.938Z",
+            "tags": [
+                {
+                    "id": 44363772,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WEST",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.938Z",
+                    "updatedAt": "2023-10-30T12:46:46.938Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        144
+                    ],
+                    [
+                        225,
+                        120
+                    ],
+                    [
+                        263,
+                        111
+                    ],
+                    [
+                        303,
+                        121
+                    ],
+                    [
+                        336,
+                        139
+                    ],
+                    [
+                        314,
+                        161
+                    ],
+                    [
+                        291,
+                        145
+                    ],
+                    [
+                        265,
+                        141
+                    ],
+                    [
+                        244,
+                        146
+                    ],
+                    [
+                        219,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77182490,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:46:46.937Z",
+            "updatedAt": "2023-10-30T12:46:46.937Z",
+            "tags": [
+                {
+                    "id": 44363771,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ORCHARDS",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:46:46.937Z",
+                    "updatedAt": "2023-10-30T12:46:46.937Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        188
+                    ],
+                    [
+                        223,
+                        248
+                    ],
+                    [
+                        275,
+                        269
+                    ],
+                    [
+                        321,
+                        242
+                    ],
+                    [
+                        334,
+                        191
+                    ],
+                    [
+                        360,
+                        188
+                    ],
+                    [
+                        346,
+                        260
+                    ],
+                    [
+                        269,
+                        296
+                    ],
+                    [
+                        201,
+                        273
+                    ],
+                    [
+                        176,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

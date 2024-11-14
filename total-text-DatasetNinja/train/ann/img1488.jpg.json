@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 213,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 77178246,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.952Z",
+            "updatedAt": "2023-10-30T12:42:21.952Z",
+            "tags": [
+                {
+                    "id": 44359882,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "BOLIVIAN",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.952Z",
+                    "updatedAt": "2023-10-30T12:42:21.952Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        98
+                    ],
+                    [
+                        116,
+                        87
+                    ],
+                    [
+                        130,
+                        79
+                    ],
+                    [
+                        146,
+                        73
+                    ],
+                    [
+                        160,
+                        70
+                    ],
+                    [
+                        162,
+                        79
+                    ],
+                    [
+                        149,
+                        85
+                    ],
+                    [
+                        134,
+                        92
+                    ],
+                    [
+                        119,
+                        99
+                    ],
+                    [
+                        106,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77178245,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:21.951Z",
+            "updatedAt": "2023-10-30T12:42:21.951Z",
+            "tags": [
+                {
+                    "id": 44359881,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EMBASSY",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:21.951Z",
+                    "updatedAt": "2023-10-30T12:42:21.951Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        69
+                    ],
+                    [
+                        181,
+                        70
+                    ],
+                    [
+                        198,
+                        70
+                    ],
+                    [
+                        213,
+                        73
+                    ],
+                    [
+                        229,
+                        83
+                    ],
+                    [
+                        220,
+                        90
+                    ],
+                    [
+                        206,
+                        85
+                    ],
+                    [
+                        193,
+                        81
+                    ],
+                    [
+                        179,
+                        79
+                    ],
+                    [
+                        165,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 590,
+        "width": 882
+    },
+    "objects": [
+        {
+            "id": 77175821,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.014Z",
+            "updatedAt": "2023-10-30T12:41:22.014Z",
+            "tags": [
+                {
+                    "id": 44357457,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MAISON",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.014Z",
+                    "updatedAt": "2023-10-30T12:41:22.014Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        217
+                    ],
+                    [
+                        172,
+                        122
+                    ],
+                    [
+                        211,
+                        71
+                    ],
+                    [
+                        249,
+                        45
+                    ],
+                    [
+                        287,
+                        23
+                    ],
+                    [
+                        305,
+                        72
+                    ],
+                    [
+                        276,
+                        81
+                    ],
+                    [
+                        242,
+                        104
+                    ],
+                    [
+                        200,
+                        161
+                    ],
+                    [
+                        186,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77175820,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:41:22.014Z",
+            "updatedAt": "2023-10-30T12:41:22.014Z",
+            "tags": [
+                {
+                    "id": 44357456,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CENTRALE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:41:22.013Z",
+                    "updatedAt": "2023-10-30T12:41:22.013Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        13
+                    ],
+                    [
+                        439,
+                        35
+                    ],
+                    [
+                        499,
+                        71
+                    ],
+                    [
+                        547,
+                        142
+                    ],
+                    [
+                        563,
+                        213
+                    ],
+                    [
+                        528,
+                        221
+                    ],
+                    [
+                        502,
+                        142
+                    ],
+                    [
+                        459,
+                        96
+                    ],
+                    [
+                        402,
+                        63
+                    ],
+                    [
+                        337,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

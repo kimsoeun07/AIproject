@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 353,
+        "width": 557
+    },
+    "objects": [
+        {
+            "id": 77178112,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:16.381Z",
+            "updatedAt": "2023-10-30T12:42:16.381Z",
+            "tags": [
+                {
+                    "id": 44359748,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ADVENTURELAND",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:16.380Z",
+                    "updatedAt": "2023-10-30T12:42:16.380Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        243
+                    ],
+                    [
+                        171,
+                        202
+                    ],
+                    [
+                        271,
+                        185
+                    ],
+                    [
+                        373,
+                        185
+                    ],
+                    [
+                        474,
+                        194
+                    ],
+                    [
+                        475,
+                        241
+                    ],
+                    [
+                        375,
+                        225
+                    ],
+                    [
+                        272,
+                        225
+                    ],
+                    [
+                        172,
+                        240
+                    ],
+                    [
+                        70,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

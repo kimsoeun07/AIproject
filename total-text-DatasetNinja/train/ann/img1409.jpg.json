@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 731,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77177482,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.854Z",
+            "updatedAt": "2023-10-30T12:42:06.854Z",
+            "tags": [
+                {
+                    "id": 44359118,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "WINE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.854Z",
+                    "updatedAt": "2023-10-30T12:42:06.854Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        494
+                    ],
+                    [
+                        329,
+                        496
+                    ],
+                    [
+                        346,
+                        496
+                    ],
+                    [
+                        367,
+                        496
+                    ],
+                    [
+                        386,
+                        494
+                    ],
+                    [
+                        386,
+                        523
+                    ],
+                    [
+                        368,
+                        523
+                    ],
+                    [
+                        348,
+                        523
+                    ],
+                    [
+                        329,
+                        523
+                    ],
+                    [
+                        310,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177481,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.853Z",
+            "updatedAt": "2023-10-30T12:42:06.853Z",
+            "tags": [
+                {
+                    "id": 44359117,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "VINOTHEQUE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.853Z",
+                    "updatedAt": "2023-10-30T12:42:06.853Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        445
+                    ],
+                    [
+                        329,
+                        393
+                    ],
+                    [
+                        395,
+                        374
+                    ],
+                    [
+                        458,
+                        401
+                    ],
+                    [
+                        490,
+                        455
+                    ],
+                    [
+                        466,
+                        460
+                    ],
+                    [
+                        439,
+                        418
+                    ],
+                    [
+                        397,
+                        399
+                    ],
+                    [
+                        353,
+                        412
+                    ],
+                    [
+                        329,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77177480,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:42:06.853Z",
+            "updatedAt": "2023-10-30T12:42:06.853Z",
+            "tags": [
+                {
+                    "id": 44359116,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "TASTING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:42:06.852Z",
+                    "updatedAt": "2023-10-30T12:42:06.852Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        532
+                    ],
+                    [
+                        378,
+                        534
+                    ],
+                    [
+                        412,
+                        535
+                    ],
+                    [
+                        445,
+                        536
+                    ],
+                    [
+                        475,
+                        539
+                    ],
+                    [
+                        476,
+                        562
+                    ],
+                    [
+                        443,
+                        561
+                    ],
+                    [
+                        410,
+                        561
+                    ],
+                    [
+                        379,
+                        561
+                    ],
+                    [
+                        347,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1123,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 77179060,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.838Z",
+            "updatedAt": "2023-10-30T12:43:47.838Z",
+            "tags": [
+                {
+                    "id": 44360696,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MUSEUM",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.838Z",
+                    "updatedAt": "2023-10-30T12:43:47.838Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        173
+                    ],
+                    [
+                        292,
+                        131
+                    ],
+                    [
+                        418,
+                        95
+                    ],
+                    [
+                        551,
+                        72
+                    ],
+                    [
+                        670,
+                        64
+                    ],
+                    [
+                        668,
+                        132
+                    ],
+                    [
+                        543,
+                        159
+                    ],
+                    [
+                        406,
+                        190
+                    ],
+                    [
+                        279,
+                        214
+                    ],
+                    [
+                        151,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179059,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.838Z",
+            "updatedAt": "2023-10-30T12:43:47.838Z",
+            "tags": [
+                {
+                    "id": 44360695,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GEOLOGI",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.837Z",
+                    "updatedAt": "2023-10-30T12:43:47.837Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        962,
+                        71
+                    ],
+                    [
+                        1082,
+                        90
+                    ],
+                    [
+                        1209,
+                        112
+                    ],
+                    [
+                        1329,
+                        144
+                    ],
+                    [
+                        1450,
+                        179
+                    ],
+                    [
+                        1454,
+                        244
+                    ],
+                    [
+                        1333,
+                        204
+                    ],
+                    [
+                        1210,
+                        176
+                    ],
+                    [
+                        1085,
+                        148
+                    ],
+                    [
+                        963,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

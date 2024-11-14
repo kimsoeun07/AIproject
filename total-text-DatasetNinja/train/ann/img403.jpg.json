@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 307,
+        "width": 409
+    },
+    "objects": [
+        {
+            "id": 77180339,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.031Z",
+            "updatedAt": "2023-10-30T12:45:46.031Z",
+            "tags": [
+                {
+                    "id": 44361975,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "PARADISE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.031Z",
+                    "updatedAt": "2023-10-30T12:45:46.031Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        101
+                    ],
+                    [
+                        84,
+                        78
+                    ],
+                    [
+                        141,
+                        67
+                    ],
+                    [
+                        199,
+                        67
+                    ],
+                    [
+                        256,
+                        67
+                    ],
+                    [
+                        255,
+                        120
+                    ],
+                    [
+                        205,
+                        115
+                    ],
+                    [
+                        155,
+                        115
+                    ],
+                    [
+                        107,
+                        125
+                    ],
+                    [
+                        58,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180338,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.031Z",
+            "updatedAt": "2023-10-30T12:45:46.031Z",
+            "tags": [
+                {
+                    "id": 44361974,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "CAFE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.031Z",
+                    "updatedAt": "2023-10-30T12:45:46.031Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        71
+                    ],
+                    [
+                        297,
+                        79
+                    ],
+                    [
+                        318,
+                        87
+                    ],
+                    [
+                        340,
+                        97
+                    ],
+                    [
+                        359,
+                        107
+                    ],
+                    [
+                        347,
+                        151
+                    ],
+                    [
+                        327,
+                        144
+                    ],
+                    [
+                        306,
+                        133
+                    ],
+                    [
+                        284,
+                        126
+                    ],
+                    [
+                        264,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180337,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:46.030Z",
+            "updatedAt": "2023-10-30T12:45:46.030Z",
+            "tags": [
+                {
+                    "id": 44361973,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GATHERING",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:46.029Z",
+                    "updatedAt": "2023-10-30T12:45:46.029Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        190
+                    ],
+                    [
+                        148,
+                        191
+                    ],
+                    [
+                        198,
+                        191
+                    ],
+                    [
+                        249,
+                        191
+                    ],
+                    [
+                        301,
+                        190
+                    ],
+                    [
+                        306,
+                        231
+                    ],
+                    [
+                        256,
+                        231
+                    ],
+                    [
+                        204,
+                        230
+                    ],
+                    [
+                        150,
+                        231
+                    ],
+                    [
+                        100,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

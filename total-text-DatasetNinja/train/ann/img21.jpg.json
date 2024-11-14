@@ -1,0 +1,188 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 77179393,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.805Z",
+            "updatedAt": "2023-10-30T12:43:54.805Z",
+            "tags": [
+                {
+                    "id": 44361029,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "MELUR",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.804Z",
+                    "updatedAt": "2023-10-30T12:43:54.804Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        552
+                    ],
+                    [
+                        224,
+                        525
+                    ],
+                    [
+                        319,
+                        511
+                    ],
+                    [
+                        415,
+                        502
+                    ],
+                    [
+                        506,
+                        501
+                    ],
+                    [
+                        523,
+                        628
+                    ],
+                    [
+                        427,
+                        650
+                    ],
+                    [
+                        332,
+                        663
+                    ],
+                    [
+                        236,
+                        678
+                    ],
+                    [
+                        139,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179392,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.803Z",
+            "updatedAt": "2023-10-30T12:43:54.803Z",
+            "tags": [
+                {
+                    "id": 44361028,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "#",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.803Z",
+                    "updatedAt": "2023-10-30T12:43:54.803Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        505
+                    ],
+                    [
+                        614,
+                        502
+                    ],
+                    [
+                        632,
+                        624
+                    ],
+                    [
+                        574,
+                        622
+                    ],
+                    [
+                        568,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179391,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:54.803Z",
+            "updatedAt": "2023-10-30T12:43:54.803Z",
+            "tags": [
+                {
+                    "id": 44361027,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "THYME",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:54.803Z",
+                    "updatedAt": "2023-10-30T12:43:54.803Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        652,
+                        489
+                    ],
+                    [
+                        730,
+                        491
+                    ],
+                    [
+                        812,
+                        492
+                    ],
+                    [
+                        894,
+                        501
+                    ],
+                    [
+                        973,
+                        519
+                    ],
+                    [
+                        956,
+                        639
+                    ],
+                    [
+                        888,
+                        633
+                    ],
+                    [
+                        806,
+                        626
+                    ],
+                    [
+                        733,
+                        622
+                    ],
+                    [
+                        653,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

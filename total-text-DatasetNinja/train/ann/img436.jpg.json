@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2977,
+        "width": 3802
+    },
+    "objects": [
+        {
+            "id": 77180839,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.512Z",
+            "updatedAt": "2023-10-30T12:45:53.512Z",
+            "tags": [
+                {
+                    "id": 44362120,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "FANDANGO",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.512Z",
+                    "updatedAt": "2023-10-30T12:45:53.512Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        2775,
+                        2490
+                    ],
+                    [
+                        2866,
+                        2471
+                    ],
+                    [
+                        2957,
+                        2469
+                    ],
+                    [
+                        3051,
+                        2494
+                    ],
+                    [
+                        3141,
+                        2543
+                    ],
+                    [
+                        3104,
+                        2607
+                    ],
+                    [
+                        3030,
+                        2549
+                    ],
+                    [
+                        2957,
+                        2527
+                    ],
+                    [
+                        2883,
+                        2534
+                    ],
+                    [
+                        2812,
+                        2564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180838,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.511Z",
+            "updatedAt": "2023-10-30T12:45:53.511Z",
+            "tags": [
+                {
+                    "id": 44362119,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "ENTRANCE",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.510Z",
+                    "updatedAt": "2023-10-30T12:45:53.510Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        2770,
+                        2633
+                    ],
+                    [
+                        2843,
+                        2629
+                    ],
+                    [
+                        2917,
+                        2626
+                    ],
+                    [
+                        2992,
+                        2625
+                    ],
+                    [
+                        3067,
+                        2617
+                    ],
+                    [
+                        3083,
+                        2697
+                    ],
+                    [
+                        3006,
+                        2693
+                    ],
+                    [
+                        2928,
+                        2690
+                    ],
+                    [
+                        2851,
+                        2694
+                    ],
+                    [
+                        2775,
+                        2702
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77180837,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:45:53.510Z",
+            "updatedAt": "2023-10-30T12:45:53.510Z",
+            "tags": [
+                {
+                    "id": 44362118,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "EL",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:45:53.510Z",
+                    "updatedAt": "2023-10-30T12:45:53.510Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        2669,
+                        2570
+                    ],
+                    [
+                        2692,
+                        2561
+                    ],
+                    [
+                        2713,
+                        2543
+                    ],
+                    [
+                        2734,
+                        2535
+                    ],
+                    [
+                        2757,
+                        2531
+                    ],
+                    [
+                        2795,
+                        2563
+                    ],
+                    [
+                        2779,
+                        2569
+                    ],
+                    [
+                        2758,
+                        2584
+                    ],
+                    [
+                        2737,
+                        2603
+                    ],
+                    [
+                        2717,
+                        2619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

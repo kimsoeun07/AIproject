@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 768,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 77179056,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.835Z",
+            "updatedAt": "2023-10-30T12:43:47.835Z",
+            "tags": [
+                {
+                    "id": 44360692,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "GEMBIRA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.835Z",
+                    "updatedAt": "2023-10-30T12:43:47.835Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        57
+                    ],
+                    [
+                        308,
+                        32
+                    ],
+                    [
+                        403,
+                        18
+                    ],
+                    [
+                        493,
+                        12
+                    ],
+                    [
+                        586,
+                        7
+                    ],
+                    [
+                        593,
+                        67
+                    ],
+                    [
+                        503,
+                        80
+                    ],
+                    [
+                        409,
+                        89
+                    ],
+                    [
+                        315,
+                        105
+                    ],
+                    [
+                        228,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 77179055,
+            "classId": 6489191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-30T12:43:47.834Z",
+            "updatedAt": "2023-10-30T12:43:47.834Z",
+            "tags": [
+                {
+                    "id": 44360691,
+                    "tagId": 25648,
+                    "name": "text",
+                    "value": "LOKA",
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2023-10-30T12:43:47.834Z",
+                    "updatedAt": "2023-10-30T12:43:47.834Z"
+                }
+            ],
+            "classTitle": "text",
+            "points": {
+                "exterior": [
+                    [
+                        664,
+                        10
+                    ],
+                    [
+                        713,
+                        14
+                    ],
+                    [
+                        765,
+                        24
+                    ],
+                    [
+                        813,
+                        32
+                    ],
+                    [
+                        854,
+                        45
+                    ],
+                    [
+                        850,
+                        113
+                    ],
+                    [
+                        803,
+                        103
+                    ],
+                    [
+                        756,
+                        92
+                    ],
+                    [
+                        707,
+                        81
+                    ],
+                    [
+                        664,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
